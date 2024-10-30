@@ -1,0 +1,323 @@
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+Nature Foodvolume3,pages523–531 (2022)Cite this article
+9178Accesses
+13Citations
+64Altmetric
+Metricsdetails
+Climate change is increasingly putting milk production from cattle-based dairy systems in north sub-Saharan Africa (NSSA) under stress, threatening livelihoods and food security. Here we combine livestock heat stress frequency, dry matter feed production and water accessibility data to understand where environmental changes in NSSA’s drylands are jeopardizing cattle milk production. We show that environmental conditions worsened for∼17% of the study area. Increasing goat and camel populations by∼14% (∼7.7 million) and∼10% (∼1.2 million), respectively, while reducing the dairy cattle population by∼24% (∼5.9 million), could result in∼0.14 Mt (+5.7%) higher milk production, lower water (−1,683.6 million m3, −15.3%) and feed resource (−404.3 Mt, −11.2%) demand—and lower dairy emissions by∼1,224.6 MtCO2e (−7.9%). Shifting herd composition from cattle towards the inclusion of, or replacement with, goats and camels can secure milk production and support NSSA’s dairy production resilience against climate change.
+Livestock-derived food products constitute about 35% of the agricultural gross domestic product (GDP) in north sub-Saharan Africa (NSSA)1,2and support the food security and livelihood of millions of people3. Within the livestock sector, dairy farming, which contributes∼28% to the livestock sector GDP (ranging from 12% in West Africa to 45% in East Africa)4, is a promising livelihood option for poor households in NSSA. Moreover, dairy products contribute to food security of many communities in the arid and semi-arid lands by supplying essential nutrients5, and provide∼5% of the total energy requirements of households in NSSA6. The majority of milk production in SSA occurs in NSSA (∼86% of total SSA milk production in 2019–2020), where the production has increased substantially over the past four decades (by∼3.3% per year, reaching∼30 Mt, with∼65% of the total milk production coming from cattle,∼25% from small ruminants and∼10% from camels)6. This production increase is largely driven by increased livestock population rather than increased livestock productivity. Demand for milk has increased by 4.0% per annum in the last decades, pushed by both human population growth (of 2.8% per annum) and changes in per-capita consumption (0.8% per annum)7. Demand for dairy products is projected to triple by 2050 relative to the consumption levels of 20008. Most of the supply (∼90%) comes from traditional mixed crop–livestock and extensive pastoral systems9. However, the ability of these systems to sustainably produce sufficient milk to meet these demands is increasingly being challenged by the impacts of climate-related stressors on feed production, water access, heat stress and disease risks10,11.
+The climate in NSSA has already changed during the past several decades and is expected to continue to change12,13,14,15,16,17,18,19,20,21,22. Such changes are expected to affect livestock feed availability23,24, water resource availability16,25and thermal comfort26,27in many of the drylands in NSSA. Analysis of historical (1981–2010) and future climate projections (2021–2050 and 2071–2100), for example, shows that∼11–15% of current milk production in the East Africa occurs in areas where the frequency of detrimental heat stress events are expected to increase significantly (P≤ 0.05) by 2071–210027.
+Given the likely impacts of climate change on livestock systems, and the fact that pastoralist societies in the region are among the most vulnerable groups in the world28,29, a key question regarding sustainable milk production is whether current livestock systems are appropriate for dealing with future environmental challenges. When considering adaptation options, it is necessary also to take environmental impacts into account because dairy farming in SSA already maintains the highest greenhouse gas (GHG) emissions per kg of fat and protein corrected milk (FPCM) in comparison to other parts of the world (7.5 CO2equivalent (CO2e) per kg FPCM versus a global average of 2.4)30. There have been multiple reports documenting where pastoralist communities in drylands of NSSA (for example, Wodaâbe in Niger, Massaï in Kenya, Borana in Ethiopia, Nuer in South Sudan, and Fulani in West Africa) have adjusted their livestock composition in response to environmental extremes and changing ecological conditions, mostly by shifts from cattle to small ruminants (mainly goat) and/or camels31,32,33,34. Browsers (that is, camels and goats) in some pastoralist communities are preferred over grazers (that is, cattle) due to their greater climate resilience, resulting from their higher tolerance to drought and feed scarcity, as well as their capacity to produce milk and meat in all seasons33,35,36,37,38. The shifting preference for browsers (that is, favouring camels and goats over cattle) due to recent climate variability/change, and associated feed and water shortage was confirmed by over 71.5% of the interviewed households from a survey of the Borana community from Isiolo County, northern Kenya39.
+Whereas different livestock species have different climate resilience and tolerances40,41,42,43,44,45,46, location-specific data are required to assess where shifts in herd composition from currently cattle-dominated systems are needed to maintain or even increase dairy production in semi-arid and arid systems under climate change. Therefore, the aims of this study are (1) to assess where in the drylands of NSSA these shifts in herd composition are most likely to occur as an adaptive response to changes in climatic and biophysical conditions, and (2) to determine the possible impact of shifting dairy production from cattle to more climate-resilient goats and camels, in terms of aggregate milk production and environmental sustainability.
+For the current study, the annual dry matter biomass production (DMP; Modelling DMP), water accessibility (using the water accessibility index (WAI); Modelling WAI in theMethods) and heat stress (HS) frequency (Modelling HS frequency) were assessed for the period 2001–2020 using long-term climate and remotely sensed data for dryland NSSA (Datasets used in theMethods). Fig.1shows the simulated long-term averages of the three components and their regional trends over the 2001–2020 period.
+a–c, Long-term average annual DMP (a), WAI (b) and HS (c).d–f, Regional significant trends (P≤ 0.05) in DMP (d), WAI (e) and HS (f) over the past two decades (2001–2020).
+The long-term average annual DMP in the study area was∼30 t ha−1yr−1, ranging from almost zero in more arid lands of the north to∼53 t ha−1yr−1in the southern parts of NSSA. Trend analysis (Statistical test) showed that, apart from the greening zone in the Sahel47(∼19% of the study area), there were significant decreasing trends (P≤ 0.05) in DMP observed in∼9% of the study area.
+The annual WAI follows a different pattern and is related to the presence of water bodies, with an average of∼0.04 for the whole region. Areas with low (0–0.2) and high (0.8–1) WAI cover∼80% and∼3% of the study area, respectively (Fig.1b). The results showed a significant decreasing trend (P≤ 0.05) in WAI in∼15% of the study area. However, it should be noted that our WAI does not account for the presence of wells and groundwater resources due to lack of data and because surface water represents the dominant water source for livestock in NSSA.
+The average frequency of detrimental HS events for milk production during 2001–2020 was estimated at 77 days per year (∼21% of the year), and was more frequent in coastal areas of the Greater Horn region, where it exceeds 50% of the days in a given year. Figure1also shows that over the past two decades, the frequency of HS events detrimental to milk production has significantly increased (P≤ 0.05) in∼38% of the study area.
+We used the criteria explained inData analysisto assess where the changes in the aforementioned indicators of DMP, WAI and HS have significantly worsened the climatic and biophysical conditions for milk production from cattle in the Sahel and Greater Horn study area. Our results indicate that conditions have recently worsened in 17% of the study area (∼1.7 million km2) due to changes in environmental conditions (Fig.2). The affected area is home to∼14.2 million cattle,∼18.11 million goats and∼2.99 million camels.
+Quadrats A–J show the location of 10 case studies reporting shifts in herd composition from cattle to goats and camels: A, East Pokot, Kenya35,109,110,111; B, Isiolo County, Kenya39,109,110,111; C, Afar region, Ethiopia112,113,114; D, Ngorongoro, Tanzania115,116; E, Yabelo, Ethiopia112,113; F, Moyale, Ethiopia112,113,117; G, Jijiga, Ethiopia112,118; H, Guban zone, Somalia (Somaliland)119; I, Misseriyya communities, Sudan120,121,122; J, Kaduna and Kano states, Nigeria123,124.a–c, The shares for quadrats A–C.
+To provide corroboration and documentation of shifts in herd composition in the region, we conducted a comprehensive review of case studies for areas where pastoralists have already begun shifting from cattle to goats and camels to sustain their livelihood activities amid changing environmental conditions (case studies areas shown by dashed boxes in Fig.2). We found ten cases in dryland NSSA where the transition from cattle to goats and camels is already evident (East Pokot and Isiolo County in Kenya; Ngorongoro in Tanzania; Afar, Yabelo, Moyale and Jijiga in Ethiopia; Somaliland in Somalia; Misseriyya pastoralists in Sudan; Kaduna and Kano States in Nigeria) and these overlap with our identified areas of deteriorating conditions. On average, according to the Gridded Livestock of the World, v.3 (GLW3), dairy livestock species composition in these areas consisted of∼41% cattle,∼50% goat and∼9% camel in 2010 (for detailed information on dairy livestock species composition in each subregion, see Supplementary Table1).
+We modelled the impact of shifting livestock species composition on aggregate milk production and water/feed consumption of all dairy livestock across dryland NSSA. Furthermore, we assessed environmental impacts of shifts in herd composition across all species in the region. We prioritized milk production, followed by water/feed consumption and finally GHG emissions to identify the ‘ideal’ herd composition with the following features: (1) maximum productivity in terms of aggregate milk production, (2) lowest feed/water consumption and (3) lowest ruminant GHG emission across all three species in the entire study area. We also tested three extreme scenarios of shifting herd composition by considering the maximum possible reduction of cattle population in favour of camels and/or goats. We assumed that for arid regions all cattle may be replaced by camels and/or goats, while for semi-arid regions only half of the cattle population may be replaced. The latter scenarios were conducted to assess trade-offs among different possible herd compositions in the region.
+Results shown in Fig.3demonstrate that, overall, decreasing cattle population by∼24% and increasing goat and camel population by∼14 and∼10%, respectively, resulted in an ideal herd composition across all metrics assessed. Reducing the current cattle population by∼5.9 million and increasing goat and camel populations by∼7.7 million and∼1.2 million, respectively, not only achieves a slight increase in aggregate milk production (+0.14 Mt), but also results in an effective reduction in water (−1,683.6 million m3) and feed consumption (−404.3 Mt), and GHG emissions (−1,224.6 MtCO2e). In addition to ‘idealized’ scenarios where outcomes were optimized for both milk production and environmental benefits, we ran three ‘extreme’ scenarios that did not optimize based on all metrics. For these scenarios, we assumed that the shift from cattle occurred at the maximum possible rate (that is, 100% to camel, 100% to goat, 50% to camel/50% to goat), as shown in Fig.3. The three ‘extreme’ scenarios resulted in reduced benefits compared with the ‘idealized’ scenarios where all metrics were considered (for detailed results for each subregion, see Supplementary Table1). For example, in case of the 100% to goat scenario, although replacing 100% of cattle with goats has advantages in terms of feed usage (−15%), water consumption (−33%) and GHG emission (−9%), milk production in this scenario would drop by 26%.
+The results of the optimized and the three extreme scenarios for shifting from cattle to goat/camel to maintain the current milk production level and improve water/feed consumption and GHG emissions.
+Environmental changes have already undermined food security in cattle-dominated systems in dryland NSSA48,49,50. In general, this could be dealt with by reducing the number of cattle in areas where challenges are expected. Reductions in cattle could be accomplished either by shifting towards other, non-meat-based diets, or by shifting toward other livestock species, which could improve both food security and reduce emissions at the regional level. However, although reducing animal-sourced proteins has been shown to be important in improving diet and reducing emissions from intensive livestock systems in the Global North51, such reductions in NSSA and developing countries more generally need to be weighed against the critical role that animal proteins play in nutrition, particularly in pastoralist and agropastoral communities where undernutrition and malnutrition are common52. Therefore, achieving these goals through reduced consumption of animal-sourced protein is not appropriate in many parts of dryland NSSA53. A more viable option in these areas would be to change herd composition in favour of species that perform better under harsh environmental conditions (that is, camel and goat)54, while devoting more research to these issues. To fill the current knowledge gaps associated with simultaneous changes in climate and feed and water resource availability, this study uses the most reliable datasets available to demonstrate where in the study region shifts in herd composition are likely to be more pronounced (based on climatic and biophysical conditions), and to what extent switching from grazing- to browsing-dominated livestock may be beneficial in terms of milk production, water and feed consumption, and GHG emissions. Based on our results, milk production from cattle is expected to become more challenging in approximately one-fifth of the region due to changes in DMP, WAI and HS. The results of optimizing the herd composition in these regions indicate that shifting dairy production toward climate-resilient species (that is, goats and camels) may represent a ‘win–win’ scenario for dryland NSSA that not only increases aggregate milk production, but also decreases the environmental footprint of milk production in terms of water use, feed consumption and GHG emissions at the regional scale.
+Although we tried to comprehensively cover possible drivers, there may be other potential drivers such as changes in woody cover and groundwater level affecting herd composition for which there is limited data and process understanding at present. Based on available information about changes in woody cover derived from satellite passive microwave observations55, there has been an increasing trend in woody cover in∼46.5% of areas where challenges are expected (in 38% and 55% of subregions located in arid and semi-arid climate zones by 0–5% (on average +0.47%) and 0–14% (on average +0.51%), respectively) between 1992 and 2011. Although we did not consider this as a potential driving factor for shifts in herd composition due to the lack of spatially explicit data on changes in woody vegetation, the results reported here support the hypothesis that shifting dairy production to camels and goats may be more compatible with increases in woody vegetation56. With regard to groundwater as another source for watering of livestock, checking the output of the WaterGAP v.2.2d model for groundwater level changes during 2001–201657reveals that, for the majority of the areas where challenges are expected (∼90%), no significant changes (P≤ 0.05) were reported, while the trend was significantly (P≤ 0.05) increasing or decreasing in∼8% and∼2% of the region, respectively. Nevertheless, there is little to no reliable, comprehensive data on how much groundwater is used for the livestock sector, and how infrastructure for groundwater supply has changed in the last several decades58,59.
+In this study, it was assumed that energy values for milk across species were similar (262, 270 and 259 kJ per 100 g of milk for cattle, goat and camel, respectively5). However, other studies have shown that the chemical composition of milk (that is, fat, protein, ash, vitamins, etc.) from livestock differs between species60,61,62,63,64,65depending on feeding practice, breed differences, lactation stage, management, analytical procedures, etc.66,67,68,69. In general, camel milk is known for having lower saturated fat and lactose, and higher minerals and vitamins (especially vitamin C and B vitamins) compared with cattle milk70.
+Although our study focuses on the dairy sector, it is important to note that these recommendations may also affect other roles livestock plays in rural communities. This is specifically true for the meat sector, where according to a recent study for the post-2020 period, the percentage share of beef supplied by the dairy sector in SSA is required to increase by 8% (from 69% to 77%)71to meet overall demand for non-dairy animal proteins. In this way, both camel and goat, known as adapted multipurpose animals, could potentially play vital roles as meat protein sources. According to the FAO statistics for 2020, cattle, small ruminants and camels contributed∼36%,∼12% and∼3% to total meat production in NSSA, respectively. It is notable that the growth rate of camel and goat meat production in NSSA was higher than for cattle (camel, +4.7% yr−1; goat, +3.8% yr−1; cattle, +2.5% yr−1)6. Camel meat is nutritionally comparable to beef, with lower intramuscular fat and cholesterol content, and higher iron content72.
+A shift from grazers to browsers might also affect other ecosystem services. Some research indicates that long-term browsing by livestock (that is, camels and goats) and wildlife species in dryland ecosystems may support more diverse vegetation in general and a higher proportion of pasture grasses available for grazing livestock specifically73. Thus, it may also be profitable for people in areas that are currently not projected to be negatively affected by changes in environmental conditions to increase their livestock diversity to strengthen their resilience against climate extremes.
+Additionally, there are economic advantages from multispecies pastoralism because income diversification allows herders to better cope with economic, political and ecological instabilities. In some case studies, for example, it was shown that many households in the three most important Ethiopian pastoralist communities (the Afar in the northeast, the Borana in the south and the Somali in the east and southeast) have already diversified their income sources from livestock, to the extent that there are differences in household income depending on the extent of their engagement in multispecies herding38,74. Marketing and customer preferences for different goat and camel products vary greatly from one region to another, between rural and urban communities with different socioeconomic standards, and between different ethnic groups, and are changing over time. While in some regions milk production is of outstanding economic importance due to growing customer demand, in other regions meat production is the main revenue for livestock producers. For example, in Samburu County, Kenya, where camel rearing was not common historically, it has been reported that currently households prefer camel milk to other types of milk75. In the last decade, the market for goat and camel products has also substantially expanded in NSSA with increased demand and growing awareness of the health benefits of these products (specifically in the case of camel milk/meat)76. For instance, rapid growth in the demand for camel milk and the camel milk value chain has been reported in Somalia77. Nevertheless, there are still economic barriers to shifting from dairy cattle to goat or camel, particularly because female camels are more expensive than dairy cattle. For example, in Kenyan livestock markets in 2021, one camel cost US$421–526, which was equivalent to∼2–3 cattle or∼10 goats78. Another barrier to adoption of goats and camels is lack of knowledge and skills related to animal husbandry and management practices, and the start-up costs of purchasing additional equipment and technologies needed for goat and camel production. For instance, when shifting from cattle to camel, although a mature camel may offer a higher rate of economic return than cattle and goats (depending on farm type, livestock breed, feeding situation, location, etc.), camels may have financial drawbacks due to their lower reproductive rate compared with other species, which is due to their relatively late puberty (∼3 yr) and longer calving interval (∼2 yr).
+Although adapting milk production systems by changing the herd composition holds promise as an effective adaptation strategy against climate change while also creating environmental benefits, there are multiple challenges that must be overcome to facilitate uptake of these adaptation practices among livestock keepers in the region. Importantly, there should be a clearer policy framework in place to effectively support pastoralists and other livestock keepers through the development of the goat and camel dairy sectors at various scales (national, regional and international). Since our current knowledge of goat and camel production systems at local to regional scales remains insufficient compared with dairy cattle production in NSSA, livestock value chain actors and research organizations should employ a multisectoral approach that prioritizes future research on breeding, disease control and nutrition services for these species. For instance, future breeding should emphasize both heat-tolerant cattle breeds and increasing goat/camel milk yields. Finally, improvements in goat and camel dairy supply chains—such as processing technologies to improve dairy goat and camel product markets, facilities to transport milk to local markets79,80, and distribution and processing infrastructure for output markets—are essential for harnessing the full potential of shifts in herd composition and realizing the vision of sustainable and food-secure dairy production in NSSA by 2030.
+The study area for the current research comprised arid and semi-arid zones81in the Sudano-Sahel and Greater Horn of African regions of NSSA (defined in this study as 5°–20° N, 20° W–55° E) covering an area of∼10 million km2. Supplementary Fig.1shows the average climate conditions for the study area. According to the GPWv4, the human population in the study area in 2010 was estimated to be around 256 million inhabitants82, mostly dependent on crop farming and livestock-husbandry activities for their livelihoods83. According to the GLW3 database, the total populations of cattle, goats and camels in the region were approximately 78, 105 and 14 million, respectively84.
+The climatic data required for this analysis, that is, air temperature (°C) and the relative humidity (%) (Modelling HS frequency), were obtained from the European Centre for Medium-Range Weather Forecasts (ECMWF) Reanalysis v.5—Land (ERA5-Land) database85,86.
+The total number of livestock in the study area have been extracted from the GLW3 database84. This dataset is a snapshot of the total number of cattle and goats per pixel for the year 2010. Furthermore, in this study the camel density map includes dromedary and Bactrian camel distribution, and is an unpublished model based on the methodology described in Robinson et al.87(Supplementary Fig.2).
+To estimate supply and demand for milk, a global dataset provided by the FAO Global Perspective Studies Unit88was used. The dataset includes estimates of milk consumption, production, import and export, in 2000 and 2030, and their absolute and proportional changes (with a resolution of 0.05°).
+A dataset for the start and the end of the growing season, based on Normalized Difference Vegetation Index (NDVI) time series89, was used for quantifying the DMP from remote sensing data (Modelling DMP).
+The satellite products used in this study were acquired successively from the VEGETATION sensor of the SPOT4 and SPOT5 (Satellite Pour l’Observation de la Terre) and PROBA-V (Project for On-Board Autonomy–Vegetation) satellites via the Copernicus Global Land Service (CGLS) platform. The different products are:
+DMP (kg ha−1d−1) represents the overall growth rate or dry biomass increase of the vegetation and is directly related to ecosystem net primary productivity. This is retrieved using Monteith’s90model to calculate the instantaneous daily DMP (kg ha−1d−1), as follows:
+DMP = RG × εi× εc× εb× 10,000
+where RG = the incident solar radiation at the Earth’s surface (J m−2d−1);εi= the fraction of absorbed photosynthetically active radiation (fAPAR) or the interception efficiency of the vegetation calculated asεi=fAPAR=A+B× NDVI (ref.91), whereAandB= sensor heuristic calibration92;εc= the fraction of photosynthetically active radiation of the incident solar radiation (here, 0.48);εb= the conversion efficiency of PAR to vegetation productivity, as a function of temperature93. The version used is DMP 1 km V1, which is specifically produced by the Flemish Institute for Technological Research (VITO) using an initial DMP algorithm94that offers better performance over semi-arid areas of low vegetation production.
+NDVI v.1, 1 km.
+Small Water Bodies (SWB) provides Boolean information on the presence of surface water95. The version used is 1 km Africa V1.
+All datasets were used with temporal extent from April 1998 to January 2021 and with 10 day frequency.
+Herd composition is often constrained by a variety of contextual variables ranging from climatic and biophysical properties to levels of economic, social and infrastructural development. From the climatic and biophysical point of view, previous studies showed that feed and water shortage, and the occurrence and severity of climate extremes, are among the most important driving forces that could potentially lead to changes in herd composition in the study area23,34,39,96,97,98,99. In the following the procedure for modelling each of these factors during the period 2001–2020 is described.
+In this study, the annual DMP, expressed as the cumulative total dry matter biomass produced over the growing season, was quantified by a validated tool, BioGenerator v.5.1100. This tool uses as main input the decadal DMP on which it operates cumulatively throughout the growing season.
+whereyis the considered year, anddianddfare respectively the first decade and the last decade of cumulation.dianddfhave to be set to include the total vegetation annual peak of production with the constraint that thedineeds to be set to be before the start of the season but after the end of the season of the previous year, and conversely fordf. An analysis of study results on the growing period over Africa89permitted a satisfactory compromise that resulted in valid constant values over the whole study window:di= second decade of February anddf= first decade of February of the following year (y+ 1).
+Before cumulating, the DMP is temporally filtered using NDVI to remove noise and residual clouds. Filtering functions, based on best index slope extraction and a low-pass filter, are described in detail in the BioGenerator technical document100.
+Surface water accessibility was characterized using the HydroGenerator v.4.3 tool100. HydroGenerator uses the SWB product delivered by CGLS as its main input. HydroGenerator applies a 30 km buffer ring around the detected cells, which are ranked with a decreasing Gaussian weighting function of distance to the point, called the WAI, as follows:
+wheredis the distance to the water point (km);σis a parameter of the Gaussian set to reach 1% beyond 30 km (\(\sigma = \frac{{{{{\mathrm{30}}}}}}{{\sqrt {2{{{\mathrm{ln100}}}}} }}\)); andFBGis the background WAI depending on aridity zones101(progressive evolution from hyper-arid = 0% to humid = 100%). The WAI ranges from 0 to 1, with 0 representing no access to a water point and 1 representing the position of a permanent water point.
+In this research we assessed the thermal HS conditions for dairy cattle by using the temperature–humidity index (THI). For this purpose, first, the daily THI values were calculated based on formula developed by the National Research Council102and classified using the THI threshold for dairy cattle103:
+whereTdbis the dry-bulb temperature (°C) (the daily maximum temperature was used instead ofTdbin this case, following previous research27); and RH is the relative humidity (%).
+Then, the percentage of occurrence of detrimental HS days (that is, events which result in substantial changes in milk production; above moderate and severe/danger thresholds) over a year was calculated for each grid point and for the entire period (2001–2020) and used as a measure for the thermal (dis)comfort27.
+The non-parametric Mann–Kendall trend test104,105(H0, there is no trend; H1, there exists a downward or upward trend over time) and Sen’s slope estimator106were used for detection of trends and the slopes of the trend in the time series (2001–2020) of DMP, HS and WAI at the 5% and 1% significance levels.
+After preparing the DMP, HS and WAI time series for each grid point (0.1° × 0.1°), a stepwise procedure was followed to answer the defined listed research questions.
+Step 1: where in the study area is the cattle production likely to be affected most?
+Four separate criteria were used to identify where in the study area conditions have become significantly worse for cattle production:
+If all the three factors significantly changed at the 5% significance level: HS, increasing; DMP, decreasing; WAI, decreasing.
+If the DMP significantly changed at the 1% significance level and if the quotient (DMP 2011–2020)/(DMP 2001–2010) was <0.5.
+If the HS significantly changed at the 1% significance level and the quotient of (HS 2011–2020)/(HS 2001–2010) was >10%.
+If the WAI significantly changed at the 1% significance level and the quotient (WAI 2011–2020)/(WAI 2001–2010) was <0.5.
+Step 2: what is the current livestock population composition in regions where the criterion explained in step 1 has been satisfied (percentage of cattle, goats and camel)? What is the average milk supply and demand in these regions?
+Extract total livestock numbers (Livestock population dataset) and milk production and demand (Livestock milk supply and demand) in each of the grid cells where conditions have become significantly worse for cattle production. These data where used to calculate the average herd composition, in terms of percentage of cattle, goat and camels, and average milk supply and demand.
+Step 3: what is the relationship between milk production and herd composition in regions where the criterion explained in step 1 has been satisfied?
+To establish how much of the milk production is coming from each species,Nequations with three unknowns were solved simultaneously;Ax+By+Cz= milk production of the grid point;x,y,z= the numbers of cattle, goats and camels, respectively;A,B,C= milk production of cattle, goats and camels, respectively.
+After fitting the distribution function to theA,BandCvalues, the average values have been used as the ideal herd composition for the remainder of the analysis (cattle = 171, goat = 68, camel = 295) (Supplementary Fig.3).
+Step 4: how much feed and water are needed to produce 1 kg of milk? What are the GHG emissions associated with 1 kg of milk from cattle, goats and camels?
+We conducted a literature review to determine the water usage, feed consumption and GHG emissions associated with the production of 1 kg of milk from cattle, goats and camels. The values reported from previous research on the water and feed usage for 1 kg of milk from cattle, goats and camels and their GHG emissions, mostly for arid and semi-arid regions of SSA, are shown in Supplementary Figs. 4–6. In this study, the average values have been used for the rest of the analysis, wherein kg feed DM per kg milk from cattle = 1.78, goat = 1.43, camel = 1.17; litres of water per kg milk from cattle = 5.73, goat = 2.73, camel = 4.90; kgCO2e per kg milk from cattle = 7.25, goat = 6.70, camel = 6.00. Estimates of GHGs emitted to produce 1 kg of milk are based on published studies on CH4emissions from enteric fermentation and both CH4and N2O emissions from livestock manure management under extensive and mixed farming systems in dryland NSSA (see Supplementary Figs. 4–6for references to these studies).
+Step 5: what happens if we shift from cattle toward goats or camels in regions where the criterion explained in step 1 has been satisfied? What is the ideal scenario, that is, where the quantity of milk be produced is the same or increased, but with less water/feed consumption and GHG emissions (for each subregion and as an average)?
+Here, we changed the herd composition towards having fewer cattle such that the total tropical livestock unit (TLU, 1 TLU = 250 kg bodyweight) was constant. In this step, each time after the herd composition was changed, values from steps 3 and 4 were used to assess outcomes in terms of milk production, water/feed usage and GHG emissions. The first priority of the objective function was to maximize milk production (herd compositions with milk production more than the 75th percentile of all combinations). The second objective was to minimize the water/feed usage and finally to have lower GHG emissions (herd compositions with water/feed usage and GHG emissions less than the 25th percentile of all combinations). Pastoralists in arid areas may have lower general adaptive capacity due to lack of alternative livelihood opportunities, but may be more open to shifts in herd composition due to existing familiarity with multiple livestock species107. On the other hand, mixed farming systems in semi-arid areas will probably have less incentive to change their herd composition due to less familiarity with mixed herds and possessing greater assets compared with pastoralists108. Therefore, it was assumed that mixed systems would be more limited with respect to maximum potential reductions in cattle compared with more arid regions, where pastoralist systems predominate, and may be able to sustain larger maximum proportional reductions in cattle populations. To this end, when shifting from cattle to goats and camels in mixed crop–livestock systems, we did not allow the proportional change in cattle in these systems for a given grid point to exceed half of current cattle population (Supplementary Table1).
+Step 6: what is the expected aggregate milk production for the ideal herd composition at the regional scale, and the feed and water requirements and GHG emissions associated with this level of milk production? How can shifts in herd composition contribute to closing the gap in projected milk demand for 2030?
+Further information on research design is available in theNature Research Reporting Summarylinked to this article.
+The ERA5-Land climate data from the ECMWF are available athttps://doi.org/10.24381/cds.e2161bac. FAO data on livestock population, milk supply and demand are available atwww.fao.org/ag/againfo/resources/en/glw/home.html. Remote-sensing data from the CGLS are available athttps://land.copernicus.eu/global/. The data products from this investigation are available from the corresponding author on request.
+The analysis codes are available from the corresponding author on request.
+Ehui, S., Benin, S., Williams, T. & Meijer, S.Food Security in sub-Saharan Africa to 2020Working Paper No. 49 (International Livestock Research Institute, 2002).
+Enahoro, D. et al. Supporting sustainable expansion of livestock production in South Asia and sub-Saharan Africa: scenario analysis of investment options.Glob. Food Sec.20, 114–121 (2019).
+ArticleGoogle Scholar
+de Haan, C. (ed.)Prospects for Livestock-Based Livelihoods in Africa’s Drylands(World Bank, 2016).
+OECD-FAO Agricultural Outlook 2016–2025(OECD, 2016);https://doi.org/10.1787/agr_outlook-2016-en
+Muehlhoff, E., Bennett, A. & McMahon, D.Milk and Dairy Products in Human Nutrition(FAO, 2013).
+FAOSTAT(FAO, accessed 1 November 2021);http://faostat.fao.org
+Ndambi, O. Perspectives for dairy farming systems in Africa.PhD thesis, Christian-Albrecht Univ. (2008).
+Herrero, M., Havlik, P., McIntire, J., Palazzo, A. & Valin, H.African Livestock Futures: Realizing the Potential of Livestock for Food Security, Poverty Reduction and the Environment in Sub-Saharan Africa(Office of the Special Representative of the UN Secretary General for Food Security and Nutrition and the United Nations System Influenza Coordination, 2014).
+Olaloku, E. A. & Debrah, S. inJoint Feed Resources Network Workshop on the Complementarity of Feed Resources for Animal Production in Africa(eds Stares, J. E. S. et al.) 399–407 (ILCA, 1992).
+Thornton, P. K., van de Steeg, J., Notenbaert, A. & Herrero, M. The impacts of climate change on livestock and livestock systems in developing countries: a review of what we know and what we need to know.Agric. Syst.101, 113–127 (2009).
+ArticleGoogle Scholar
+Nardone, A., Ronchi, B., Lacetera, N., Ranieri, M. S. & Bernabucci, U. Effects of climate changes on animal production and sustainability of livestock systems.Livest. Sci.130, 57–69 (2010).
+ArticleGoogle Scholar
+Anyah, R. O. & Qiu, W. Characteristic 20th and 21st century precipitation and temperature patterns and changes over the Greater Horn of Africa.Int. J. Climatol.32, 347–363 (2012).
+ArticleGoogle Scholar
+IPCCClimate Change 2013: The Physical Science Basis(eds Stocker, T. F. et al.) (Cambridge Univ. Press, 2013).
+Serdeczny, O. et al. Climate change impacts in sub-Saharan Africa: from physical changes to their social repercussions.Reg. Environ. Change17, 1585–1600 (2017).
+ArticleGoogle Scholar
+Girvetz, E. et al. inThe Climate—Smart Agriculture Papers(eds Rosenstock, T. S. et al.) 15–27 (Springer, 2019).
+IPCCClimate Change 2014: Impacts, Adaptation, and Vulnerability(eds Field, C. B. et al.) 1199–1265 (Cambridge Univ. Press, 2014).
+Nangombe, S. et al. Record-breaking climate extremes in Africa under stabilized 1.5 °C and 2 °C global warming scenarios.Nat. Clim. Change8, 375–380 (2018).
+ArticleADSGoogle Scholar
+Harrison, L., Funk, C. & Peterson, P. Identifying changing precipitation extremes in sub-Saharan Africa with gauge and satellite products.Environ. Res. Lett.14, 085007 (2019).
+ArticleADSGoogle Scholar
+Ahmadalipour, A., Moradkhani, H., Castelletti, A. & Magliocca, N. Future drought risk in Africa: integrating vulnerability, climate change, and population growth.Sci. Total Environ.662, 672–686 (2019).
+ArticleADSCASPubMedGoogle Scholar
+Almazroui, M. et al. Projected change in temperature and precipitation over Africa from CMIP6.Earth Syst. Environ.4, 455–475 (2020).
+ArticleADSGoogle Scholar
+Collier, P., Conway, G. & Venables, T. Climate change and Africa.Oxf. Rev. Econ. Policy24, 337–353 (2008).
+ArticleGoogle Scholar
+Dosio, A. et al. What can we know about future precipitation in Africa? Robustness, significance and added value of projections from a large ensemble of regional climate models.Clim. Dyn.53, 5833–5858 (2019).
+ArticleGoogle Scholar
+Thornton, P. K., Boone, R. B. & Ramirez-Villegas, J.Climate Change Impacts on LivestockCCAFS Working Paper No. 120 (CGIAR Research Program on Climate Change, Agriculture and Food Security, 2015).
+Godde, C. M., Mason-D’Croz, D., Mayberry, D. E., Thornton, P. K. & Herrero, M. Impacts of climate change on the livestock food supply chain; a review of the evidence.Glob. Food Sec.28, 100488 (2021).
+ArticleCASPubMedPubMed CentralGoogle Scholar
+Naqvi, S. M. K., Kumar, D., De, K. & Sejian, V. inClimate Change Impact on Livestock: Adaptation and Mitigation(eds Sejian, V. et al.) 81–95 (Springer, 2015).
+Rahimi, J., Mutua, J. Y., Notenbaert, A. M., Dieng, D. & Butterbach-Bahl, K. Will dairy cattle production in West Africa be challenged by heat stress in the future?Climatic Change161, 665–685 (2020).
+ArticleADSGoogle Scholar
+Rahimi, J., Mutua, J. Y., Notenbaert, A. M., Marshall, K. & Butterbach-Bahl, K. Heat stress will detrimentally impact future livestock production in East Africa.Nat. Food2, 88–96 (2021).
+ArticleGoogle Scholar
+Morton, J. F. The impact of climate change on smallholder and subsistence agriculture.Proc. Natl Acad. Sci. USA104, 19680–19685 (2007).
+ArticleADSCASPubMedPubMed CentralGoogle Scholar
+Ouma, R., Mude, A. & Van De Steeg, J. Dealing with climate related risks: some pioneering ideas for enhanced pastoral risk management in Africa.Exp. Agric.47, 375–393 (2011).
+ArticleGoogle Scholar
+Gerber, P., Vellinga, T., Opio, C., Henderson, B. & Steinfeld, H.Greenhouse Gas Emissions from the Dairy Sector: A Life Cycle Assessment(FAO, 2010).
+Silvestri, S., Bryan, E., Ringler, C., Herrero, M. & Okoba, B. Climate change perception and adaptation of agro-pastoral communities in Kenya.Reg. Environ. Change12, 791–802 (2012).
+ArticleGoogle Scholar
+Kimani, E. W., Ogendi, G. M. & Makenzi, P. M. An evaluation of climate change indigenous coping and adaptation strategies for sustainable agro-pastoral based livelihoods in Baringo County, Kenya.IOSR J. Environ. Sci. Toxicol. Food Tech.8, 38–58 (2014).
+ArticleGoogle Scholar
+Megersa, B. et al. Epidemic characterization and modeling within herd transmission dynamics of an “emerging trans-boundary” camel disease epidemic in Ethiopia.Trop. Anim. Health Prod.44, 1643–1651 (2012).
+ArticlePubMedGoogle Scholar
+Zampaligré, N., Dossa, L. H. & Schlecht, E. Climate change and variability: perception and adaptation strategies of pastoralists and agro-pastoralists across different zones of Burkina Faso.Reg. Environ. Change14, 769–783 (2014).
+ArticleGoogle Scholar
+Österle, M. From cattle to goats: the transformation of East Pokot pastoralism in Kenya.Nomad. People.12, 81–91 (2008).
+ArticleGoogle Scholar
+Keskes, S. et al. Production systems and reproductive performances ofCamelus dromedariusin Somali regional state, eastern Ethiopia.J. Agric. Environ. Int. Dev.107, 243–266 (2013).
+Google Scholar
+Boru, D., Schwartz, M., Kam, M. & Degen, A. A. Cattle reduction and livestock diversification among Borana pastoralists in southern Ethiopia.Nomad. People.18, 115–145 (2014).
+ArticleGoogle Scholar
+Teklegiorgis, S. & Yirga, F. Camel and small ruminant based pastoralism in Ethiopia: recent trends and future prospects. Preprint atResearch Squarehttps://doi.org/10.21203/rs.3.rs-222495/v1(2021).
+Kagunyu, A. W. & Wanjohi, J. Camel rearing replacing cattle production among the Borana community in Isiolo County of northern Kenya, as climate variability bites.Pastoralism4, 1–5 (2014).
+ArticleGoogle Scholar
+Silanikove, N. Why goats raised on harsh environment perform better than other domesticated animals.Options Medit.34, 185–194 (1997).
+Google Scholar
+Shankarnarayan, K. A., Bohra, H. C. & Ghosh, P. K. The goat: an appropriate animal for arid and semi-arid regions.Econom. Polit. Weekly20, 1965–1972 (1985).
+Google Scholar
+Silanikove, N. inThe Opportunities and Challenges of Enhancing Goat Production in East Africa6–28 (E (Kika) de la Garza Institute for Goat Research, Langston Univ., 2000).
+Nair, M. R. et al. Goat as the ideal climate-resilient animal model in tropical environment: revisiting advantages over other livestock species.Int. J. Biometeorol.65, 2229–2240 (2021).
+ArticleADSPubMedGoogle Scholar
+Raziq, A., Younas, M. & Kakar, M. A. Camel: a potential dairy animal in difficult environments.Pak. J. Agric. Sci.45, 263–267 (2008).
+Google Scholar
+Gaughan, J. B. Which physiological adaptation allows camels to tolerate high heat load–and what more can we learn.J. Camel. Sci.4, 85–88 (2011).
+Google Scholar
+Forrest, B., Bailey, D., Ward, R. & Coppock, D. L.Can Bush-clearing, Deferred Grazing, or Camels Help Mitigate Climate-change and Population Effects for Borana Pastoralists? An Economic Analysis of Potential InterventionsPaper 901 (Environment and Society Faculty Publications, 2014);https://digitalcommons.usu.edu/envs_facpub/901
+Dardel, C. et al. Re-greening Sahel: 30 years of remote sensing data and field observations (Mali, Niger).Remote Sens. Environ.140, 350–364 (2014).
+ArticleADSGoogle Scholar
+Rust, J. M. & Rust, T. Climate change and livestock production: a review with emphasis on Africa.S. Afr. J. Anim. Sci.43, 255–267 (2013).
+ArticleGoogle Scholar
+Rojas-Downing, M. M., Nejadhashemi, A. P., Harrigan, T. & Woznicki, S. A. Climate change and livestock: impacts, adaptation, and mitigation.Clim. Risk Manag.16, 145–163 (2017).
+ArticleGoogle Scholar
+Liao, C., Ruelle, M. L. & Kassam, K. A. S. Indigenous ecological knowledge as the basis for adaptive environmentalmanagement: evidence from pastoralist communities in the Horn of Africa.J. Environ. Manag.182, 70–79 (2016).
+ArticleGoogle Scholar
+Willett, W. et al. Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems.Lancet393, 447–492 (2019).
+ArticlePubMedGoogle Scholar
+Fraval, S. et al. Food access deficiencies in sub-Saharan Africa: prevalence and implications for agricultural interventions.Front. Sustain. Food Syst.3, 1–13 (2019).
+ArticleGoogle Scholar
+Paul, B. K., Butterbach-Bahl, K., Notenbaert, A., Nderi, A. N. & Ericksen, P. Sustainable livestock development in low-and middle-income countries: shedding light on evidence-based solutions.Environ. Res. Lett.16, 011001 (2020).
+ArticleADSGoogle Scholar
+Fuquay, J. W., McSweeney, P. L. & Fox, P. F.Encyclopedia of Dairy Sciences(Academic Press, 2011).
+Brandt, M. et al. Human population growth offsets climate-driven increase in woody vegetation in sub-Saharan Africa.Nat. Ecol. Evol.1, 0081 (2017).
+ArticleGoogle Scholar
+Estell, R. E. et al. Increasing shrub use by livestock in a world with less grass.Rangel. Ecol. Manag.65, 553–562 (2012).
+ArticleGoogle Scholar
+Müller Schmied, H. et al. The global water resources and use model WaterGAP v2.2d: model description and evaluation.Geosci. Model Dev.14, 1037–1079 (2021).
+ArticleADSGoogle Scholar
+Giordano, M. Agricultural groundwater use and rural livelihoods in sub-Saharan Africa: a first-cut assessment.Hydrol. J.14, 310–318 (2006).
+ADSGoogle Scholar
+Tuinhof, A., Foster, S., van Steenbergen, F., Talbi, A. & Wishart, M.Appropriate Groundwater Management Policy for Sub-Saharan Africa: In Face of Demographic Pressure and Climatic Variability(World Bank, 2011).
+Park, Y. W. & Haenlein, G. F. (eds).Handbook of Milk of Non-bovine Mammals(John Wiley & Sons, 2008).
+Al-Wabel, N. A. Mineral contents of milk of cattle, camels, goats and sheep in the central region of Saudi Arabia. Asian.J. Biochem.3, 373–375 (2008).
+CASGoogle Scholar
+Singh, R., Mal, G., Kumar, D., Patil, N. V. & Pathak, K. M. L. Camel milk: an important natural adjuvant.Agric. Res.6, 327–340 (2017).
+ArticleCASGoogle Scholar
+Nayak, C. M., Ramachandra, C. T. & Kumar, G. M. A comprehensive review on composition of donkey milk in comparison to human, cow, buffalo, sheep, goat, camel and horse milk.Mysore J. Agric. Sci.54, 42–50 (2020).
+Google Scholar
+Kalla, K. R. G. A. M., Manthani, V. & Keerthi, S. Camel milk a white gold of dessert: a review.Int. Arch. Sci. Technol.8, 74–83 (2017).
+Google Scholar
+Al Kanhal, H. A. Compositional, technological and nutritional aspects of dromedary camel milk.Int. Dairy J.20, 811–821 (2010).
+ArticleCASGoogle Scholar
+Abbas, H. M., Hassan, F. A., El-Gawad, M. A. M. A. & Enab, A. K. Physicochemical characteristics of goat’s milk.Life Sci.11, 307–317 (2014).
+CASGoogle Scholar
+Degen, A. A. Sheep and goat milk in pastoral societies.Small Rumin. Res.68, 7–19 (2007).
+ArticleGoogle Scholar
+Myburgh, J. et al. Comparison of the milk composition of free-ranging indigenous African cattle breeds.S. Afr. J. Anim. Sci.42, 1–14 (2012).
+ArticleCASGoogle Scholar
+Soliman, G. Z. Comparison of chemical and mineral content of milk from human, cow, buffalo, camel and goat in Egypt.Egypt J. Hosp. Med.21, 116–130 (2005).
+ArticleCASGoogle Scholar
+Roy, D., Ye, A., Moughan, P. J. & Singh, H. Composition, structure, and digestive dynamics of milk from different species-a review.Front. Nutr.195, 1–17 (2020).
+Google Scholar
+Henderson, B. B.Economic Assessments of Practices and Policies to Address Climate Change and Sustainable Development for Agriculture at Global, Regional and Farm Population Scales. PhD thesis, Univ. New England (2018).
+Baba, W. N., Rasool, N., Selvamuthukumara, M. & Maqsood, S. A review on nutritional composition, health benefits, and technological interventions for improving consumer acceptability of camel meat: an ethnic food of Middle East.J. Ethnic Foods8, 1–13 (2021).
+ArticleGoogle Scholar
+Irob, K. et al. Browsing herbivores improve the state and functioning of savannas: a model assessment of alternative land use strategies.Ecol. Evol.12, e8715 (2022).
+ArticlePubMedPubMed CentralGoogle Scholar
+Catley, A., Lind, J. & Scoones, I.Pastoralism and Development in Africa: Dynamic Change at the Margins(Taylor & Francis, 2013).
+Leal Filho, W. (ed.)Experiences of Climate Change Adaptation in Africa(Springer Science & Business Media, 2011).
+Faye, B. Camel farming sustainability: the challenges of the camel farming system in the XXIth century.J. Sustain. Dev.6, 74–82 (2013).
+ArticleGoogle Scholar
+Montgomery, J.Feed the Future: Somalia Camel Leasing to Impact Resilience Activity—Camel Milk Rapid Value Chain Analysis(United States Agency for International Development Center for Resilience, 2021).
+KAMISKenya Agricultural Market Information System (KAMIS)(Ministry of Agriculture, Livestock, Fisheries and Irrigation, Kenya, accessed 10 March 2022);http://amis.co.ke/
+Sghaier, M.Camel Production Systems in AfricaICAR Technical Series (ICAR, 2004).
+Kahi, A. K. & Wasike, C. B. Dairy goat production in sub-Saharan Africa: current status, constraints and prospects for research and development.Asian Australas. J. Anim. Sci.32, 1266 (2019).
+ArticlePubMedPubMed CentralGoogle Scholar
+Rivas-Martínez, S., Rivas-Saenza, S. & Penas, A. Worldwide bioclimatic classification system.Glob. Geobot.1, 1–634 (2006).
+Google Scholar
+Center for International Earth Science Information Network. Gridded Population of the World, v.4 (GPWv4): Population Density, Revision 11(NASA Socioeconomic Data and Applications Center, accessed 23 August 2021);https://doi.org/10.7927/H49C6VHW
+Cervigni, R. & Morris, M. (eds)Confronting Drought in Africa’s Drylands: Opportunities for Enhancing ResilienceAfrica Development Forum Series (World Bank, 2016).
+Gilbert, M. et al. Global distribution data for cattle, buffaloes, horses, sheep, goats, pigs, chickens and ducks in 2010.Sci. Data5, 1–11 (2018).
+ArticleGoogle Scholar
+ERA5-Land Hourly Data from 1981 to PresentTechnical Report (ECMWF, 2019);https://doi.org/10.24381/cds.e2161bac
+Hersbach, H. et al. The ERA5 global reanalysis.Q. J. R. Meteorol. Soc.146, 1999–2049 (2020).
+ArticleADSGoogle Scholar
+Robinson, T. P. et al. Mapping the global distribution of livestock.PLoS ONE9, e96084 (2014).
+ArticleADSPubMedPubMed CentralCASGoogle Scholar
+Robinson, T. P. & Pozzi, F.Mapping Supply and Demand for Animal-Source Foods to 2030FAO Animal Production and Health Working Paper 2 (FAO, 2011).
+Vrieling, A., De Leeuw, J. & Said, M. Y. Length of growing period over Africa: variability and trends from 30 years of NDVI time series.Remote Sens.5, 982–1000 (2013).
+ArticleADSGoogle Scholar
+Monteith, J. L. Solar radiation and productivity in tropical ecosystems.J. Appl. Ecol.19, 747–766 (1972).
+ArticleGoogle Scholar
+Myneni, R. B. & Williams, D. L. On the relationship between FAPAR and NDVI.Remote Sens. Environ.49, 200–211 (1994).
+ArticleADSGoogle Scholar
+Eerens, H. et al. Use of 1km2-resolution imagery in the Belgian Crop Growth Monitoring System (B-CGMS). InProc. VEGETATION 2000(ed. Saint, G.) 361–366 (CNES and Ispra: Joint Research Centre, 2000).
+Veroustraete, F., Sabbe, H. & Eerens, H. Estimation of carbon mass fluxes over Europe using the C-Fix model and EuroFlux data.Remote Sens. Environ.83, 376–399 (2002).
+ArticleADSGoogle Scholar
+Jacobs. T., Piccard, I., Bydekerke, L. & Gontier, E.Dry Matter Productivity (DMP)—VGT4Africa User Manual, 1st edn (Office for Official Publications of the European Communities, 2006);http://www.vgt4africa.org/PublicDocuments/VGT4AFRICA_user_manual.pdf
+Bartholomé, E. & Combal, B.Small Water Bodies—VGT4Africa User Manual1st edn (Office for Official Publications of the European Communities, 2006);http://www.vgt4africa.org/PublicDocuments/VGT4AFRICA_user_manual.pdf
+Seifu, E. Analysis on the contributions of and constraints to camel production in Shinile and Jijiga zones, eastern Ethiopia.J. Agric. Environ. Int. Dev.103, 213–224 (2009).
+Google Scholar
+Phiri, K., Ndlovu, S. & Chiname, T. Climate change. impacts on rural based women: emerging evidence on coping andadaptation strategies in Tsholotsho, Zimbabwe.Mediterr. J. Soc. Sci.5, 2545–2552 (2013).
+Google Scholar
+Magita, S. Y. & Sangeda, A. Z. Effects of climate stress to pastoral communities in Tanzania: a case of Mvomero District.Lives. Res. Rural Dev.29, 1–11 (2017).
+Google Scholar
+Leal Filho, W., Nzengya, D., Muasya, G., Chemuliti, J. & Kalungu, J. W. Climate Change responses among the Maasai community in Kenya.Climatic Change145, 71–83 (2017).
+ArticleADSGoogle Scholar
+Fillol, E.Biohydrogenerator User Guide(Action Against Hunger/Action Contre la Faim, 2018);https://sigsahel.info/wp-content/uploads/2020/12/ACF_BioHydroGenerator_User_Guide.pdf
+Aridity Zones and Dryland Populations: An Assessment of Population Levels in the World’s Drylands(United Nations Development Programme, Office to Combat Desertification and Drought, 1997).
+A Guide to Environmental Research on Animals(National Academy of Sciences, 1971).
+Wiersma, F.THI for Dairy Cows(Univ. Arizona, 1990).
+Mann, H. B. Nonparametric tests against trend.Econometrica13, 245–259 (1945).
+ArticleMathSciNetMATHGoogle Scholar
+Kendall, M. G.Rank Correlation Methods(Charles Griffin, 1975).
+Sen, P. K. Estimates of the regression coefficient based on Kendall’s tau.J. Am. Stat. Assoc.39, 1379–1389 (1968).
+ArticleMathSciNetMATHGoogle Scholar
+Yanda, P. Z. & Mung’ong’o, C. G. (eds)Pastoralism and Climate Change in East Africa(Mkuki na Nyota, 2018).
+Robinson, T. P. et al.Global Livestock Production Systems(FAO and ILRI, 2011).
+2009 Population and Housing Census(Kenya National Bureau of Statistics, 2010).
+Gikonyo, S. et al. Mapping potential amplification and transmission hotspots for MERS-CoV, Kenya.EcoHealth15, 372–387 (2018).
+ArticlePubMedPubMed CentralGoogle Scholar
+2019 Population and Housing Census(Kenya National Bureau of Statistics, 2020).
+Yosef, T., Mengistu, U., Solomon, A., Mohammed, Y. K. & Kefelegn, K. Camel and cattle population dynamics and livelihood diversification as a response to climate change in pastoral areas of Ethiopia.Lives. Res. Rural Dev.25, 1–10 (2013).
+Google Scholar
+EPCCFirst Assessment Report Working Group II—Climate Change Impact, Vulnerability, Adaptation and Mitigation V(Ethiopian Panel on Climate Change, 2015).
+Agricultural Sample Survey 2019/20 (2012 E.C.) Vol. I Report on Area and Production of Major Crops (Private Peasant Holdings, Meher Season)Statistical Bulletin 587 (Central Statistical Agency, The Federal Democratic Republic of Ethiopia, 2020).
+Manzano, P. & Yamat, L. E.Livestock Sector in the Ngorongoro District: Analysis, Shortcomings and Options for Improvement(Ngorongoro District Council and GIZ, 2018).
+Leweri, C. M., Msuha, M. J. & Treydte, A. C. Rainfall variability and socio-economic constraints on livestock production in the Ngorongoro Conservation Area, Tanzania.SN Appl. Sci.3, 1–10 (2021).
+ArticleGoogle Scholar
+Faku, Z. B.Market Chain Analysis of Live Cattle in Borana Pastoral Area: The Case of Moyalle District, Oromyia Regional State Southern Ethiopia.MSc thesis, Hawassa Univ. (2014).
+Mirkena, T. et al. Camel production systems in Ethiopia: a review of literature with notes on MERS-CoV risk factors.Pastoralism8, 1–17 (2018).
+ArticleGoogle Scholar
+Guban Pastoral Livelihood Baseline ReportTechnical Series Report No. VI, 67 (Food Security and Nutrition Analysis Unit, 2016).
+Pantuliano, S., Egemi, O., Fadlalla, B., Farah, M. & ME, A.Put Out to Pasture. War, Oil and the Decline of Misseriyya Humr Pastoralism in Sudan(ODI, 2009).
+Egemi, O.Pastoralist Peoples, Their Institutions and Related Policies(Feinstein International Center, 2012).
+Ismail, M. A., Hassan, A. & El Bushra, A.Standing Wealth Pastoralist Livestock Production(United Nations Environment Programme, 2013).
+Powell, J. M.Livestock and Sustainable Nutrient Cycling in Mixed Farming Systems of Sub-Saharan AfricaTechnical Papers Vol. 2 (ILRI, 1994).
+Livingstone, I. & Belshaw, D. G. R. (eds)Renewing Development in Sub-Saharan Africa: Policy, Performance and Prospects(Psychology Press, 2002).
+Download references
+We thank Action Against Hunger (AAH), its financial contributors (that is, the World Bank, Fondation Albert II de Monaco, le Fonds de recherche d’ACF, International Fond Policy Research Institute, the FAO and the Office of US Foreign Disaster Assistance), and the Flemish Institute for Technological Research VITO for the help providing a specific version of DMP suitable for the Sahelian context. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Marie Skłodowska-Curie grant agreement number 871944 (Integrated Nitrogen Studies in Africa). J.R and K.B.-B. were partly funded by the German Helmholtz ATMO ‘Atmosphere and Climate’ programme. We also acknowledge support by the KIT-Publication Fund of the Karlsruhe Institute of Technology. The views expressed here are those of the authors and do not necessarily reflect those of their affiliated institutions, namely KIT/IMK-IFU, AAH, FAO, CIAT, WUR, ILRI and the University of Edinburgh.
+Karlsruhe Institute of Technology (KIT), Institute of Meteorology and Climate Research, Atmospheric Environmental Research (IMK-IFU), Garmisch-Partenkirchen, Germany
+Jaber Rahimi & Klaus Butterbach-Bahl
+Action Against Hunger (AAH), Regional Office for Western and Central Africa, Dakar, Senegal
+Erwann Fillol
+University of Edinburgh, Edinburgh, UK
+John Y. Mutua
+Food and Agriculture Organization of the United Nations (FAO), Rome, Italy
+Giuseppina Cinardi & Timothy P. Robinson
+Tropical Forages Program, International Center for Tropical Agriculture (CIAT), Nairobi, Kenya
+An M. O. Notenbaert
+Farming Systems Ecology, Wageningen University & Research (WUR), Wageningen, Netherlands
+An M. O. Notenbaert
+International Livestock Research Institute (ILRI), Mazingira Centre, Nairobi, Kenya
+Polly J. Ericksen, Michael W. Graham & Klaus Butterbach-Bahl
+Pioneer Center Land-CRAFT, Department of Agroecology, Aarhus University, Aarhus, Denmark
+Klaus Butterbach-Bahl
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+J.R. and K.B.-B conceived and designed the study. J.R., E.F. and J.Y.M. preprocessed the data, and performed the spatial analyses. J.R. wrote the first draft with support from M.W.G. and K.B.B., while other co-authors (G.C., T.P.R., A.M.O.N. and P.J.E.) contributed to improving the manuscript.
+Correspondence toJaber Rahimi.
+The authors declare no competing interests.
+Nature Foodthanks Pauline Scheelbeek, Oghaiki Asaah Ndambi and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Figs. 1–6 and Table 1.
+Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visithttp://creativecommons.org/licenses/by/4.0/.
+Reprints and permissions
+Rahimi, J., Fillol, E., Mutua, J.Y.et al.A shift from cattle to camel and goat farming can sustain milk production with lower inputs and emissions in north sub-Saharan Africa’s drylands.Nat Food3, 523–531 (2022). https://doi.org/10.1038/s43016-022-00543-6
+Download citation
+Received:30 November 2021
+Accepted:30 May 2022
+Published:21 July 2022
+Issue Date:July 2022
+DOI:https://doi.org/10.1038/s43016-022-00543-6
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Animal Microbiome(2024)
+Collection
+Advertisement
+Nature Food (Nat Food)ISSN2662-1355(online)
+© 2024 Springer Nature Limited
+Sign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

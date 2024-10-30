@@ -1,0 +1,602 @@
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+Nature Foodvolume3,pages694–702 (2022)Cite this article
+44kAccesses
+77Citations
+610Altmetric
+Metricsdetails
+AnAuthor Correctionto this article was published on 24 January 2023
+This article has beenupdated
+Evidence on what people eat globally is limited in scope and rigour, especially as it relates to children and adolescents. This impairs target setting and investment in evidence-based actions to support healthy sustainable diets. Here we quantified global, regional and national dietary patterns among children and adults, by age group, sex, education and urbanicity, across 185 countries between 1990 and 2018, on the basis of data from the Global Dietary Database project. Our primary measure was the Alternative Healthy Eating Index, a validated score of diet quality; Dietary Approaches to Stop Hypertension and Mediterranean Diet Score patterns were secondarily assessed. Dietary quality is generally modest worldwide. In 2018, the mean global Alternative Healthy Eating Index score was 40.3, ranging from 0 (least healthy) to 100 (most healthy), with regional means ranging from 30.3 in Latin America and the Caribbean to 45.7 in South Asia. Scores among children versus adults were generally similar across regions, except in Central/Eastern Europe and Central Asia, high-income countries, and the Middle East and Northern Africa, where children had lower diet quality. Globally, diet quality scores were higher among women versus men, and more versus less educated individuals. Diet quality increased modestly between 1990 and 2018 globally and in all world regions except in South Asia and Sub-Saharan Africa, where it did not improve.
+Poor diet is a leading cause of disease worldwide, responsible for an estimated 26% of global preventable mortality1,2,3,4. While individual foods and nutrients are important, overall dietary patterns are more strongly associated with health5. Evidence supports interactive and synergistic relationships between foods and nutrients when consumed together6, resulting in complementary effects5. While the various components of an optimal dietary pattern are well established and validated7, the distributions of such patterns globally are not well characterized. This is particularly true for children and adolescents, among whom global dietary patterns have not previously been reported.
+Previous dietary studies have been limited to small subsets of countries8,9, used national per capita food availability or sales data as direct data inputs10,11,12,13,14, which substantially misestimate intake compared with individual-level data15and did not include children, adolescents or young adults (<25 years old)8,9,10,11,12,16. Additionally, there is a paucity of evidence on global disparities in dietary patterns, for example by age, sex, education and urbanicity. Also, no previous global studies have jointly assessed several validated metrics of diet quality17, such as the Alternative Healthy Eating Index (AHEI), the Dietary Approaches to Stop Hypertension (DASH) and the Mediterranean Diet Score (MED).
+In this Article, to address these gaps in knowledge, we characterized global, regional and national dietary patterns and trends on the basis of individual-level intake data among both adults and children from 185 countries in 1990 and 2018. Findings were further assessed by age, sex, education and urbanicity within each country. This analysis utilized the latest Global Dietary Database (GDD) 2018 data, based on individual-level dietary surveys around the world18.
+The GDD is a collaborative effort to systematically identify, compile and standardize individual-level dietary data on 53 foods, beverages and nutrients (Methods). The GDD uses Bayesian modelling methods to estimate dietary intakes jointly stratified by age, sex, education, level and urbanicity for 185 countries between 1990 and 2018.
+In 2018, the global mean of the AHEI score was 40.3 (95% uncertainty interval (UI) 39.4, 41.3), with regional means ranging from 30.3 (28.7, 32.2) in Latin America and the Caribbean to 45.7 (43.8, 49.3) in South Asia (Fig.1). Among components of the score, highest global scores for healthier items were for legumes/nuts (5.0; 4.8, 5.3), followed by whole grains (4.7; 4.5, 5.0), seafood omega-3 fat (4.2; 3.8, 5.1) and non-starchy vegetables (3.9; 3.8, 4.0); among unhealthier items, highest scores (lowest or most favourable intakes) were for sugar-sweetened beverages (SSBs) (5.8; 5.7, 5.9) and red/processed meat (4.8; 4.5, 5.1). However, these score components varied substantially by world region. For example, top scores in South Asia were for higher whole grains and lower red/processed meat and SSBs, while top scores in Latin American and the Caribbean were for higher legumes/nuts and lower sodium.
+AHEI score: nine components scored from 0 to 10 each and scaled to ten components (correction fortransfat shown). Healthy components: fruit, non-starchy vegetables, legumes/nuts, whole grains, PUFAs and seafood omega-3 fat; unhealthy components: red/processed meat, SSBs and sodium.
+Only ten countries, representing <1% of the world’s population, had AHEI scores ≥50. Among the world’s 25 most populous countries, the mean AHEI score was highest in Vietnam, Iran, Indonesia and India (54.5 to 48.2) and lowest in Brazil, Mexico, the United States and Egypt (27.1–33.5) (Fig.2). Most component scores varied substantially across these populous countries. For example, a 100-fold difference was seen in the sodium score, a 90-fold difference in the red/processed meat score and a 23-fold difference in the SSB score. Among the components, the polyunsaturated fatty acid (PUFA) and non-starchy vegetable scores varied the least (two-fold and three-fold, respectively) across populous countries.
+Children: ≤1 years to ≤19 years; adults: ≥20 years. The AHEI score ranged from 0 to 100. The mean national score was computed as the sum of the stratum-level component scores and aggregated to the national mean using weighted population proportions for 2018.
+Globally, the mean AHEI score in 2018 was similar among children (39.2; 38.2, 40.3) versus adults (40.8; 39.8, 42.0) (Fig.1). However, the mean AHEI score was substantially higher among adults compared with children in Central/Eastern Europe and Central Asia, high-income countries, and the Middle East and Northern Africa region. By age, most regions had J- or U-shaped relationships, with the highest scores observed among the youngest (≤5 years) and/or oldest age groups (≥75 years) (Fig.3).
+The AHEI score ranged from 0 to 100. The circles represent the global or regional mean for the age group, and the error bars represent the corresponding 95% UI. The mean and its UI are plotted for the midpoint of each age group (<1, 1–2, 3–4, 5–9, 10–14, 15–19, 20–24, 25–29, 30–34, 35–39, 40–44, 45–49, 50–54, 55–59, 60–64, 65–69, 70–74, 75–79, 80–84, 85–89, 90–94 and ≥95 years).
+Among the AHEI components globally, four component scores were lower among children versus adults: fruit (2.2 (2.1, 2.3) versus 2.5 (2.4, 2.5), respectively), non-starchy vegetables (3.1 (3.0, 4.5) versus 4.3 (4.2, 3.2)), SSBs (5.3 (5.1, 5.5) versus 6.1 (6.0, 6.2)) and seafood omega-3 (3.3 (2.9, 4.0) versus 4.7 (4.2, 5.7)), while two others were higher among children versus adults: PUFAs (2.1 (2.0, 2.2) versus 1.4 (1.3, 1.5)) and sodium (4.6 (4.1, 5.1) versus 3.2 (2.9, 3.5)) (Fig.1).
+By sex, the mean AHEI score was generally higher in women versus men globally and regionally, with the greatest differences seen in high-income countries (difference +4.4; 3.8, 5.0), and Central/Eastern Europe and Central Asia (+3.6; 2.1, 5.3) (Extended Data Fig.1). Evaluating different AHEI components globally, women had modestly higher scores for fruit (+0.2; 0.2, 0.3), non-starchy vegetables (+0.3; 0.1, 0.4) and whole grains (+0.4; 0.2, 0.5).
+Evaluating differences according to educational attainment, AHEI scores were greater among individuals with a higher education level globally and in most regions, except in the Middle East and Northern Africa and Sub-Saharan Africa, where no differences were evident (Fig.4). Among world regions, differences by education were largest in Central/Eastern Europe and Central Asia (+3.6; 2.4, 4.9), Latin America and the Caribbean (+3.5; 0.9, 6.0) and South Asia (+2.9; 1.1, 4.9). Globally, more educated individuals had higher scores for fruit (+0.8; 0.7, 0.9), sodium (+0.7; 0.3, 1.1), whole grains (+0.6; 0.4, 0.8) and non-starchy vegetables (+0.5; 0.4, 0.6). However, in contrast, more educated individuals also had lower scores (less favourable consumption levels) for red/processed meat (−0.6; −0.7, −0.5), SSBs (−0.6; −0.8, −0.4) and nuts and legumes (−0.1; −0.2, −0.1) globally.
+AHEI score: nine components scored from 0 to 10 each and scaled to ten components (correction not shown). The absolute difference by education was computed as the difference at the stratum level and aggregated to the global and regional mean differences using weighted population proportions for low (<6 years) and high education levels (≥12 years) only (excludes education level ≥6 and <12 years).
+Globally, AHEI scores did not significantly vary by urban versus rural residence (Fig.5). However, higher scores were evident among urban versus rural individuals in Central/Eastern Europe and Central Asia (difference +2.2; 0.9, 3.5), and Southeast and East Asia (+1.4; 0.6, 2.4), and lower scores among urban versus rural individuals in the Middle East and Northern Africa (−3.8; −5.5, −2.2). Globally, individuals residing in urban areas had higher scores for fruit (+0.2; 0.2, 0.3) and whole grains (+0.2; 0.1, 0.4), but lower scores for SSBs (−0.5; −0.7, −0.4), red/processed meat (−0.4, −0.5, −0.1) and legumes/nuts (−0.1; −0.2, −0.1).
+AHEI score: nine components scored from 0 to 10 each and scaled to ten components (correction not shown). The absolute difference by urbanicity was computed as the difference at the stratum level and aggregated to the global and regional mean differences using weighted population proportions.
+Between 1990 and 2018, the mean global AHEI score (standardized to 2018 population distributions) increased by +1.5 (1.0, 2.0). Increasing trends occurred in five of seven regions: Central/Eastern Europe and Central Asia (+4.6; 4.0, 5.3); high-income countries (+3.2; 2.9, 3.5); Southeast and East Asia (+2.7; 1.7, 3.8); the Middle East and Northern Africa (+2.2; 1.4, 3.0); and Latin America and the Caribbean (+1.3; 0.6, 2.0). No significant change was seen in South Asia (0; −0.9, 1.1), and a decreasing trend was seen in Sub-Saharan Africa (−1.1; −1.8, −0.4) (Fig.6).
+AHEI score: nine components scored from 0 to 10 each and scaled to ten components (correction not shown). The absolute difference by time was computed as the difference at the stratum level and aggregated to the global and regional mean differences using weighted population proportions for 2018.
+Among AHEI components globally, scores increased over time for non-starchy vegetables (+1.1; 1.0, 1.2), legumes/nuts (+1.1; 1.0, 1.3) and fruit (+0.1; 0.1, 0.2); decreased for red/processed meat (−1.4; −1.5, −1.2), SSBs (−0.6; −0.7, −0.6) and sodium (−0.4; −0.6, −0.2); and remained stable for whole grains (+0.1; 0, 0.2), PUFAs (0; 0, 0.1) and seafood omega-3 (0; 0, 0.1).
+Among the most populous countries, the largest absolute improvement in the AHEI score between 1990 and 2018 occurred in Iran (+12.0; 9.9, 13.9), the United States (+4.6; 4.1, 5.1), Vietnam (+4.5; 2.4, 7.2) and China (+4.3; 2.8, 5.9), while the largest declines were found in Tanzania (−3.7; −5.8, −1.5), Nigeria (−3.0; −5.3, −0.7), Japan (−2.7; −3.1, −2.3) and the Philippines (−1.8; −2.7, −0.9) (Fig.7).
+The AHEI score ranged from 0 to 100. The absolute difference between 2018 and 1990 was computed as the difference at the stratum level and aggregated to the national mean differences using weighted population proportions for 2018.
+Detailed findings for the DASH and MED scores are presented inSupplementary Information. Briefly, global mean DASH and MED scores in 2018 were 22.9 (22.6, 23.2) and 4.1 (3.9, 4.2), respectively (Extended Data Figs.2and3). Regionally, means for these scores were consistently higher in South Asia, and lower in Latin America and the Caribbean (Extended Data Figs.4and5). Among population subgroups, global DASH and MED scores were higher among adults compared with children (DASH: 23.2 (22.9, 23.4) versus 22.3 (21.9, 22.7); MED: 4.3 (4.1, 4.4) versus 3.7 (3.5, 3.8)), but did not appreciably differ by sex (Extended Data Figs.2and3). Global mean scores were higher among more versus less educated individuals (difference +2.6 (2.3, 2.8) and +0.3 (0.2, 0.4), respectively) (Extended Data Fig.7), and, for DASH only, among urban versus rural individuals (+0.4; 0.2, 0.7) (Extended Data Fig.8). Worldwide, the mean DASH and MED scores increased modestly between 1990 and 2018, by +1.0 (0.8, 1.1) for DASH and +0.3 (0.2, 0.4) for MED (Extended Data Figs.6and9). Across strata in 2018, the inter-correlations of the dietary pattern scores were 0.8 for AHEI and DASH, 0.5 for AHEI and MED, and 0.6 for DASH and MED.
+In this global assessment of different dietary patterns across 185 countries in 1990 and 2018, we found modest overall dietary quality, but with important variation by age, sex, education, urbanicity, time and world region, as well as by dietary component. These results, based on the systematic collection and standardization of more than 1,100 individual-level dietary surveys worldwide, provide the most current and comprehensive estimates of global, regional and national dietary quality among adults and children, in subgroups according to educational attainment and urban versus rural residence, and comparing three validated dietary patterns including the AHEI, DASH and MED17. These results have important implications for public health and inform priorities in each nation and subnational subgroup to improve nutrition security and health equity.
+As one example, our findings highlight the regional differences between insufficient intakes of healthful foods versus excess intakes of unhealthful foods. For instance, the highest dietary pattern scores in 2018 were identified in low-income countries in South Asia and Sub-Saharan Africa, where relatively low consumption of SSBs and red/processed meats is consistent with national data on food or beverage volume sales19. However, consumption of healthy components, such as fruit, non-starchy vegetables, legumes/nuts, seafood omega-3 fat and PUFAs, were also far from optimal in these nations. This suggests that a major focus on policies and innovations to increase intakes of produce, seafood and plant oils will have the largest impact on dietary quality in these countries.
+By contrast, in high-income countries, Central/Eastern Europe and Central Asia, and the Middle East and Northern Africa, increasing intakes of fruit, non-starchy vegetables, legumes/nuts and whole grains have improved dietary quality over time, but have been offset by stable trends or only minor reductions in red/processed meats, SSBs and sodium. We found that red/processed meat and sodium have each significantly increased over time in Asia and Latin America and the Caribbean, consistent with previous nation-specific reports from China, Japan and Mexico20,21,22. These findings suggest that a dual focus on increasing healthful foods and lowering of harmful factors is essential in these regions, especially for nations in Asia and Latin America and the Caribbean.
+Several studies have documented that the AHEI is associated with the risk of non-communicable diseases23. For example, pooled findings from two US cohorts found a 24%, 33% and 6% reduction in the incidence of cardiovascular disease, diabetes mellitus and cancer, respectively, for the highest AHEI quintile (median 64.5) compared with the lowest quintile (median 36.9; comparable to the global mean in our study, 40.3 (95% UI 39.4, 41.3)) (ref.24). Cohorts have also found that a moderate increase (20-percentile increase) in the AHEI score during follow-up was associated with significantly lower risk of cardiovascular disease mortality and cancer mortality25. Similar relationships have been observed in France26, the United Kingdom27and Singapore28,29. Such associations suggest that the current quality of global diets identified in this study is leading to preventable chronic disease and mortality, and that modest improvements in dietary quality can contribute to reductions in fatal and non-fatal diet-related diseases over time.
+Our findings on global diet patterns among infants, children and adolescents have important implications for child nutrition and health. We found that diet quality was generally highest among infants and young children and worsened into adolescence, emphasizing the need for initiatives to aim to improve dietary quality in older children, as well as promote healthy eating habits in early childhood to translate into improved dietary quality in adolescence and adulthood. Although, diet quality was highest among children in Sub-Saharan Africa and South Asia, we found that diet quality worsened or remained stable over time in these regions. Children with more educated parents had higher dietary quality in all regions except South Asia and the Middle East and Northern Africa, while better diet quality was found among children residing in urban areas in Central/Eastern Europe and Central Asia and Southeast and East Asia, and rural areas in the Middle East and Northern Africa. Worse dietary quality in children is associated with stunting, cardiometabolic risk factors (for example, blood pressure, blood lipid levels, glucose control and obesity) and lower health-related quality of life30,31,32,33,34,35, and dietary habits and food preferences established during early life influence later habits throughout childhood and into adulthood36,37,38.
+Dietary disparities by education or income level have been reported in specific, mostly high-income nations or selected groups of nations8,39,40,41, but not globally. Our findings demonstrate that more educated individuals had higher overall dietary quality in most, but not all, world regions, with largest impacts of education among nations in Central/Eastern Europe and Central Asia, Latin America and the Caribbean, and South Asia. We also identified key exceptions in the Middle East and Northern Africa, and Sub-Saharan Africa, where dietary quality did not vary by education level. Notably, higher education was generally linked to greater consumption of fruits, non-starchy vegetables, whole grains and plant oils, but not always to lower consumption of SSBs and red/processed meat. Interestingly, urbanicity differentially influenced dietary quality in different world regions, with better dietary quality among urban versus rural residents in Central/Eastern Europe and Central Asia and Southeast and East Asia, but the opposite in the Middle East and Northern Africa, related to specific differences in the consumption of the underlying healthful versus unhealthful components among urban versus rural residents in these regions.
+In agreement with our earlier analysis of healthy and unhealthy dietary scores16, we found that, compared with lower-income countries, higher-income countries had better scores for healthy components (for example, fruit and whole grains) but worse scores for unhealthy components (for example, red/processed meats and sodium).
+This investigation has several strengths. Our data and findings build upon and expand the previous literature by including the largest number of individual-level dietary surveys, providing a more contemporary estimate of trends in global dietary quality and estimating global dietary quality in children and adolescents, which has not been previously reported. We included 1,139 dietary surveys, most of which were nationally representative and collected at the individual-level using 24 h recalls or food-frequency questionnaires (FFQs). We standardized all data inputs including dietary factor definitions, units and age-specific energy adjustment, and incorporated Bayesian modelling with survey and country covariates to address heterogeneity and sampling and modelling uncertainty42. We assessed subnational differences by age, sex, education and urbanicity, including the first global estimates of dietary patterns by educational attainment and urban versus rural residence. We characterized three established metrics for diet quality, each validated against major health outcomes17, including the similarities and differences in global, regional and national dietary quality depending on the dietary metric.
+Potential limitations should be considered. While we made extensive efforts to minimize bias and incorporate heterogeneity and uncertainty, individual-level dietary data are subject to measurement errors, and survey availability was limited or incomplete for some nations, dietary factors, demographic groups and years16,42. For example, less than a quarter of surveys included data on children aged 3–9 years and adults ≥85 years. The Bayesian hierarchical models incorporated additional uncertainty to account for these limitations, but sampling and/or information bias cannot be ruled out16. To allow for comparability between population subgroups, we standardized dietary intakes to 2,000 kcal per day before computing the dietary patterns, but the unadjusted dietary intakes may be lower among populations with lower energy requirements (for example, infants and young children, and seniors) or higher among populations consuming >2,000 kcal per day. We did not have information ontransfat (AHEI) or alcohol use (AHEI and MED), and our findings should be interpreted as dietary quality based on the other components of these scores. The dietary patterns selected (AHEI, MED and DASH) were originally developed and validated for adult populations in high-income countries but have been used to characterize dietary quality among children and seniors33,43,44. It is important to note that a single or suite of dietary metrics has not been developed or validated to assess micronutrient quality of the diet in all age groups17, and the AHEI, MED and DASH may be inadequately correlated with nutrients of concern, particularly among children and in low- and middle-income countries. Caution is warranted when interpreting the findings in relation to nutrient adequacy. However, in the absence of validated metrics for the double burden of malnutrition, the AHEI, MED and DASH are appropriate metrics for assessing dietary quality across populations17. We did not consider other, less validated dietary indices and scores16,17,45,46, which can be assessed once these have been better validated for use in diverse global populations.
+In conclusion, we found global dietary quality to be only modest today, and with only some improvement, although inconsistent by world region, over the past three decades.
+These results provide comprehensive global information about individual-level dietary patterns among children and adults, by age, sex, education and urbanicity. Our findings highlight the substantial variation in dietary quality and inform the need for specific national and subnational policies to improve nutrition security and nutrition equity.
+Our methods and findings for identifying dietary surveys, data extraction, standardization and harmonization, and modelling have been reported18,42,47,48. In brief, we systematically searched, identified and collated data from nationally and subnationally representative surveys (or local representative community surveys when national and subnational were not available) on individual-level dietary intakes, and for sodium intake, as well as additional biomarker surveys18,42. Household budget surveys were used rarely when individual-level dietary surveys were not identified for a populous country18,42. In total, we compiled data from 1,248 dietary surveys from 188 countries. Of these, 1,139 surveys from 175 countries (representing 7.46 billion of the world population in 2018) reported data on the nine foods, three beverages and six nutrients measured in the dietary pattern scores in the present analysis. Most surveys were nationally or subnationally representative (89.1%); used an FFQ (42.1%) or 24 h recall (22.7%); included data on children (0–19 years) (73.9%) and adults (≥20 years) (64.5%); and included data on urban and/or rural residence (60.8%) (Supplementary Information Table4).
+For each survey in the GDD, we obtained and assessed the credibility of information obtaining relating to survey characteristics, including survey name, country, years performed, sampling methods, response rate, national representativeness, level of data collection (individual or household), dietary assessment method and validation, sample size, population demographics (age, sex, education, urban/rural residence and pregnancy/lactation status) and definitions and units of dietary factors18. We also extracted or obtained directly from the survey owners data on individual-level dietary intakes of up to 53 foods, beverages and nutrients, jointly stratified by age, sex, education and urban/rural residence. We evaluated dietary intakes adjusted to age-standardized energy intakes to assess dietary composition independently of quantity, account for estimated age-specific average requirements and reduce measurement error within and across surveys (Supplementary Information)42. Data were assessed for extraction errors and for plausibility using standardized protocols, and survey quality by evaluating evidence for selection bias, sample representativeness, response rate and validity of diet assessment method42.
+To account for differences in survey methods, representativeness, time trends, input data and uncertainty, a Bayesian model estimated the log-means of dietary intake (mean and standard deviation) within a nested hierarchical structure42. The model included random effects by country and region as well as globally; sex, education, urban/rural residence and non-linear age effects; survey-level indicator data for dietary assessment method (24 h recall, FFQ, Demographic Health Survey questionnaire and household budget survey) and type of dietary metric (optimal or suboptimal definition); and national year-specific covariate data relevant to each dietary factor42. The model included overdispersion of study-level variance for surveys that were not nationally representative or not stratified by sex, education, urbanicity or small age groups (≤10 years)42.
+The final model included estimates of consumption of each food or nutrient for 264 subgroups jointly stratified by sex (male or female), age group (<1, 1–2, 3–4, 5–9, 10–14, 15–19, 20–24, 25–29, 30–34, 35–39, 40–44, 45–49, 50–54, 55–59, 60–64, 65–69, 70–74, 75–79, 80–84, 85–89, 90–94 and ≥95 years), education (<6 years, ≥6 to <12 years, or ≥12 years) and urban versus rural residence; within 185 countries covering 99.0% of the world’s population in 201842. Uncertainty of each stratum-specific dietary factor estimate was quantified using 4,000 iterations to determine posterior distributions jointly by country, year, age, sex, education and urbanicity42. We computed the median intake and the 95% UI for each stratum from the 50th, 2.5th and 97.5th percentiles of the 4,000 draws, respectively42. Validity checks included: five-fold cross-validation (randomly omitting 20% of the raw survey data, run five times), comparing predicted versus observed intakes; assessment of implausible estimates; and visual assessment of national mean intakes using global heat maps42. A second time-component-based Bayesian model was used to strengthen time trend estimates for dietary factors with corresponding food or nutrient availability data (FAO Food Balance Sheets49and Global Expanded Nutrient Supply50)42. The model, commonly referred to as a varying slopes model, incorporated country-level intercepts, and slopes, along with their correlation that is estimated across countries42,51,52. The final GDD results were based on these two Bayesian models42, as detailed inSupplementary Information.
+For our primary analysis, we focused on the AHEI. For each stratum, we scored nine components: fruit, non-starchy vegetables, whole grains, SSBs, legumes/nuts, unprocessed red/processed meats, seafood omega-3 fat, PUFAs and sodium (alcohol andtransfat were not estimated in GDD) (Supplementary Table6). Each component was scored from 0 to 10, and the final score ranging from 0 to 90 was scaled to range from 0 to 100. DASH was calculated on the basis of eight components, scored from 1 to 5 using sex-specific quintiles, with the final score ranging from 8 to 40 (Supplementary Table7). MED was calculated on the basis of eight components (alcohol was not estimated), with each component scored as 0 or 1 using sex-specific medians and the final score ranging from 0 to 8 (Supplementary Table8). As scoring cutpoints for DASH and MED are based on observed population distributions, distributions were calculated for 2018 and used consistently in other years. As each of these scores is based on usual adult intakes, consumption levels of dietary factors in each stratum were standardized to 2,000 kcal per day for deriving the dietary pattern scores. For each dietary pattern, higher scores are given for higher intakes of healthier foods or nutrients and lower intakes of unhealthier foods or nutrients, and thus higher scores represent healthier diets.
+Population-weighted average dietary pattern scores for each population subgroup stratum in each country–year were calculated using all 4,000 posterior predictions for each of the components in that stratum to derive global, regional and national scores42. Annual population weights were derived from the United Nations Population Division53, supplemented with data on educational and urban/rural distributions from Barro Lee54and the United Nations55, respectively42. Spearman correlations assessed inter-relationships between each dietary pattern score. Changes in scores between 1990 and 2018 were calculated using all 4,000 posterior predictions for each stratum to account for the full spectrum of uncertainty and standardized to the proportion of individuals within each stratum in 2018 to account for changes in demographics over time42. Given the Bayesian nature of the analysis, formal statistical significance was not appropriate, and the 95% UIs should be used as a guide42.
+The modelled estimates of individual food and nutrient intakes by population subgroup, country, region and globe in 1990 and 2018 are available for download from the GDD (https://www.globaldietarydatabase.org/). Survey-level information and original data download weblinks are also provided for all public surveys; survey-level microdata or stratum-level aggregate data are provided for direct download for all non-public surveys granted consent for public sharing by the data owner. The modelled dietary quality scores are available for download from (https://github.com/victoriaemiller/GDD-Diet-Quality).
+The statistical coding is available from the corresponding author on reasonable request.
+A Correction to this paper has been published:https://doi.org/10.1038/s43016-023-00705-0
+2021 Global Nutrition Report: The State of Global Nutrition(Development Initiatives, 2021).
+GBD 2017 Causes of Death Collaborators. Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017.Lancethttps://doi.org/10.1016/s0140-6736(18)32203-7(2018).
+GBD 2017 Risk Factor Collaborators. Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017.Lancethttps://doi.org/10.1016/s0140-6736(18)32225-6(2018).
+GBD 2017 Diet Collaborators. Health effects of dietary risks in 195 countries, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017.Lancethttps://doi.org/10.1016/s0140-6736(19)30041-8(2019).
+Sacks, F. M. et al. Rationale and design of the Dietary Approaches to Stop Hypertension trial (DASH). A multicenter controlled-feeding study of dietary patterns to lower blood pressure.Ann. Epidemiol.5, 108–118 (1995).
+ArticleCASGoogle Scholar
+Hu, F. B. Dietary pattern analysis: a new direction in nutritional epidemiology.Curr. Opin. Lipidol.13, 3–9 (2002).
+ArticleCASGoogle Scholar
+Micha, R. et al. Etiologic effects and optimal intakes of foods and nutrients for risk of cardiovascular diseases and diabetes: systematic reviews and meta-analyses from the Nutrition and Chronic Diseases Expert Group (NutriCoDE).PLoS ONE12, e0175149 (2017).
+Teo, K. et al. Prevalence of a healthy lifestyle among individuals with cardiovascular disease in high-, middle- and low-income countries: the Prospective Urban Rural Epidemiology (PURE) study.JAMA309, 1613–1621 (2013).
+ArticleCASGoogle Scholar
+Yusuf, S. et al. Modifiable risk factors, cardiovascular disease, and mortality in 155 722 individuals from 21 high-income, middle-income, and low-income countries (PURE): a prospective cohort study.Lancet395, 795–808 (2020).
+ArticleGoogle Scholar
+Ezzati, M. & Riboli, E. Behavioral and dietary risk factors for noncommunicable diseases.N. Engl. J. Med.369, 954–964 (2013).
+ArticleCASGoogle Scholar
+Kennedy, G., Nantel, G. & Shetty, P. Globalization of food systems in developing countries: impact on food security and nutrition.FAO Food Nutr. Pap.83, 1–300 (2004).
+Google Scholar
+Wang, D. D. et al. Global improvement in dietary quality could lead to substantial reduction in premature death.J. Nutr.149, 1065–1074 (2019).
+ArticleGoogle Scholar
+Vandevijvere, S. et al. Monitoring and benchmarking population diet quality globally: a step-wise approach.Obes. Rev.14, 135–149 (2013).
+ArticleGoogle Scholar
+Green, R., Sutherland, J., Dangour, A. D., Shankar, B. & Webb, P. Global dietary quality, undernutrition and non-communicable disease: a longitudinal modelling study.BMJ Open6, e009331 (2016).
+ArticleGoogle Scholar
+Del Gobbo, L. C. et al. Assessing global dietary habits: a comparison of national estimates from the FAO and the Global Dietary Database.Am. J. Clin. Nutr.101, 1038–1046 (2015).
+ArticleGoogle Scholar
+Imamura, F. et al. Dietary quality among men and women in 187 countries in 1990 and 2010: a systematic assessment.Lancet Glob. Health3, e132–e142 (2015).
+ArticleGoogle Scholar
+Miller, V., Webb, P., Micha, R. & Mozaffarian, D. Defining diet quality: a synthesis of dietary quality metrics and their validity for the double burden of malnutrition.Lancet Planet Health4, e352–e370 (2020).
+ArticleGoogle Scholar
+Miller, V. et al. Global Dietary Database 2017: data availability and gaps on 54 major foods, beverages and nutrients among 5.6 million children and adults from 1220 surveys worldwide.BMJ Global Health6, e003585 (2021).
+ArticleGoogle Scholar
+Vandevijvere, S. et al. Global trends in ultraprocessed food and drink product sales and their association with adult body mass index trajectories.Obes. Rev.20, 10–19 (2019).
+ArticleGoogle Scholar
+Li, Y. et al. Time trends of dietary and lifestyle factors and their potential impact on diabetes burden in China.Diabetes Care40, 1685–1694 (2017).
+ArticleGoogle Scholar
+Murakami, K., Livingstone, M. B. E. & Sasaki, S. Thirteen-year trends in dietary patterns among Japanese adults in the National Health and Nutrition Survey 2003–2015: continuous Westernization of the Japanese diet.Nutrients10, 994 (2018).
+ArticleGoogle Scholar
+Marrón-Ponce, J. A., Tolentino-Mayo, L., Hernández-F, M. & Batis, C. Trends in ultra-processed food purchases from 1984 to 2016 in Mexican Households.Nutrients11, 45 (2018).
+ArticleGoogle Scholar
+Schwingshackl, L., Bogensberger, B. & Hoffmann, G. Diet quality as assessed by the healthy eating index, alternate healthy eating index, dietary approaches to stop hypertension score, and health outcomes: an updated systematic review and meta-analysis of cohort studies.J. Acad. Nutr. Diet118, 74–100.e111 (2018).
+ArticleGoogle Scholar
+Chiuve, S. E. et al. Alternative dietary indices both strongly predict risk of chronic disease.J. Nutr.142, 1009–1018 (2012).
+ArticleCASGoogle Scholar
+Sotos-Prieto, M. et al. Association of changes in diet quality with total and cause-specific mortality.N. Engl. J. Med.377, 143–153 (2017).
+ArticleGoogle Scholar
+Trébuchet, A. et al. Prospective association between several dietary scores and risk of cardiovascular diseases: is the Mediterranean diet equally associated to cardiovascular diseases compared to National Nutritional Scores?Am. Heart J.217, 1–12 (2019).
+ArticleGoogle Scholar
+Shivappa, N., Hebert, J. R., Kivimaki, M. & Akbaraly, T. Alternative Healthy Eating Index 2010, Dietary Inflammatory Index and risk of mortality: results from the Whitehall II cohort study and meta-analysis of previous Dietary Inflammatory Index and mortality studies.Br. J. Nutr.118, 210–221 (2017).
+ArticleCASGoogle Scholar
+Neelakantan, N., Koh, W.-P., Yuan, J.-M. & van Dam, R. M. Diet-quality indexes are associated with a lower risk of cardiovascular, respiratory, and all-cause mortality among Chinese adults.J. Nutr.148, 1323–1332 (2018).
+ArticleGoogle Scholar
+Chen, G.-C. et al. Diet quality indices and risk of type 2 diabetes mellitus: The Singapore Chinese Health Study.Am. J. Epidemiol.187, 2651–2661 (2018).
+ArticleGoogle Scholar
+Wu, X. Y. et al. The influence of diet quality and dietary behavior on health-related quality of life in the general population of children and adolescents: a systematic review and meta-analysis.Qual. Life Res.28, 1989–2015 (2019).
+ArticleGoogle Scholar
+Dalwood, P., Marshall, S., Burrows, T. L., McIntosh, A. & Collins, C. E. Diet quality indices and their associations with health-related outcomes in children and adolescents: an updated systematic review.Nutr. J.19, 118 (2020).
+ArticleGoogle Scholar
+Jennings, A., Welch, A., van Sluijs, E. M., Griffin, S. J. & Cassidy, A. Diet quality is independently associated with weight status in children aged 9-10 years.J. Nutr.141, 453–459 (2011).
+ArticleCASGoogle Scholar
+Marshall, S., Burrows, T. & Collins, C. E. Systematic review of diet quality indices and their associations with health-related outcomes in children and adolescents.J. Hum. Nutr. Diet27, 577–598 (2014).
+ArticleCASGoogle Scholar
+Krasevec, J., An, X., Kumapley, R., Bégin, F. & Frongillo, E. A. Diet quality and risk of stunting among infants and young children in low- and middle-income countries.Matern. Child Nutr.https://doi.org/10.1111/mcn.12430(2017).
+Martin-Calvo, N., Chavarro, J. E., Falbe, J., Hu, F. B. & Field, A. E. Adherence to the Mediterranean dietary pattern and BMI change among US adolescents.Int. J. Obes.40, 1103–1108 (2016).
+ArticleCASGoogle Scholar
+Switkowski, K. M., Gingras, V., Rifas-Shiman, S. L. & Oken, E. Patterns of complementary feeding behaviors predict diet quality in early childhood.Nutrients12, 810 (2020).
+ArticleGoogle Scholar
+Mikkilä, V., Räsänen, L., Raitakari, O. T., Pietinen, P. & Viikari, J. Longitudinal changes in diet from childhood into adulthood with respect to risk of cardiovascular diseases: The Cardiovascular Risk in Young Finns Study.Eur. J. Clin. Nutr.58, 1038–1045 (2004).
+ArticleGoogle Scholar
+Lake, A. A., Mathers, J. C., Rugg-Gunn, A. J. & Adamson, A. J. Longitudinal change in food habits between adolescence (11–12 years) and adulthood (32–33 years): the ASH30 Study.J. Public Health28, 10–16 (2006).
+ArticleGoogle Scholar
+Wang, D. D. et al. Trends in dietary quality among adults in the United States, 1999 through 2010.JAMA Intern. Med.174, 1587–1595 (2014).
+ArticleGoogle Scholar
+Fang Zhang, F. et al. Trends and disparities in diet quality among US adults by supplemental nutrition assistance program participation status.JAMA Netw. Open1, e180237 (2018).
+ArticleGoogle Scholar
+Dehghan, M. et al. Relationship between healthy diet and risk of cardiovascular disease among patients on drug therapies for secondary prevention.Circulation126, 2705–2712 (2012).
+ArticleCASGoogle Scholar
+Miller, V. et al. Global, regional, and national consumption of animal-source foods between 1990 and 2018: findings from the Global Dietary Database.Lancet Planet. Health6, e243–e256 (2022).
+ArticleGoogle Scholar
+Chen, X., Maguire, B., Brodaty, H. & O’Leary, F. Dietary patterns and cognitive health in older adults: a systematic review.J. Alzheimers Dis.67, 583–619 (2019).
+ArticleGoogle Scholar
+Roman, B., Carta, L., Martínez-González, M. A. & Serra-Majem, L. Effectiveness of the Mediterranean diet in the elderly.Clin. Interv. Aging3, 97–109 (2008).
+ArticleGoogle Scholar
+Bromage, S. et al. Development and validation of a novel food-based global diet quality score (GDQS).J. Nutr.151, 75s–92s (2021).
+ArticleGoogle Scholar
+Herforth, A. W., Wiesmann, D., Martínez-Steele, E., Andrade, G. & Monteiro, C. A. Introducing a suite of low-burden diet quality indicators that reflect healthy diet patterns at population level.Curr. Dev. Nutr.4, nzaa168–nzaa168 (2020).
+ArticleCASGoogle Scholar
+Micha, R. et al. Estimating the global and regional burden of suboptimal nutrition on chronic disease: methods and inputs to the analysis.Eur. J. Clin. Nutr.66, 119–129 (2012).
+ArticleCASGoogle Scholar
+Khatibzadeh, S. et al. A global database of food and nutrient consumption.Bull. World Health Organ.94, 931–934 (2016).
+ArticleGoogle Scholar
+Food and Agriculture Organization of the United Nations. Food balances. 2021.https://www.fao.org/faostat/en/#data2021(accessed March 3, 2021).
+Smith, M. R., Micha, R., Golden, C. D., Mozaffarian, D. & Myers, S. S. Global Expanded Nutrient Supply (GENuS) Model: a new method for estimating the global dietary supply of nutrients.PLoS ONE11, e0146976 (2016).
+ArticleGoogle Scholar
+Gelman, A. & Pardoe, I. Bayesian measures of explained variance and pooling in multilevel (hierarchical) models.Technometrics48, 241–251 (2006).
+ArticleGoogle Scholar
+Wagner, T., Diefenbach, D. R., Christensen, S. & Norton, A. S. Using multilevel models to quantify heterogeneity in resource selection.J. Wildl. Manag.75, 1788–1796 (2011).
+ArticleGoogle Scholar
+United Nations Population Division. Total population by sex (thousands). 2019.https://population.un.org/wpp/DataQuery/2019(accessed June 12, 2020).
+Barro, R. & Lee, J. A new data set of educational attainment in the world, 1950–2010.J. Dev. Econ104, 184–198 (2013).
+ArticleGoogle Scholar
+United Nations Population Division. Urban population (% of total population). 2018.https://data.worldbank.org/indicator/SP.URB. TOTL.IN.ZS2018 (accessed June 12, 2020).
+Download references
+We thank R. Micha for her work harmonizing the individual dietary surveys included in the GDD. We thank the GDD corresponding members for sharing and harmonizing their dietary surveys in accordance with the GDD methods. This study was supported by grants from the Bill and Melinda Gates Foundation (OPP1176681; D.M.) and from the American Heart Association (20POST35200069; V.M.). The Bill and Melinda Gates Foundation contributed to study design during the grant application process; the funders otherwise had no role in data collection, data analysis, data interpretation or writing of the report.
+Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA
+Victoria Miller, Patrick Webb, Frederick Cudhea, Peilin Shi, Jianyi Zhang, Julia Reedy, Josh Erndt-Marino, Jennifer Coates & Dariush Mozaffarian
+Department of Medicine, McMaster University, Hamilton, Ontario, Canada
+Victoria Miller
+Population Health Research Institute, Hamilton, Ontario, Canada
+Victoria Miller
+Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA, USA
+Jianyi Zhang
+Acibadem University, Istanbul, Turkey
+Murat Bas
+Addis Ababa University, Addis Ababa, Ethiopia
+Jemal Haidar Ali
+Al Ain University, Abu Dhabi, UAE
+Suhad Abumweis
+All India Institute of Medical Sciences, New Delhi, India
+Anand Krishnan & Puneet Misra
+American University of Beirut, Beirut, Lebanon
+Nahla Chawkat Hwalla
+Amrita School of Dentistry, Ernakulam, India
+Chandrashekar Janakiram
+Andalas University, Padang, Indonesia
+Nur Indrawaty Liputo
+Arab Center for Nutrition, Manama, Bahrain
+Abdulrahman Musaiger
+Ardabil University of Medical Sciences, Ardabil, Islamic Republic of Iran
+Farhad Pourfarzi
+Bacha Khan University, Charsadda, Pakistan
+Iftikhar Alam
+Belgian Public Health Institute, Brussels, Belgium
+Karin DeRidder
+Biodiversity International, Maccarese, Italy
+Celine Termote
+Brighton and Sussex Medical School, Brighton, UK
+Anjum Memon
+CREA-Alimenti e Nutrizione, Rome, Italy
+Aida Turrini, Elisabetta Lupotto, Raffaela Piccinelli & Stefania Sette
+Cadi Ayyad University, Ben Guerir, Morocco
+Karim Anzid
+Center for Studies of Sensory Impairment, Aging and Metabolism (CeSSIAM), Guatemala City, Guatemala
+Marieke Vossenaar
+Centre For Media Studies, New Delhi, India
+Paramita Mazumdar
+Centro de Atencion Nutricional Antimano (CANIA), Miami, FL, USA
+Ingrid Rached
+Centro de Estudios sobre Nutrición Infantil (CESNI), Buenos Aires, Argentina
+Alicia Rovirosa & María Elisa Zapata
+College of Applied Sciences, Department of Food Science and Applied Nutrition, Addis Ababa Science and Technology University, Addis Ababa, Ethiopia
+Tamene Taye Asayehu
+Consultative Group on International Agricultural Research (CGIAR), Montpellier, France
+Francis Oduor, Julia Boedecker & Lilian Aluso
+Cuenca University, Cuenca, Ecuador
+Johana Ortiz-Ulloa
+Delhi School of Economics, University of Delhi, Delhi, India
+J. V. Meenakshi
+Departamento de Alimentacao Escolar, Sao Paulo, Brazil
+Michelle Castro
+Department of Biomedical and Biotechnological Sciences, University of Catnia, Catania, Italy
+Giuseppe Grosso
+Department of CVD Epidemiology, Prevention and Health Promotion, Institute of Cardiology, Warsaw, Poland
+Anna Waskiewicz
+Department of Community Health Sciences, Aga Khan University, Karachi, Pakistan
+Umber S. Khan
+Diabetes Center, 2nd Department of Internal Medicine, Athens University, Athens, Greece
+Anastasia Thanopoulou
+Digestive Disease Research Institute, Tehran University of Medical Sciences, Tehran, Islamic Republic of Iran
+Reza Malekzadeh
+Directorate for Health Information & Research, Tarxien, Malta
+Neville Calleja
+Dutch National Institute for Public Health and the Environment (RIVM), Bilthoven, Netherlands
+Marga Ocke & Zohreh Etemad
+Eastern Mediterranean Public Health Network (EMPHNET), Amman, Jordan
+Mohannad Al Nsour
+Egerton University, Njoro, Kenya
+Lydiah M. Waswa
+Estonian National Institute for Health Development, Tallinn, Estonia
+Eha Nurk
+FHI Solutions, Washington, DC, USA
+Joanne Arsenault
+FOSCAL and UDES, Bucaramanga, Colombia
+Patricio Lopez-Jaramillo
+Faculty of Health Sciences, American University of Beirut, Beirut, Lebanon
+Abla Mehio Sibai
+Faculty of Medicine, Eduardo Mondlane University, Maputo, Mozambique
+Albertino Damasceno
+Faculty of Medicine, University of Colombo, Colombo 5, Sri Lanka
+Carukshi Arambepola
+Faculty of Medicine – Institute of Public Health, University of Porto, Porto, Portugal
+Carla Lopes, Milton Severo & Nuno Lunet
+Faculty of Nutrition and Food Sciences, University of Porto, Porto, Portugal
+Duarte Torres
+Finnish Institute for Health and Welfare, Helsinki, Finland
+Heli Tapanainen, Jaana Lindstrom & Suvi Virtanen
+Florida International University, Miami, FL, USA
+Cristina Palacios
+Folkhälsan Research Center, Helsinki, Finland
+Eva Roos
+Food and Nutrition Research Institue (DOST-FNRI), Manila, Philippines
+Imelda Angeles Agdeppa & Josie Desnacido
+Food and Nutrition Research Institue (DOST-FNRI), Taguig City, Philippines
+Mario Capanzana
+Fortis CDOC Center for Excellence for Diabetes, New Delhi, India
+Anoop Misra
+FrieslandCampina, Amersfoort, The Netherlands
+Ilse Khouw & Swee Ai Ng
+Fundacion Cardiovascular de Colombia, Bucaramanga, Colombia
+Edna Gamboa Delgado
+Fundacion INFANT and Consejo Nacional De Investigaciones Cientificas y Tecnicas (CONICET), Buenos Aires, Argentina
+Mauricio Caballero
+Fundacion Oftalmologica de Santander (FOSCAL), Floridablanca, Colombia
+Johanna Otero
+Gachon University, Seongnam-si, South Korea
+Hae-Jeung Lee
+Gazi University, Ankara, Turkey
+Eda Koksal
+Geneva University Hospitals, Geneva, Switzerland
+Idris Guessous
+Ghent University, Ghent, Belgium
+Carl Lachat & Stefaan De Henauw
+Global Dietary Database Consortium, Boston, MA, USA
+Ali Reza Rahbar, Alison Tedstone, Androniki Naska, Angie Mathee, Annie Ling, Bemnet Tedla, Beth Hopping, Brahmam Ginnela, Catherine Leclercq, Charmaine Duante, Christian Haerpfer, Christine Hotz, Christos Pitsavos, Colin Rehm, Coline van Oosterhout, Corazon Cerdena, Debbie Bradshaw, Dimitrios Trichopoulos, Dorothy Gauci, Dulitha Fernando, Elzbieta Sygnowska, Erkki Vartiainen, Farshad Farzadfar, Gabor Zajkas, Gillian Swan, Guansheng Ma, Gulden Pekcan, Hajah Masni Ibrahim, Harri Sinkko, Helene Enghardt Barbieri, Isabelle Sioen, Jannicke Myhre, Jean-Michel Gaspoz, Jillian Odenkirk, Kanitta Bundhamcharoen, Keiu Nelis, Khairul Zarina, Lajos Biro, Lars Johansson, Laufey Steingrimsdottir, Leanne Riley, Mabel Yap, Manami Inoue, Maria Szabo, Marja-Leena Ovaskainen, Meei-Shyuan Lee, Mei Fen Chan, Melanie Cowan, Mirnalini Kandiah, Ola Kally, Olof Jonsdottir, Pam Palmer, Peter Vollenweider, Philippos Orfanos, Renzo Asciak, Robert Templeton, Rokiah Don, Roseyati Yaakub, Rusidah Selamat, Safiah Yusof, Sameer Al-Zenki, Shu-Yi Hung, Sigrid Beer-Borst, Suh Wu, Widjaja Lukito, Wilbur Hadden, Wulf Becker, Xia Cao, Yi Ma, Yuen Lai & Zaiton Hjdaud
+Government of Canada, Statistics Canada, Ottawa, Ontario, Canada
+Didier Garriguet, Jennifer Ali, Ron Gravel & Tina Tao
+Griffith University, Gold Coast, Queensland, Australia
+Jacob Lennert Veerman
+HC Jehangir Medical Research Institute, Pune, India
+Shashi Chiplonkar
+Hacettepe University Faculty of Medicine, Ankara, Turkey
+Mustafa Arici
+Hanoi Medical University, Hanoi, Vietnam
+Le Tran Ngoan
+Harokopio University, Athens, Greece
+Demosthenes Panagiotakos
+Harvard School of Public Health, Cambridge, MA, USA
+Yanping Li
+Hellenic Health Foundation and University of Athens, Athens, Greece
+Antonia Trichopoulou
+Herbert Wetheim College of Medicine, Miami, FL, USA
+Noel Barengo
+Hirabai Cowasji Jehangir Medical Research Institute, Pune, India
+Anuradha Khadilkar & Veena Ekbote
+Hypertension Research Center, Cardiovascular Research Center, Isfahan University of Medical Sciences, Isfahan, Iran
+Noushin Mohammadifard
+ICCAS (Instituto para la Cooperacion Científica en Ambiente y Salud), Buenos Aires, Argentina
+Irina Kovalskys
+ICMR-National Institute of Nutrition, Hyderabad, India
+Avula Laxmaiah, Harikumar Rachakulla, Hemalatha Rajkumar, Indrapal Meshram, Laxmaiah Avula, Nimmathota Arlappa & Rajkumar Hemalatha
+IRCCS Neuromed, Pozzilli, Italy
+Licia lacoviello, Marialaura Bonaccio & Simona Costanzo
+Institut de Recherche pour le Developpement, Montpellier, France
+Yves Martin-Prevel
+Institut de Veille Sanitaire, Bobigny, France
+Katia Castetbon
+Institute for International Investigation, NDRI-USA, New York, NY, USA
+Nattinee Jitnarin
+Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan ROC
+Yao-Te Hsieh
+Institute of Nutrition and Food Technology (INTA), University of Chile, Santiago, Chile
+Sonia Olivares
+Institute of Nutrition in Central America and Panama (INCAP), Guatemala City, Guatemala
+Gabriela Tejeda
+Institute of Public Health of Federation of Bosnia and Herzegovina, Sarajevo, Bosnia and Herzegovina
+Aida Hadziomeragic
+Institute of Studies in Public Health, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil
+Amanda de Moura Souza
+Institutes of Biomedical Sciences, Academia Sinica, Taipei, Taiwan ROC
+Wen-Harn Pan
+International Agency for Research on Cancer, Lyon, France
+Inge Huybrechts
+International Food Policy Research Institute (IFPRI), Washington, DC, USA
+Alan de Brauw & Mourad Moursi
+Interventional Cardiology Research Center, Cardiovascular Research Center, Isfahan University of Medical Sciences, Isfahan, Iran
+Maryam Maghroun
+Intitut de Recherche en Sciences de la Sante, Bobo-Dioulasso, Burkina Faso
+Augustin Nawidimbasba Zeba
+Isfahan Cardiovascular Research Center, Cardiovascular Research Center, Isfahan University of Medical Sciences, Isfahan, Iran
+Nizal Sarrafzadegan
+Israel Center for Disease Control, Ramat Gan, Israel
+Lital Keinan-Boker, Rebecca Goldsmith & Tal Shimony
+Justus Liebig University Giessen, Giessen, Germany
+Irmgard Jordan
+KLE Academy of Higher Education and Research (Deemed-to-be-University) Jawaharlal Nehru Medical College, Belagavi, India
+Shivanand C. Mastiholi
+Kenya Medical Research Institute, Nairobi, Kenya
+Moses Mwangi, Yeri Kombe & Zipporah Bukania
+King Abdulaziz University, Jeddah, Saudi Arabia
+Eman Alissa
+King Saud University, Riyadh, Saudi Arabia
+Nasser Al-Daghri & Shaun Sabico
+King’s College London, London, UK
+Martin Gulliford
+Kinshasa School of Public Health, Kinshasa, Democratic Republic of Congo
+Tshilenge S. Diba
+Korea Disease Control and Prevention Agency (KDCA), Cheongju, South Korea
+Kyungwon Oh, Sanghui Kweon & Sihyun Park
+Korea University, Seoul, South Korea
+Yoonsu Cho
+Kuwait Institute for Scientific Research, Kuwait City, Kuwait
+Suad Al-Hooti
+Lao Tropical and Public Health Institute, Vientiane, Lao PDR
+Chanthaly Luangphaxay, Daovieng Douangvichit & Latsamy Siengsounthone
+Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland
+Pedro Marques-Vidal
+Leibniz Centre for Agricultural Landscape Research, Muncheberg, Germany
+Constance Rybak
+Loyola University Chicago, Chicago, IL, USA
+Amy Luke
+Mahidol University, Nakhon Pathom, Thailand
+Nipa Rojroongwasinkul
+Mahidol University, Bangkok, Thailand
+Noppawan Piaseu
+Malaysian Palm Oil Council (MPOC), Petaling Jaya, Malaysia
+Kalyana Sundram
+Medical Center Markovs, Sofia, Bulgaria
+Donka Baykova
+Menopause Andropause Research Center, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Islamic Republic of Iran
+Parvin Abedi
+Ministry of Health, Kuala Lumpur, Malaysia
+Fariza Fadzil
+Ministry of Health, Sabak Bernam, Malaysia
+Noriklil Bukhary Ismail Bukhary
+Ministry of Health, Victoria, Seychelles
+Pascal Bovet
+Ministry of Health, Jakarta, Indonesia
+Sandjaja Sandjaja
+NYU School of Medicine, New York, NY, USA
+Yu Chen
+National Cancer Center Institute for Cancer Control, Tokyo, Japan
+Norie Sawada & Shoichiro Tsugane
+National Centre of Public Health and Analyses (NCPHA), Sofia, Bulgaria
+Lalka Rangelova, Stefka Petrova & Vesselka Duleva
+National Food Agency, Uppsala, Sweden
+Anna Karin Lindroos, Jessica Petrelius Sipinen, Lotta Moraeus & Per Bergman
+National Food and Nutrition Commission, Lusaka, Zambia
+Ward Siamusantu
+National Food and Nutrition Institute, Warsaw, Poland
+Lucjan Szponar
+National Health Research Institutes, Zhunan township, Taiwan ROC
+Hsing-Yi Chang
+National Institute for Environmental Studies, Health and Environmental Risk Division, Tsukuba, Japan
+Makiko Sekiyama
+National Institute of Nutrition, Hyderabad, India
+Balakrishna Nagalla, Kalpagam Polasa & Sesikeran Boindala
+National Institute of Nutrition, Hanoi, Vietnam
+Khanh Le Nguyen Bao
+National Institute of Nutrition and Food Technology & SURVEN RL, Tunis, Tunisia
+Jalila El Ati
+National Institute of Public Health (INSP), Mexico City, Mexico
+Daniel Illescas-Zarate & Luz Maria Sanchez-Romero
+National Institute of Public Health (INSP), Cuernavaca, Mexico
+Ivonne Ramirez Silva, Juan Rivera Dommarco, Simon Barquera & Sonia Rodríguez-Ramírez
+National Institutes of Biomedical Innovation, Health and Nutrition, Tokyo, Japan
+Nayu Ikeda
+National Nutrition Institute, Cairo, Egypt
+Sahar Zaghloul
+National Nutrition and Food Technology Research Institute (NNFTRI): SBMU, Tehran, Islamic Republic of Iran
+Anahita Houshiar-rad, Fatemeh Mohammadi-Nasrabadi & Morteza Abdollahi
+National University of Malaysia (UKM), Kuala Lumpur, Malaysia
+Khun-Aik Chuah & Zaleha Abdullah Mahdy
+Nestlé Research, Lausanne, Switzerland
+Alison Eldridge
+New England Complex Systems Institute, Cambridge, MA, USA
+Eric L. Ding
+North-West University, Potchefstroom, South Africa
+Herculina Kruger
+Oslo Metropolitan University (OsloMet), Oslo, Norway
+Sigrun Henjum
+Perdana University, Puchong, Malaysia
+Anne Fernandez
+Royal College of Surgeons in Ireland, Dublin, Ireland
+Anne Fernandez
+Pontificia Universidad Javeriana Seccional, Cali, Colombia
+Milton Fabian Suarez-Ortegon
+Public Authority for Food and Nutrition, Sabah Al Salem, Kuwait
+Nawal Al-Hamad
+Public Health Authority of the Slovak Republic, Bratislava, Slovak Republic
+Veronika Janská
+Qatar University and University of Jordan, Doha, Qatar
+Reema Tayyem
+Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Islamic Republic of Iran
+Parvin Mirmiran
+Research Institute for Primordial Prevention of NCD, Isfahan University of Medical Sciences, Isfahan, Islamic Republic of Iran
+Roya Kelishadi
+Risk and Benefit Assessment Department, Swedish Food Agency, Uppsala, Sweden
+Eva Warensjo Lemming
+Robert Koch Institute, Berlin, Germany
+Almut Richter, Gert Mensink & Lothar Wieler
+Rutgers University, New Brunswick, NJ, USA
+Daniel Hoffman
+Santé publique France, the French Public Health Agency, Saint Maurice, France
+Benoit Salanave
+Seoul National University, Seoul, South Korea
+Cho-il Kim
+St John’s Research Institute, Bangalore, India
+Rebecca Kuriyan-Raj & Sumathi Swaminathan
+Tabriz University of Medical Sciences, Tabriz, Islamic Republic of Iran
+Saeed Dastgiri
+Tallinn University, Tallinn, Estonia
+Sirje Vaask
+Taylor’s University, Subang Jaya, Malaysia
+Tilakavati Karupaiah
+Teesside University, Middlesbrough, UK
+Fatemeh Vida Zohoori
+Tehran University of Medical Sciences, Tehran, Islamic Republic of Iran
+Alireza Esteghamati & Sina Noshad
+Tehran University of Medical Sciences and Utica University, Tehran, Islamic Republic of Iran
+Maryam Hashemian
+The Technical University of Kenya, Nairobi, Kenya
+Elizabeth Mwaniki
+The University of New Mexico, Albuquerque, NM, USA
+Elizabeth Yakes-Jimenez
+Tropical Diseases Research Centre, Ndola, Zambia
+Justin Chileshe & Sydney Mwanza
+Unidad de Nutricion Publica, Macul, Chile
+Lydia Lera Marques
+Department of Biochemistry, University of Puerto Rico – Medical Science Campus, San Juan, Puerto Rico
+Alan Martin Preston
+Universidad San Sebastian, Santiago, Chile
+Samuel Duran Aguero
+Universidad Tecnica del Norte, Ibarra, Ecuador
+Mariana Oleas
+Universidad de Antioquia, Medellin, Colombia
+Luz Posada
+Universidad de Cuenca, Cuenca, Ecuador
+Angelica Ochoa
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur, Malaysia
+Khadijah Shamsuddin
+Universiti Putra Malaysia, Serdang, Malaysia
+Zalilah Mohd Shariff
+Universiti Sains Malaysia, Kubang Kerian, Malaysia
+Hamid Jan Bin Jan Mohamed & Wan Manan
+University Center for Primary Care and Public Health (Unisanté), Lausanne, Switzerland
+Pascal Bovet
+University Dunarea de Jos, Galati, Romania
+Anca Nicolau & Cornelia Tudorie
+University Kebangsaan Malaysia, Bangi, Malaysia
+Bee Koon Poh
+University of Aberdeen, Aberdeen, UK
+Pamela Abbott
+University of Alberta, Edmonton, Alberta, Canada
+Mohammadreza Pakseresht & Sangita Sharma
+University of Bergen, Bergen, Norway
+Tor Strand
+University of Bonn, Department of Nutrition and Food Sciences, Bonn, Germany
+Ute Alexy & Ute Nöthlings
+University of California Davis, Davis, CA, USA
+Jan Carmikle & Ken Brown
+University of Cincinnati, Cincinnati, OH, USA
+Jeremy Koster
+University of Colombo, Colombo, Sri Lanka
+Indu Waidyatilaka, Pulani Lanerolle & Ranil Jayawardena
+University of Colorado School of Medicine, Aurora, CO, USA
+Julie M. Long, K. Michael Hambidge & Nancy F. Krebs
+University of Dhaka, Dhaka, Bangladesh
+Aminul Haque
+University of Goettingen, Goettingen, Germany
+Gudrun B. Keding
+University of Helsinki, Department of Food and Nutrition, Helsinki, Finland
+Liisa Korkalo, Maijaliisa Erkkola & Riitta Freese
+University of Hohenheim, Stuttgart, Germany
+Laila Eleraky & Wolfgang Stuetz
+University of Iceland, Reykjavík, Iceland
+Inga Thorsdottir & Ingibjorg Gunnarsdottir
+University of Insubria, Varese, Italy
+Licia lacoviello
+University of Las Palmas de Gran Canaria (ULPGC), Las Palmas, Spain
+Lluis Serra-Majem
+University of Malaya, Kuala Lumpur, Malaysia
+Foong Ming Moy
+University of Manchester, Manchester, UK
+Simon Anderson
+University of Mauritius, Moka, Mauritius
+Rajesh Jeewon
+University of Medicine and Pharmacy Carol Davila, Bucharest, Romania
+Corina Aurelia Zugravu
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+Linda Adair & Shu Wen Ng
+University of Otago, Dunedin, New Zealand
+Sheila Skeaff
+University of Sao Paulo, Sao Paulo, Brazil
+Dirce Marchioni & Regina Fisberg
+University of Saskatchewan, Saskatoon, Saskatchewan, Canada
+Carol Henry, Getahun Ersino & Gordon Zello
+University of Vienna, Vienna, Austria
+Alexa Meyer & Ibrahim Elmadfa
+University of the Southern Caribbean, Port-of-Spain, Trinidad and Tobago
+Claudette Mitchell & David Balfour
+Wageningen University, Wageningen, Netherlands
+Johanna M. Geleijnse
+Washington University in St. Louis, St. Louis, MO, USA
+Mark Manary
+World Health Organization (WHO), Geneva, Switzerland
+Laetitia Nikiema
+World Health Organization (WHO), Amman, Jordan
+Tatyana El-kour
+Yazd Cardiovascular Research Centre, Shahid Sadoughi University of Medical Sciences, Yazd, Islamic Republic of Iran
+Masoud Mirzaei
+Ziauddin University Karachi, Karachi, Pakistan
+Rubina Hakeem
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+V.M., P.W. and D.M. conceptualized and designed the study. V.M., R.M., J.R. and J.C. were involved in the data collection. V.M., F.C., J.Z., P.S. and J.E.-M. conducted the analyses for the study. V.M., P.W. and D.M. drafted the manuscript. All the authors interpreted the data, read the final manuscript, reviewed it for important intellectual content and approved its submission. V.M. and D.M. are the guarantors of this work.
+Correspondence toVictoria Miller.
+V.M. reports research funding from the Canadian Institutes of Health Research, outside the submitted work. P.W. reports research grants and contracts from the United States Agency for International Development and personal fees from the Global Panel on Agriculture and Food Systems for Nutrition, outside the submitted work. J.R., J.Z. and P.S. report research funding from Nestlé, outside the submitted work. J.C. reports research funding from the Bill and Melinda Gates Foundation and the United States Agency for International Development, and personal fees from UNICEF/WHO, outside the submitted work. D.M. reports research funding from the National Institutes of Health and the Bill and Melinda Gates Foundation; personal fees from GOED, Bunge, Indigo Agriculture, Motif FoodWorks, Amarin, Acasti Pharma, Cleveland Clinic Foundation, America’s Test Kitchen and Danone; scientific advisory board member for Brightseed, DayTwo, Elysium Health, Filtricine, HumanCo and Tiny Organics; and chapter royalties from UpToDate, all outside the submitted work. The other authors have no disclosures to declare.
+Nature Foodthanks Inge Tetens and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Data are the mean score (95% uncertainty interval). The AHEI score ranged from 0 to 100. <6 years: <6 years of education; ≥6 to <12 years: ≥6 to <12 years of education; ≥12 years: ≥12 years of education. Rural: rural residence; urban: urban residence.
+Data are the mean score (95% uncertainty interval). The DASH score ranged from 5 to 40. <6 years: <6 years of education; ≥6 to <12 years: ≥6 to <12 years of education; ≥12 years: ≥12 years of education. Rural: rural residence; urban: urban residence.
+Data are the mean score (95% uncertainty interval). The MED score ranged from 0 to 8. <6 years: <6 years of education; ≥6 to <12 years: ≥6 to <12 years of education; ≥12 years: ≥12 years of education. Rural: rural residence; urban: urban residence.
+The DASH score ranged from 5 to 40, and the MED score ranged from 0 to 8.
+The DASH score ranged from 5 to 40, and the MED score ranged from 0 to 8.
+The DASH score ranged from 5 to 40, and the MED score ranged from 0 to 8. The absolute difference between 2018 and 1990 was computed as the difference at the stratum-level and aggregated to the global and regional mean differences using weighted population proportions for 2018.
+The absolute difference by education was computed as the difference at the stratum-level and aggregated to the global and regional mean differences using weighted population proportions for low (<6 years) and high education levels (≥12 years) only (excludes education level = ≥6 to <12 years).
+The absolute difference by urbanicity was computed as the difference at the stratum-level and aggregated to the global and regional mean differences using weighted population proportions.
+The absolute difference by time was computed as the difference at the stratum-level and aggregated to the global and regional mean differences using weighted population proportions for 2018.
+Supplementary methods, Tables 1–8 and discussion.
+Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visithttp://creativecommons.org/licenses/by/4.0/.
+Reprints and permissions
+Miller, V., Webb, P., Cudhea, F.et al.Global dietary quality in 185 countries from 1990 to 2018 show wide differences by nation, age, education, and urbanicity.Nat Food3, 694–702 (2022). https://doi.org/10.1038/s43016-022-00594-9
+Download citation
+Received:23 March 2022
+Accepted:12 August 2022
+Published:19 September 2022
+Issue Date:September 2022
+DOI:https://doi.org/10.1038/s43016-022-00594-9
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+BMC Public Health(2024)
+BMC Public Health(2024)
+BMC Public Health(2024)
+Communications Earth & Environment(2024)
+Scientific Reports(2024)
+Advertisement
+Nature Food (Nat Food)ISSN2662-1355(online)
+© 2024 Springer Nature Limited
+Sign up for theNature Briefingnewsletter — what matters in science, free to your inbox daily.

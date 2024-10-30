@@ -1,0 +1,240 @@
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+Nature Foodvolume3,pages454–460 (2022)Cite this article
+7590Accesses
+13Citations
+24Altmetric
+Metricsdetails
+‘Less but better’ is a pragmatic approach to tackling the sustainability challenges of meat consumption and production. Definitions of ‘less’ and ‘better’ lack clarity. Here we explore interpretations of these concepts, finding increasing use of ‘less but better’ in the literature from Western, high-income settings. Despite discrepancies among interpretations of ‘less’ meat, existing quantifications indicate that significant reduction is needed to achieve desirable food system outcomes. Interpretations of ‘better’ meat incorporate the delivery of environmental sustainability, improved animal welfare and better health or nutrition, but lack clear principles and omit many sustainability themes. Practices and outcomes are seldom linked, and diverging narratives on interactions between ‘less’ and ‘better’ exist. A shared vision of livestock systems with improved sustainability across multiple indicators is needed to establish principles for ‘less but better’ in order for decision-making to deliver desired outcomes.
+The global food system is the source of many and diverse environmental and social pressures1,2,3. To respect planetary boundaries while providing adequate and nutritious food for all necessitates production improvements, waste reduction and transformation of dietary patterns3,4,5. Increasing incomes, urbanization6and Westernization of diets7,8,9,10have led to a global increase in annual meat consumption from 23 kg per person in 1961 to 43 kg per person in 2018 (slaughter weight11), but with considerable regional differences. In high-income countries, consumption of meat needs to be drastically reduced3,5and there is extensive literature comparing the environmental impact of meats versus other foods2,12,13,14,15and the impact of different diets3,4,16,17,18. The exact magnitudes of reductions, and how to attain these, is a source of debate within academia19,20,21,22, popular media23,24and policy-making circles25.
+To eat and produce ‘less but better’ meat has been suggested by researchers26and non-governmental organizations27,28,29,30,31as a more politically feasible strategy than calling solely for meat reduction. Previous research has shown that ‘less but better’ meat is a concept in need of clarity, since how much ‘less’ is, and what ‘better’ should deliver depends among other things on the sustainability aspects considered, the local context and the desirable outcomes of the food system32. In this study we systematically review uses, definitions and interpretations of the concept in peer-reviewed scientific literature. We focus specifically on the ‘less but better’ concept, rather than intending to review all the literature on sustainability issues of livestock, as existing literature is scattered.
+We identified 35 studies for inclusion (Fig.1) based on the eligibility criteria ﻿(seeMethodssection). ‘Less but better’ has received greater attention in recent years. Two-thirds (n= 24) of the articles were published between 2018 and 2021 (Supplementary Table1), and all (bar one) by authors in Europe, the United States or Australia, demonstrating that this concept is most used in Western, high-income settings—where overconsumption of meat and dairy is greatest11, and where a shift to more sustainable diets underpinned by sustainable production is most pressing. The majority of selected articles focus on consumption (n= 23), including consumer acceptance and choice, although a significant number of articles span both production and consumption (n= 11). Just one article focuses principally on production33. None of the included articles stated defining ‘less but better’ as a research aim.
+PRISMA workflow diagram outlining the systematic review process. The left-hand panels show the four phases of the review and the centre and right-hand boxes show the number of articles for each step.
+Most articles (n= 22) define ‘less but better’ in the context of their study, but 13 cite a definition from an alternative source26,34. There was broad agreement that ‘less but better’ meat should deliver positive outcomes for animal welfare, human health and environmental sustainability. Which farming practices deliver desired outcomes was seldom specified or evidenced (Fig.2). Selected articles predominantly used definitions of ‘better’ meat based on outcomes33,35,36,37,38,39,40,41,42,43,44,45,46,47. Definitions based on specific farming practices were less frequent48,49,50,51,52,53,54,55.
+Outcome- and practice-based descriptions of ‘better’ meat found in selected articles.
+Linkages and contradictions between these two types of definitions were apparent. Grass-feeding livestock could facilitate increased resource efficiency (that is, environmental sustainability)33. However, feedlot systems could perform most favourably if the desired outcome is reducing land use per kilogram of meat produced2. Practices that improve animal welfare are largely overlooked, except reduced stocking densities53,56. There is a lack of evidence regarding farming practices that improve nutritional quality. One paper for example claims “the nutrients are different” in free-range meat49, but without evidence to support this.
+All papers referenced the need for reduced consumption (Supplementary Table2), but only eight quantified this. Quantifications were primarily relative, used different units (for example, grams of food versus protein) and definitions (animal-sourced foods versus animal protein versus meat). Recommendations on limiting consumption ranged from 9 to 105 g per capita per day (Fig.3)38,41,44,45,57,58. One study provides an absolute quantification, suggesting that livestock on ecological leftovers could globally provide 9–23 g per capita per day of animal-sourced protein (including milk and eggs), covering 16–42% of average daily protein requirements33. Studies seldom stated which meat types were included or whether figures referred to slaughter or cooked weight, despite these factors having an influence on sustainability impacts.
+All values have been recalculated to grams of meat protein per person per day using a 20% protein content in meat (seeSupplementary Informationfor data) except the figure in Neff et al.44, which includes eggs and refers to a daily recommended intake limit (grey bar). The shaded bars for van Zanten et al.33and de Boer and Aiking38indicate that these articles describe ‘less’ as ranges.
+Interpretations of ‘better’ were varied with regard to sustainability (Fig.4, Supplementary Table3). Climate (lower carbon footprint)22,33,35,36,37,44,52,58,59,60,61,62, land use (grass-fed meat minimizing feed–food competition) and animal welfare22,26,33,35,36,42,45,50,51,52,54,57,60,63were mentioned frequently. Eight studies discussed eating quality37,38,46,47,54,58,59,64, two of them linking it to animal welfare46,54. Discussion on sustainability and quality trade-offs was noted, for example, swapping beef for chicken to lower emissions22,52,62, which could result in increased feed–food competition, animal welfare issues, displaced nutrient losses and deteriorating eating quality from mass production45,50,52,60. Grass-fed beef and dairy is more emissions-intensive when assessed by product weight, but has benefits for other sustainability areas22,35,44,61.
+The figure shows the number of articles in which sustainability themes were mentioned. Note that articles appear more than once if they reference multiple themes.
+Many other sustainability aspects were underdiscussed. Biodiversity was mentioned frequently, but rarely as a criterion for ‘better’, including grazing for promoting biodiversity22,36. Health or nutrition were referenced frequently concerning ‘less’ meat. In relation to ‘better’, fat content40,58,59and public health issues such as air quality associated with intensive production were cited22,42. Other aspects, such as digestibility, iron and vitamin B12 were absent. Freshwater use26,35,54and nutrient balance or eutrophication33,50,51each appeared in three papers. Views on hormones, antimicrobials and genetically modified organisms ranged from negative for public health42to positive for efficiency35. Social and economic sustainability aspects were largely missing. No articles dealt with matters of well-being, working conditions or governance. Maintenance of rural landscapes was mentioned twice36,52. One paper called for “socially acceptable” production41while another pointed to the importance of ensuring that meat reduction strategies do not negatively impact farmers63. Financial risks of intensive systems appeared once53. The most frequently discussed socioeconomic aspect was the importance of close relationships between consumers and producers46,47,50,51, including consumers perceiving meat bought at a local butcher as ‘better’46,54,58. High- and low-quality meat was often referred to but not defined. One paper reported that Chinese consumers prefer industrially produced meat which they associate with quality and safety65.
+Most articles (n= 24) on ‘less but better’ mentioned a specific farming system (Table1). This reveals a dominant narrative in the literature that ‘better’ meat comes from extensive, mixed, local systems that use few, if any, external inputs such as feeds and chemicals. Whether these forms of production constitute more sustainable farming has been studied by many66,67,68,69,70,71, but was also criticized as a “rose-tinted view(s) of traditional food production” because of the higher emission intensities, land use and water use of extensive beef and pork35. This dispute between organic/nature-based solutions or intensification72,73as ‘better’ is commonly referred to as ‘land sharing’ and ‘land sparing’74,75, and sustainability impacts are widely debated. Both approaches would, however, require a shift in diets, that is ‘less’ meat67,68,71,76.
+Organic could be considered to deliver ‘better’ because organic labels are the most recognized cues available to consumers. For example: “As Dutch consumers had no shopping-aid to distinguish grass-fed meat … ‘better’ meat was defined as ‘organic or free range meat’”26. This indicates that fully grass-fed meat is considered ‘better’ than organic, although few articles presented it as such (Table1). Consumers opting for organic are found to adhere more to other sustainability-promoting behaviours such as eating less meat26,54,77, although the underlying drivers of this relationship are unclear.
+Most papers focused on single actors or scales, or interactions between two actors (for example, producer–consumer relations). Only two studies addressed system-level aspects, for example, that beef from dairy rather than suckler herds can be a ‘better’ option, both considering the climate impact of the meat and the resource efficiency of the food system53. The structural dynamics of the current, highly globalized meat production system also has implications for ‘better’50. Industrialization has, among other factors, caused concentration of livestock in certain regions, resulting in eutrophication, pollution, overgrazing and land abandonment, and a more localized, circular production system could therefore be a ‘better’ option50.
+A strength of ‘less but better’ is its consideration of both production and consumption, supporting the identification of trade-offs and win–win outcomes. We found several interactions between ‘less’ and ‘better’ with implications for dissonance or coherence between scales (Fig.5).
+Illustrations of interlinks between ‘less’ and ‘better’ based on importance of the two.
+‘Less’ was sometimes seen as a prerequisite for ‘better’—for example, “the significant reduction of farm animal production … in order to improve the production standards for the remaining animals”41. ‘Less for better’ at local scale could address localized impacts of livestock production, but unless national consumption is reduced, this strategy risks offshoring food production impacts and increasing reliance on imported goods.
+Another interpretation was that the ‘better’ option is to eat ‘less’ meat (‘less as better’), with improvements to production as a secondary goal. There are commercial challenges in promoting ‘less’ without ‘better’ and a concerted societal effort including policy interventions would be needed to enable this26,57. This view also neglects that food’s environmental impacts primarily occur at the production stage2. Food is often heralded as holding the potential to deliver multiple Sustainable Development Goals, including addressing climate change and biodiversity loss78. Without a focus on production, it is difficult to see how this could be realized, and ‘less and worse’ can hardly be desirable.
+A conflicting narrative defined ‘better’ as meat with lower emissions intensity per unit of output (sustainable intensification), which would allow for unchanged consumption, that is, ‘better’ without ‘less’60. This, however, ignores the need to reduce high-income meat consumption, for example, to meet the 1.5 °C climate goal3,79,80and metrics per kilogram of product or protein seldom account for sustainability trade-offs and complexity. ‘Better’ without ‘less’ could thus become a cover-up for business-as-usual and an attempt at greenwashing.
+One criticism of ‘less but better’ is that it puts responsibility on consumers to make sustainable, ethical or ‘better’ choices rather than recognizing issues caused by capitalist agrifood systems (refs.81,82,83,84in ref.64), thus depoliticizing the issue. Without clear definitions of ‘less’ or ‘better’, the concept cannot place responsibility where responsibility is due. Among the included articles, very few address how value-chain actors beyond producers and consumers ought to facilitate ‘less and better’ (except57). Some interpret ‘less but better’ as more radical, going hand-in-hand with “food sovereignty’s anti-capitalist orientation” requiring “agro-ecological and smallholder farming methods” and “redistributive land reform”48.
+While relevant in high-income settings, ‘less but better’ is not suitable for regions where diets are nutritionally inadequate. In these areas, ‘more and better’ meat may be more relevant79,80,85. To stay within planetary boundaries globally, however, a focus on ‘less’ in overconsuming areas is needed to make room for ‘better’ in regions where consumption of animal-sourced foods needs to increase. In the FAO’s ‘Towards Sustainability’85scenario, for example, animal herd sizes in high-income countries would decrease by 2030 and further by 2050 while the opposite development would occur in low-income regions. The scenario also postulates that highly productive livestock-rearing practices would have to be abandoned and most regions would have less intensive livestock systems, including a rewilding of 3–4% of arable land in Europe. In-depth analysis of the implications of such transitions for producers was missing in the literature. To enable ‘better’ at scale, incentives and policy mechanisms such as product labelling, price premiums and fair payment for delivery of public goods are necessary, as is diversification of farm incomes to maintain viable farm businesses when meat production is reduced70,71.
+‘Empowered consumers’ willing to reduce their meat consumption are often highly educated, women and/or from high-income households44,58,59, and are a minority of the population26,58,59. They tend to be less price sensitive than ‘average’ consumers47,59, giving “these more conscious forms of food consumption … a distinctive middle-class appeal”52. Speaking in favour of the potential of ‘less and better’ is the combination of reducing consumption and eating meat of higher quality as consumers could maintain current spending while improving sustainability22,39,43. This makes ‘less but better’ a more acceptable message than ‘eat no meat’22,61. Whether higher prices would drive sufficient meat reduction is, however, unclear44—high-income consumers can probably afford to maintain consumption anyway44,54, and meat-loving consumers are often driven by taste and eating quality47,58. A strong personal interest is required from the consumer to adopt a ‘less and better’ diet. Policy interventions and commitment from businesses to reduce meat intake and make ‘better’ options accessible to a broader spectrum of consumers are key to realize the full potential of ‘less but better’.
+The ‘less but better’ meat concept is increasingly used in the English-language scientific literature, especially in Western, high-income settings. There is, however, a lack of consensus on how much ‘less’ is, as most studies provide no quantification despite often evaluating the efficacy of meat reduction strategies. Based on existing quantifications (n= 8), ‘less’ involves a significant reduction from current consumption. The use of different scopes and measures could inhibit progress, and probably creates confusion. Future studies should provide more clarity and transparency around recommendations on ‘less’. Ideally, these should encompass all animal-sourced foods, not just meat, given the sustainability impacts of all livestock production.
+There is a similar lack of coherence in definitions and interpretations of ‘better’. The idea that ‘better’ meat should deliver ‘environmental sustainability’, improved animal welfare and better health outcomes is not accompanied by clear principles, and many key sustainability themes, including social and economic aspects, are absent from discussions. There is a lack of clarity on desirable outcomes from human–livestock interactions and what practices would deliver these at different scales. This missing link between practices and outcomes results in a lack of clarity on ‘less but better’, preventing the concept from bridging bodies of literature on meat and sustainability. If the concept is to be used to guide food systems decision-making in policy and industry environments, there is a need to develop principles or best-practice guidelines to ensure alignment and progress toward desired outcomes. More work needs to be done to establish a vision of future livestock production systems that have improved outcomes across sustainability themes and can be agreed on by a wide range of stakeholders.
+We conducted a systematic review of the literature published in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines86(Fig.1).
+We did not submit a review protocol to PROSPERO (or similar) because this review does not evaluate the effectiveness of an intervention, test the accuracy of a diagnostic or similar, or aim to synthesize the current state of knowledge regarding the prevalence or incidence of a phenomenon.
+After defining the scope and aim of the study, we identified search terms and eligibility criteria (Table2). At this stage we sought input from three external independent experts to refine our search strategy.
+On 2 June 2021 we performed searches on Scopus, Web of Science and Google Scholar to identify relevant scientific literature (step 1, Fig.1).
+We used the terms ‘meat’ AND ‘less but better’ OR ‘less and better’ and limited the search to peer-reviewed studies published in English since year 2000, which were available as full-text options online.
+The search yielded 818 entries. We screened titles and abstracts and excluded papers not dealing with meat consumption and reduction, or meat production and livestock (step 2, Fig.1). We screened the full texts for mention and definition of ‘less but better’, ‘less and better’ or ‘less-but-better’ (step 3, Fig.1). To reduce bias, both authors screened independently, and discrepancies during cross-checks were resolved through discussion. A final 36 articles (six correspondence or viewpoints) were included. Resare Sahlin et al.32was used as basis for the thematic coding because it is the first paper focusing on defining the concept, thus leaving 35 articles included in the study.
+We manually coded in Microsoft Excel and Microsoft Word87using 37 initial codes based on ref.32and 24 codes inductively identified from individual coding of four randomly selected articles. Subsequent comparison and discussion refined the coding framework, based on which we then coded all 35 papers.
+Coded text was transferred to a Word document and grouped thematically to allow for analysis of definitions and interpretations87. To reduce bias, both authors independently reviewed thematic clusters and looked for emerging narratives. These were then compared and discussed before key results were documented. Quantifications of ‘less’ were normalized (Supplementary Table5). We created tables of concept definitions (Supplementary Table4) and sustainability themes and production systems in the context of ‘better’ (Table1and Supplementary Table3). Rounds of inductive analysis elicited narratives of interlinkages of ‘less’ and ‘better’.
+Since this study does not assess the applicability or accuracy of any scientific finding or conducted study, or seek to make any recommendation based on these, but instead seeks to report on existing narratives, the importance of the risk of bias in the included article is not relevant to the findings. To reduce internal biases within the research theme, which risk impacting the exploratory, qualitative approach, we conducted coding and analysis independently and discussed throughout, and moreover took a deductive–inductive approach to ensure results were not restricted by the a priori coding framework. Expanding the search to other languages would probably have yielded more relevant materials; however, in the regions where the concept is most relevant (Western, high-income countries), English is the key language for scientific publication and this limitation is thus justified.
+Further information on research design is available in theNature Research Reporting Summarylinked to this article.
+Data used in this study, including a list of papers reviewed, can be found in theSupplementary Information.
+Gordon, L. et al. Rewiring food systems to enhance human health and biosphere stewardship.Environ. Res. Lett.12, 100201 (2017).
+ArticleADSGoogle Scholar
+Poore, J. & Nemecek, T. Reducing food’s environmental impacts through producers and consumers.Science.360, 987–992 (2018).
+ArticleADSCASPubMedGoogle Scholar
+Willett, W. et al. Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems.Lancet.393, 447–492 (2019).
+ArticlePubMedGoogle Scholar
+Röös, E. et al. Greedy or needy? Land use and climate impacts of food in 2050 under different livestock futures.Glob. Environ. Chang.47, 1–12 (2017).
+ArticleGoogle Scholar
+Springmann, M. et al. Options for keeping the food system within environmental limits.Nature562, 519–525 (2018).
+ArticleADSCASPubMedGoogle Scholar
+Sans, P. & Combris, P. World meat consumption patterns: an overview of the last fifty years (1961–2011).Meat Sci.109, 106–111 (2015).
+ArticleCASPubMedGoogle Scholar
+Pingali, P. Westernization of Asian diets and the transformation of food systems: implications for research and policy.Food Policy32, 281–298 (2006).
+ArticleGoogle Scholar
+Tseng, M. Editorial: Conceptualizing dietary Westernization, observing dietary transitions.Public Health Nutr.8, 545–546 (2005).
+ArticlePubMedGoogle Scholar
+Uusitalo, U., Shaw, J. & Tuomilehto, J. Dietary Westernisation: conceptualisation and measurement in Mauritius.Public Health Nutr.8, 608–619 (2005).
+ArticleCASPubMedGoogle Scholar
+Khoury, C. K. et al. Increasing homogeneity in global food supplies and the implications for food security.Proc. Natl. Acad. Sci. USA111, 4001–4006 (2014).
+ArticleADSCASPubMedPubMed CentralGoogle Scholar
+FAOSTAT(Food and Agriculture Organization); (2022)http://faostat.fao.org
+Clark, M. & Tilman, D. Comparative analysis of environmental impacts of agricultural production systems, agricultural input efficiency, and food choice.Environ. Res. Lett.12, 064016 (2017).
+ArticleADSGoogle Scholar
+Nordborg, M., Davis, J., Cederberg, C. & Woodhouse, A. Freshwater ecotoxicity impacts from pesticide use in animal and vegetable foods produced in Sweden.Sci. Total Environ.581–582, 448–459 (2016).
+Google Scholar
+Clune, S., Crossin, E. & Verghese, K. Systematic review of greenhouse gas emissions for different fresh food categories.J. Clean. Prod.140, 766–783 (2017).
+ArticleCASGoogle Scholar
+Scherer, L., Tomasik, B., Rueda, O. & Pfister, S. Framework for integrating animal welfare into life cycle sustainability assessment.Int. J. Life Cycle Assess.23, 1476–1490 (2018).
+ArticlePubMedGoogle Scholar
+Bryngelsson, D., Wirsenius, S., Hedenus, F. & Sonesson, U. How can the EU climate targets be met? A combined analysis of technological and demand-side changes in food and agriculture.Food Policy59, 152–164 (2016).
+ArticleGoogle Scholar
+Moberg, E., Karlsson Potter, H., Wood, A., Hansson, P.-A. & Röös, E. Benchmarking the Swedish diet relative to global and national environmental targets—identification of indicator limitations and data gaps.Sustainability12, 1407 (2020).
+ArticleCASGoogle Scholar
+Aleksandrowicz, L., Green, R., Joy, E. J. M., Smith, P. & Haines, A. The impacts of dietary change on greenhouse gas emissions, land use, water use, and health: a systematic review.PLoS ONEhttps://doi.org/10.1371/journal.pone.0165797(2016)
+Macdiarmid, J. I., Douglas, F. & Campbell, J. Eating like there’s no tomorrow: public awareness of the environmental impact of food and reluctance to eat less meat as part of a sustainable diet.Appetite96, 487–493 (2015).
+ArticlePubMedGoogle Scholar
+Dagevos, H. & Voordouw, J. Sustainability and meat consumption: is reduction realistic?Sustain. Sci. Pract. Policy9, 60–69 (2013).
+Google Scholar
+Morris, C. et al. Priorities for social science and humanities research on the challenges of moving beyond animal-based food systems.Humanit. Soc. Sci. Commun.8, 1–12 (2021).
+ArticleADSGoogle Scholar
+Laestadius, L. I., Neff, R. A., Barry, C. L. & Frattaroli, S. No meat, less meat, or better meat: understanding NGO messaging choices intended to alter meat consumption in light of climate change.Environ. Commun.10, 84–103 (2016).
+ArticleGoogle Scholar
+Garcia, D., Galaz, V. & Daume, S. EATLancet vs yes2meat: the digital backlash to the planetary health diet.Lancet394, 2153–2154 (2019).
+ArticlePubMedGoogle Scholar
+Harvey, F. Americans can eat meat while cutting global heating, says agriculture secretary.The Guardianhttps://www.theguardian.com/environment/2021/nov/06/americans-can-eat-meat-while-cutting-global-heating-says-agriculture-secretary(6 November 2021).
+The National Food Strategy: The Plan(UK National Food Strategy, 2021)
+de Boer, J., Schösler, H. & Aiking, H. ‘Meatless days’ or ‘less but better’? Exploring strategies to adapt Western meat consumption to health and sustainability challenges.Appetite76, 120–128 (2014).
+ArticlePubMedGoogle Scholar
+What Is Better Meat?https://agreenerworld.org/a-greener-world/what-is-better-meat/(A Greener World, 2017).
+Slow Meathttps://www.slowfood.com/what-we-do/themes/slow-meat/(Slow Food, 2018).
+Tirado, R., Thompson, K. F., Miller, K. A. & Johnston, P. (eds)Less Is More—Reducing Meat and Dairy for a Healthier Life and Planet. Scientific Background on the Greenpeace Vision of the Meat and Dairy System Towards 2050(Greenpeace, 2018).
+Einkaufsratgeber Fleisch und Wursthttps://www.wwf.de/aktiv-werden/tipps-fuer-den-alltag/vernuenftig-einkaufen/fleisch-einkauf?fbclid=IwAR2148bI90z5yQb_UM43qhSFFBBn0qIF1EEUKkRVsxWMwXJgx7Zan6yuwbI(WWF-Germany, 2018).
+Sourcing Better Frameworkhttps://www.eating-better.org/uploads/Documents/Sourcing_Better_Framework.pdf(Eating Better Alliance, 2021).
+Resare Sahlin, K., Röös, E. & Gordon, L. J. ‘Less but better’ meat is a sustainability message in need of clarity.Nat. Food1, 520–522 (2020).
+ArticleGoogle Scholar
+van Zanten, H. et al. Defining a land boundary for livestock production.Glob. Chang. Biol.24, 4185–4194 (2018).
+ArticleADSPubMedGoogle Scholar
+Sutton, C. & Dibb, S. (eds)Prime Cuts: Valuing the Meat We Eat(WWF-UK and Food Ethics Council, 2013).
+Capper, J. L. Opportunities and challenges in animal protein industry sustainability: the battle between science and consumer perception.Anim. Front.10, 7–13 (2020).
+ArticlePubMedPubMed CentralGoogle Scholar
+Capper, J. A sustainable future isn’t vegan, it’s flexitarian.Vet. Rec.188, 40–40 (2021).
+ArticlePubMedGoogle Scholar
+de Boer, J. & Aiking, H. Prospects for pro-environmental protein consumption in Europe: cultural, culinary, economic and psychological factors.Appetite121, 29–40 (2018).
+ArticlePubMedGoogle Scholar
+de Boer, J. & Aiking, H. Strategies towards healthy and sustainable protein consumption: a transition framework at the levels of diets, dishes, and dish ingredients.Food Qual. Prefer.73, 171–181 (2019).
+ArticleGoogle Scholar
+Elkins, P. Less and better meat consumption.Vet. Rec.184, 592–593 (2019).
+ArticlePubMedGoogle Scholar
+Guzek, D., Głabska, D., Sajdakowska, M. & Gutkowska, K. Analysis of association between the consumer food quality perception and acceptance of enhanced meat products and novel packaging in a population-based sample of polish consumers.Foods9, 1–12 (2020).
+ArticleGoogle Scholar
+Hölker, S., von Meyer-Höfer, M. & Spiller, A. Animal ethics and eating animals: consumer segmentation based on domain-specific values.Sustainability11, 3907 (2019).
+ArticleGoogle Scholar
+Lang, T. & Millstone, E. P. Post-Brexit food standards.Lancet393, 1199 (2019).
+ArticlePubMedGoogle Scholar
+Loeb, J. Should vets eat less meat?Vet. Rec.184, 511 (2019).
+ArticlePubMedGoogle Scholar
+Neff, R. A. et al. Reducing meat consumption in the USA: a nationally representative survey of attitudes and behaviours.Public Health Nutr.21, 1835–1844 (2018).
+ArticlePubMedPubMed CentralGoogle Scholar
+Pais, D. F., Marques, A. C. & Fuinhas, J. A. Reducing meat consumption to mitigate climate change and promote health: but is it good for the economy?Environ. Model. Assess.25, 793–807 (2020).
+ArticleGoogle Scholar
+Sahakian, M., Godin, L. & Courtin, I. Promoting ‘pro’, ‘low’, and ‘no’ meat consumption in Switzerland: the role of emotions in practices.Appetite150, 104637 (2020).
+ArticlePubMedGoogle Scholar
+Verbeke, W. & Vackier, I. Profile and effects of consumer involvement in fresh meat.Meat Sci.67, 159–168 (2004).
+ArticlePubMedGoogle Scholar
+Broad, G. M. Plant-based and cell-based animal product alternatives: an assessment and agenda for food tech justice.Geoforum107, 223–226 (2019).
+ArticleGoogle Scholar
+Caraher, M. Food austerity: a lifestyle choice for whom!J. Home Econ. Inst. Aust.18, 17–25 (2011).
+Google Scholar
+Jurgilevich, A. et al. Transition towards circular economy in the food system.Sustainability8, 1–14 (2016).
+ArticleGoogle Scholar
+Klosse, P. R. The taste of a healthy and sustainable diet: what is the recipe for the future?Res. Hosp. Manag.9, 35–42 (2019).
+Google Scholar
+McGregor, A. & Houston, D. Cattle in the Anthropocene: four propositions.Trans. Inst. Br. Geogr.43, 3–16 (2018).
+ArticleGoogle Scholar
+Santini, F., Ronzon, T., Perez Dominguez, I., Araujo Enciso, S. R. & Proietti, I. What if meat consumption would decrease more than expected in the high-income countries?Bio-based Appl. Econ.6, 37–56 (2017).
+Google Scholar
+Schösler, H. & de Boer, J. Towards more sustainable diets: insights from the food philosophies of ‘gourmets’ and their relevance for policy strategies.Appetite127, 59–68 (2018).
+ArticlePubMedGoogle Scholar
+Treich, N. Cultured meat: promises and challenges.Environ. Resour. Econ.79, 33–61 (2021).
+ArticleGoogle Scholar
+Loeb, J. ‘Less and better’ is the key to sustainability.Vet. Rec.184, 490 (2019).
+ArticleGoogle Scholar
+Trewern, J., Chenoweth, J., Christie, I., Keller, E. & Halevy, S. Are UK retailers well placed to deliver ‘less and better’ meat and dairy to consumers?Sustain. Prod. Consum.28, 154–163 (2021).
+ArticleGoogle Scholar
+Apostolidis, C. & McLeay, F. Should we stop meating like this? Reducing meat consumption through substitution.Food Policy65, 74–89 (2016).
+ArticleGoogle Scholar
+Apostolidis, C. & McLeay, F. To meat or not to meat? Comparing empowered meat consumers’ and anti-consumers’ preferences for sustainability labels.Food Qual. Prefer.77, 109–122 (2019).
+ArticleGoogle Scholar
+Hyland, J. J., Henchion, M., McCarthy, M. & McCarthy, S. N. The role of meat in strategies to achieve a sustainable diet lower in greenhouse gas emissions: a review.Meat Sci.132, 185–195 (2017).
+ArticleGoogle Scholar
+Laestadius, L. I., Neff, R. A., Barry, C. L. & Frattaroli, S. ‘We don’t tell people what to do’: an examination of the factors influencing NGO decisions to campaign for reduced meat consumption in light of climate change.Glob. Environ. Chang.29, 32–40 (2014).
+ArticleGoogle Scholar
+McEachern, M. Ethical food: transitioning towards sustainable meat consumption?J. Consum. Ethics.2, 26–33 (2018).
+Google Scholar
+Morris, C., Kirwan, J. & Lally, R. Less meat initiatives: an initial exploration of a diet-focused social innovation in transitions to a more sustainable regime of meat provisioning.Int. J. Soc. Agr. Food21, 189–208 (2014).
+Google Scholar
+Daly, J. A social practice perspective on meat reduction in Australian households: rethinking intervention strategies.Geogr. Res.58, 240–251 (2020).
+ArticleGoogle Scholar
+Shimokawa, S. Sustainable meat consumption in China.J. Integr. Agric.14, 1023–1032 (2015).
+ArticleGoogle Scholar
+Tuck, S. L. et al. Land-use intensity and the effects of organic farming on biodiversity: a hierarchical meta-analysis.J. Appl. Ecol.51, 746–755 (2014).
+ArticlePubMedPubMed CentralGoogle Scholar
+Barbieri, P., Pellerin, S. & Nesme, T. Comparing crop rotations between organic and conventional farming.Sci. Rep.7, 1–10 (2017).
+ArticleGoogle Scholar
+Muller, A. et al. Strategies for feeding the world more sustainably with organic agriculture.Nat. Commun.8, 1290 (2018).
+ArticleADSGoogle Scholar
+Presto Åkerfeldt, M., Gunnarsson, S., Bernes, G. & Blanco-Penedo, I. Health and welfare in organic livestock production systems—a systematic mapping of current knowledge.Org. Agric.11, 105–132 (2021).
+ArticleGoogle Scholar
+Röös, E. et al. Moving beyond organic—a food system approach to assessing sustainable and resilient farming.Glob. Food Sec.28, 100487 (2021).
+ArticleGoogle Scholar
+Resare Sahlin, K., Carolus, J., von Greyerz, K., Ekqvist, I. & Röös, E. Delivering ‘less but better’ meat in practice—a case study of a farm in agroecological transition.Agron. Sustain. Dev.42, 24 (2022).
+ArticleGoogle Scholar
+Rockström, J. et al. Sustainable intensification of agriculture for human prosperity and global sustainability.Ambio46, 4–17 (2016).
+ArticlePubMedPubMed CentralGoogle Scholar
+Tittonell, P. Ecological intensification of agriculture—sustainable by nature.Curr. Opin. Environ. Sustain.8, 53–61 (2014).
+ArticleGoogle Scholar
+Balmford, A. Concentrating vs. spreading our footprint: how to meet humanity’s needs at least cost to nature.J. Zool.315, 79–109 (2021).
+ArticleGoogle Scholar
+Balmford, B., Green, R. E., Onial, M., Phalan, B. & Balmford, A. How imperfect can land sparing be before land sharing is more favourable for wild species?J. Appl. Ecol.56, 73–84 (2019).
+ArticleGoogle Scholar
+Karlsson, J. O.Livestock as Resource Users and Landscape Managers—A Food Systems Perspective. Doctoral thesis, Swedish University of Agricultural Sciences (2022).
+Boizot-Szantai, C., Hamza, O. & Soler, L. G. Organic consumption and diet choice: an analysis based on food purchase data in France.Appetite117, 17–28 (2017).
+ArticlePubMedGoogle Scholar
+Food Systems Summit x SDGs(UN, 2021);https://www.un.org/en/food-systems-summit/sdgs
+Leroy, F. & Cofnas, N. Should dietary guidelines recommend low red meat intake?Crit. Rev. Food Sci. Nutr.60, 2763–2772 (2020).
+ArticlePubMedGoogle Scholar
+Henchion, M., Moloney, A. P., Hyland, J., Zimmermann, J. & McCarthy, S. Review: Trends for meat, milk and egg consumption for the next decades and the role played by livestock systems in the global production of proteins.Animal15, 100287 (2021).
+ArticleCASPubMedGoogle Scholar
+Mouat, M. J., Prince, R. & Roche, M. M. Making value out of ethics: the emerging economic geography of lab-grown meat and other animal-free food products.Econ. Geogr.95, 136–158 (2019).
+ArticleGoogle Scholar
+Sexton, A. Alternative proteins and the (non)stuff of ‘meat’.Gastronomica16, 66–78 (2016).
+ArticleGoogle Scholar
+Sexton, A. E. Eating for the post-Anthropocene: alternative proteins and the biopolitics of edibility.Trans. Inst. Br. Geogr.43, 586–600 (2018).
+ArticleGoogle Scholar
+Waitt, G. Embodied geographies of kangaroo meat.Soc. Cult. Geogr.15, 406–426 (2014).
+ArticleGoogle Scholar
+The Future of Food and Agriculture—Alternative Pathways to 2050(FAO, 2018).
+Moher, D., Liberati, A., Tetzlaff, J. & Altman, D. G. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement.J. Clin. Epidemiol.62, 1006–1012 (2009).
+ArticlePubMedGoogle Scholar
+Ose, S. O. Using Excel and Word to structure qualitative data.J. Appl. Soc. Sci.10, 147–162 (2016).
+ArticleGoogle Scholar
+Download references
+Our supervisors, L. J. Gordon, E. Röös and J. Chenoweth, provided valuable comments to the manuscript to help improve its quality. We also thank the three external researchers who provided their viewpoints on the initial scoping of the study. The PhD of J.T. of which this work is part is funded by the World Wide Fund for Nature. The PhD of K.R.S. of which this work is part is funded by Formas grant 2019-00403.
+Open access funding provided by Stockholm University.
+These authors contributed equally: Kajsa Resare Sahlin, Joanna Trewern.
+Stockholm Resilience Centre at Stockholm University, Stockholm, Sweden
+Kajsa Resare Sahlin
+Centre for Environment & Sustainability, University of Surrey, Guildford, UK
+Joanna Trewern
+You can also search for this author inPubMedGoogle Scholar
+You can also search for this author inPubMedGoogle Scholar
+Correspondence toKajsa Resare Sahlin.
+The authors declare no competing interests.
+Nature Foodthanks Joop de Boer, Hannah Van Zanten and Maeve Henchion for their contribution to the peer review of this work.
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Tables1–5and Fig. 1.
+Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visithttp://creativecommons.org/licenses/by/4.0/.
+Reprints and permissions
+Resare Sahlin, K., Trewern, J. A systematic review of the definitions and interpretations in scientific literature of ‘less but better’ meat in high-income settings.Nat Food3, 454–460 (2022). https://doi.org/10.1038/s43016-022-00536-5
+Download citation
+Received:15 December 2021
+Accepted:13 May 2022
+Published:23 June 2022
+Issue Date:June 2022
+DOI:https://doi.org/10.1038/s43016-022-00536-5
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Advertisement
+Nature Food (Nat Food)ISSN2662-1355(online)
+© 2024 Springer Nature Limited
+Sign up for theNature Briefing: Anthropocenenewsletter — what matters in anthropocene research, free to your inbox weekly.
