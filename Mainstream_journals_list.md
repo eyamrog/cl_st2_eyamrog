@@ -15,6 +15,8 @@ Would it be possible for you to complete each entry with the respective website?
 
 ### Agricultural Sciences
 - [Annual Review of Plant Biology](https://www.annualreviews.org/content/journals/arplant)
+    - Abstract
+    - Introduction
 - [Nature Food](https://www.nature.com/natfood/)
 - [Nature Sustainability](https://www.nature.com/natsustain/)
 - [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652?msockid=0525cb73d9a76a060b80df20d87e6b4b)
@@ -45,7 +47,7 @@ Would it be possible for you to complete each entry with the respective website?
 
 ### Health Sciences
 - [Annual Review of Public Health](https://www.annualreviews.org/content/journals/publhealth)
-- [Lancet Public Health](https://www.thelancet.com/journals/lanpub/home)
+- [The Lancet Public Health](https://www.thelancet.com/journals/lanpub/home)
 - [Nature Reviews Cancer](https://www.nature.com/nrc/)
 - [New England Journal of Medicine](https://www.nejm.org/)
 - [The Lancet](https://www.thelancet.com/journals/lancet/home)
