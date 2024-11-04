@@ -63,7 +63,7 @@ Would it be possible for you to complete each entry with the respective website?
 - [PMLA: Publications of the Modern Language Association](https://www.mla.org/Publications/Journals/PMLA)
 
 ## Structure of academic papers
-The structure of academic papers vary according to the field of study and to the specifics of the journal or conference being considered. However, most of them can relate to the following generic structure:
+The structure of academic papers vary according to the field of study and to the specifics of the journal or conference being considered. However, most of them relate to the following generic structure:
 
 - Title
 - Abstract
