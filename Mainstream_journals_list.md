@@ -15,8 +15,6 @@ Would it be possible for you to complete each entry with the respective website?
 
 ### Agricultural Sciences
 - [Annual Review of Plant Biology](https://www.annualreviews.org/content/journals/arplant)
-    - Abstract
-    - Introduction
 - [Nature Food](https://www.nature.com/natfood/)
 - [Nature Sustainability](https://www.nature.com/natsustain/)
 - [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652?msockid=0525cb73d9a76a060b80df20d87e6b4b)
@@ -63,3 +61,27 @@ Would it be possible for you to complete each entry with the respective website?
 - [Journal of English Linguistics](https://journals.sagepub.com/home/eng)
 - [Modern Language Review](https://www.mhra.org.uk/journals/MLR)
 - [PMLA: Publications of the Modern Language Association](https://www.mla.org/Publications/Journals/PMLA)
+
+## Structure of academic papers
+The structure of academic papers vary according to the field of study and to the specifics of the journal or conference being considered. However, most of them can relate to the following generic structure:
+
+- Title
+- Abstract
+- Introduction
+- Literature Review
+- Methodology
+- Results
+- Discussion
+- Conclusion
+- References
+
+For the purpose of this study, the following sections are being considered:
+
+- Abstract
+- Introduction
+- Literature Review
+- Methodology
+- Results
+- Discussion
+- Conclusion
+- Acknowledgements
