@@ -21,7 +21,7 @@ def extract_text(df, path):
         title = soup.find('h1', property='name')
         if title:
             title_text = ' '.join(title.get_text(' ', strip=True).split())
-            text += f"{title_text}\n"
+            text += f"Title: {title_text}\n"
 
         # Extract the 'Abstract'
         abstract_section = soup.find('div', id='abstracts')
@@ -31,7 +31,7 @@ def extract_text(df, path):
                 author_abstract_h2_title = author_abstract_section.find('h2', property='name')
                 if author_abstract_h2_title:
                     author_abstract_h2_title_text = ' '.join(author_abstract_h2_title.get_text(' ', strip=True).split())
-                    text += f"{author_abstract_h2_title_text}\n"
+                    text += f"Abstract: {author_abstract_h2_title_text}\n"
                 for paragraph in author_abstract_section.find_all('div', role='paragraph'):
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"
@@ -39,42 +39,43 @@ def extract_text(df, path):
         # Extract the 'body'
         body_section = soup.find('section', id='bodymatter')
         if body_section:
-
-            # Extract sections
-            for section_h2 in body_section.find_all('section', recursive=False):
-                # Extract section title
-                section_h2_title = section_h2.find('h2')
-                if section_h2_title:
-                    section_h2_title_text = ' '.join(section_h2_title.get_text(' ', strip=True).split())
-                    text += f"{section_h2_title_text}\n"
-                # Extract section paragraphs
-                for paragraph in section_h2.find_all('div', role='paragraph'):
-                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                    text += f"{paragraph_text}\n"
-
-                # Extract subsections
-                for section_h3 in section_h2.find_all('section', recursive=False):
-                    # Extract subsection title
-                    section_h3_title = section_h3.find('h3')
-                    if section_h3_title:
-                        section_h3_title_text = ' '.join(section_h3_title.get_text(' ', strip=True).split())
-                        text += f"{section_h3_title_text}\n"
-                    # Extract subsection paragraphs
-                    for paragraph in section_h3.find_all('div', role='paragraph'):
+            body_core_container = body_section.find('div', class_='core-container')
+            if body_core_container:
+                # Extract sections
+                for section_h2 in body_core_container.find_all('section', recursive=False):
+                    # Extract section title
+                    section_h2_title = section_h2.find('h2')
+                    if section_h2_title:
+                        section_h2_title_text = ' '.join(section_h2_title.get_text(' ', strip=True).split())
+                        text += f"Section: {section_h2_title_text}\n"
+                    # Extract section paragraphs
+                    for paragraph in section_h2.find_all('div', role='paragraph', recursive=False):
                         paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                         text += f"{paragraph_text}\n"
 
-                    # Extract subsubsections
-                    for section_h4 in section_h3.find_all('section', recursive=False):
-                        # Extract subsubsection title
-                        section_h4_title = section_h4.find('h4')
-                        if section_h4_title:
-                            section_h4_title_text = ' '.join(section_h4_title.get_text(' ', strip=True).split())
-                            text += f"{section_h4_title_text}\n"
-                        # Extract subsubsection paragraphs
-                        for paragraph in section_h4.find_all('div', role='paragraph'):
+                    # Extract subsections
+                    for section_h3 in section_h2.find_all('section', recursive=False):
+                        # Extract subsection title
+                        section_h3_title = section_h3.find('h3')
+                        if section_h3_title:
+                            section_h3_title_text = ' '.join(section_h3_title.get_text(' ', strip=True).split())
+                            text += f"Subsection: {section_h3_title_text}\n"
+                        # Extract subsection paragraphs
+                        for paragraph in section_h3.find_all('div', role='paragraph', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                             text += f"{paragraph_text}\n"
+
+                        # Extract subsubsections
+                        for section_h4 in section_h3.find_all('section', recursive=False):
+                            # Extract subsubsection title
+                            section_h4_title = section_h4.find('h4')
+                            if section_h4_title:
+                                section_h4_title_text = ' '.join(section_h4_title.get_text(' ', strip=True).split())
+                                text += f"Subsubsection: {section_h4_title_text}\n"
+                            # Extract subsubsection paragraphs
+                            for paragraph in section_h4.find_all('div', role='paragraph'):
+                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                text += f"{paragraph_text}\n"
 
         # Save text to a text file
         with open(txt_file, 'w', encoding='utf-8', newline='\n') as file:
