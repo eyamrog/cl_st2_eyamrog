@@ -18,7 +18,7 @@ def extract_text(df, path):
         text = ''
 
         # Extract the 'Title'
-        title = soup.find('h1', class_='c-article-title')
+        title = soup.find('h1', property='name')
         if title:
             title_text = ' '.join(title.get_text(' ', strip=True).split())
             text += f"Title: {title_text}\n\n"
