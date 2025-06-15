@@ -17,6 +17,8 @@ def extract_text(df, path):
         # Initialise text variable
         text = ''
 
+        # Web Scraping - Begin
+
         # Extract the 'Title'
         title = soup.find('h1', property='name')
         if title:
@@ -47,7 +49,7 @@ def extract_text(df, path):
                     section_h2_title = section_h2.find('h2')
                     if section_h2_title:
                         section_h2_title_text = ' '.join(section_h2_title.get_text(' ', strip=True).split())
-                        text += f"Section: {section_h2_title_text}\n\n"
+                        text += f"\nSection: {section_h2_title_text}\n\n"
                     # Extract section paragraphs
                     for paragraph in section_h2.find_all('div', role='paragraph', recursive=False):
                         paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
@@ -59,7 +61,7 @@ def extract_text(df, path):
                         #section_h3_title = section_h3.find('h3')
                         #if section_h3_title:
                         #    section_h3_title_text = ' '.join(section_h3_title.get_text(' ', strip=True).split())
-                        #    text += f"Subsection: {section_h3_title_text}\n\n"
+                        #    text += f"\nSubsection: {section_h3_title_text}\n\n"
                         # Extract subsection paragraphs
                         for paragraph in section_h3.find_all('div', role='paragraph', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
@@ -71,7 +73,7 @@ def extract_text(df, path):
                             #section_h4_title = section_h4.find('h4')
                             #if section_h4_title:
                             #    section_h4_title_text = ' '.join(section_h4_title.get_text(' ', strip=True).split())
-                            #    text += f"Subsubsection: {section_h4_title_text}\n\n"
+                            #    text += f"\nSubsubsection: {section_h4_title_text}\n\n"
                             # Extract subsubsection paragraphs
                             for paragraph in section_h4.find_all('div', role='paragraph', recursive=False):
                                 paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
@@ -83,11 +85,13 @@ def extract_text(df, path):
                                 #section_h5_title = section_h5.find('h5')
                                 #if section_h5_title:
                                 #    section_h5_title_text = ' '.join(section_h5_title.get_text(' ', strip=True).split())
-                                #    text += f"Subsubsubsection: {section_h5_title_text}\n\n"
+                                #    text += f"\nSubsubsubsection: {section_h5_title_text}\n\n"
                                 # Extract subsubsubsection paragraphs
                                 for paragraph in section_h5.find_all('div', role='paragraph', recursive=False):
                                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                                     text += f"{paragraph_text}\n"
+
+        # Web Scraping - End
 
         # Save text to a text file
         with open(txt_file, 'w', encoding='utf-8', newline='\n') as file:
