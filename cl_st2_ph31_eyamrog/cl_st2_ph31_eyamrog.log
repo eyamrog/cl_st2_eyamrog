@@ -368,3 +368,13 @@
 2025-06-15 20:32:49,220 - INFO - Saved text for nejm000002 to cl_st2_ph31_eyamrog\nejm\nejm000002.txt
 2025-06-15 20:32:49,404 - INFO - Saved text for nejm000003 to cl_st2_ph31_eyamrog\nejm\nejm000003.txt
 2025-06-15 20:32:49,576 - INFO - Saved text for nejm000004 to cl_st2_ph31_eyamrog\nejm\nejm000004.txt
+2025-06-15 20:49:42,776 - ERROR - Skipping cl_st2_ph31_eyamrog\nejm\laph000000.html: File not found
+2025-06-15 20:49:42,777 - ERROR - Skipping cl_st2_ph31_eyamrog\nejm\laph000001.html: File not found
+2025-06-15 20:49:42,777 - ERROR - Skipping cl_st2_ph31_eyamrog\nejm\laph000002.html: File not found
+2025-06-15 20:49:42,778 - ERROR - Skipping cl_st2_ph31_eyamrog\nejm\laph000003.html: File not found
+2025-06-15 20:49:42,778 - ERROR - Skipping cl_st2_ph31_eyamrog\nejm\laph000004.html: File not found
+2025-06-15 20:50:29,893 - INFO - Saved text for laph000000 to cl_st2_ph31_eyamrog\laph\laph000000.txt
+2025-06-15 20:50:30,528 - INFO - Saved text for laph000001 to cl_st2_ph31_eyamrog\laph\laph000001.txt
+2025-06-15 20:50:31,224 - INFO - Saved text for laph000002 to cl_st2_ph31_eyamrog\laph\laph000002.txt
+2025-06-15 20:50:32,119 - INFO - Saved text for laph000003 to cl_st2_ph31_eyamrog\laph\laph000003.txt
+2025-06-15 20:50:32,750 - INFO - Saved text for laph000004 to cl_st2_ph31_eyamrog\laph\laph000004.txt
