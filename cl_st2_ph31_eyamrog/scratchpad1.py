@@ -38,21 +38,33 @@ def extract_text(df, path):
                     text += f"\nSection: {section_h3_title}\n\n"
 
                 # Extract paragraphs within each section
-                paragraphs = section_h3.find_all('div', role='paragraph')
+                paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
                 for paragraph in paragraphs:
                     # Remove reference citations embedded in <span> tags
-                    for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                        ref_tag.decompose()  # Completely removes the element
+                    for sup_tag in paragraph.find_all('sup'):
+                        sup_tag.decompose()  # Completely removes the element
 
                     # Extract the paragraph text
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"
 
-        # Extract the 'article body'
+        # Extract the article body
         body_section = soup.find('section', property='articleBody')
         if body_section:
             body_section_core_container = body_section.find('div', class_='core-container')
             if body_section_core_container:
+                # Extract the initial paragraphs that precede the first section (introduction)
+                text += f"\nIntroduction\n\n" # Insert the 'Introduction' title
+                paragraphs = body_section_core_container.find_all('div', role='paragraph', recursive=False) # Prevents nested extraction
+                for paragraph in paragraphs:
+                    # Remove reference citations embedded in <span> tags
+                    for sup_tag in paragraph.find_all('sup'):
+                        sup_tag.decompose()  # Completely removes the element
+
+                    # Extract the paragraph text
+                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                    text += f"{paragraph_text}\n"
+
                 # Extract sectioned content
                 for section_h2 in body_section_core_container.find_all('section', recursive=False):
                     section_text = ''  # Reset for each section
@@ -67,14 +79,14 @@ def extract_text(df, path):
                     paragraphs = section_h2.find_all('div', role='paragraph', recursive=False)
                     for paragraph in paragraphs:
                         # Remove reference citations embedded in <span> tags
-                        for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                            ref_tag.decompose()  # Completely removes the element
+                        for sup_tag in paragraph.find_all('sup'):
+                            sup_tag.decompose()  # Completely removes the element
 
                         # Extract the paragraph text
                         paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                         section_text += f"{paragraph_text}\n"
 
-                    for section_h3 in section_h2.find_all('section'):
+                    for section_h3 in section_h2.find_all('section', recursive=False):
                         ## Extract subsection title (h3)
                         #section_h3_title_tag = section_h3.find('h3')
                         #if section_h3_title_tag:
@@ -82,15 +94,33 @@ def extract_text(df, path):
                         #    section_text += f"\nSection: {section_h3_title}\n\n"
 
                         # Extract h3 paragraphs
-                        paragraphs = section_h3.find_all('div', role='paragraph')
+                        paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
                         for paragraph in paragraphs:
                             # Remove reference citations embedded in <span> tags
-                            for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                                ref_tag.decompose()  # Completely removes the element
+                            for sup_tag in paragraph.find_all('sup'):
+                                sup_tag.decompose()  # Completely removes the element
 
                             # Extract the paragraph text
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                             section_text += f"{paragraph_text}\n"
+
+                        for section_h4 in section_h3.find_all('section', recursive=False):
+                            ## Extract subsection title (h4)
+                            #section_h4_title_tag = section_h4.find('h4')
+                            #if section_h4_title_tag:
+                            #    section_h4_title = ' '.join(section_h4_title_tag.get_text(' ', strip=True).split())
+                            #    section_text += f"\nSection: {section_h4_title}\n\n"
+
+                            # Extract h4 paragraphs
+                            paragraphs = section_h4.find_all('div', role='paragraph', recursive=False)
+                            for paragraph in paragraphs:
+                                # Remove reference citations embedded in <span> tags
+                                for sup_tag in paragraph.find_all('sup'):
+                                    sup_tag.decompose()  # Completely removes the element
+
+                                # Extract the paragraph text
+                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                section_text += f"{paragraph_text}\n"
 
                     text += section_text  # Append structured section text
 
