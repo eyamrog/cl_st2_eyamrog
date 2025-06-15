@@ -18,34 +18,23 @@ def extract_text(df, path):
         text = ''
 
         # Extract the 'Title'
-        title_tag = soup.find('h1', class_='c-article-title')
+        title_tag = soup.find('span', class_='article-title')
         if title_tag:
             title = ' '.join(title_tag.get_text(' ', strip=True).split())
             text += f"{title}\n"
 
-        # Extract the 'article body'
-        article_body_tag = soup.find('div', class_='c-article-body')
-        if article_body_tag:
-            for section in article_body_tag.find_all('section'):
-                # Extract section title (h2)
-                section_h2_title_tag = section.find('h2', class_='c-article-section__title')
-                if section_h2_title_tag:
-                    section_h2_title = ' '.join(section_h2_title_tag.get_text(' ', strip=True).split())
-                    text += f"{section_h2_title}\n"
+        # Extract 'article sections'
+        for section in soup.find_all('div', class_='articleSection'):
+            if not section.find_parent('div', class_='articleSection'):  # Ensures it's a top-level section
+                
+                # Extract section title
+                section_title_tag = section.find('div', class_='tl-main-part title')
+                if section_title_tag:
+                    section_title = ' '.join(section_title_tag.get_text(' ', strip=True).split())
+                    text += f"{section_title}\n"
 
-                # Extract subsection title (h3)
-                section_h3_title_tag = section.find('h3', class_='c-article__sub-heading')
-                if section_h3_title_tag:
-                    section_h3_title = ' '.join(section_h3_title_tag.get_text(' ', strip=True).split())
-                    text += f"{section_h3_title}\n"
-
-                # Extract paragraphs
+                # Extract paragraphs (only from top-level sections)
                 for paragraph in section.find_all('p'):
-                    # Remove <sup> elements containing references
-                    for sup_tag in paragraph.find_all('sup'):
-                        sup_tag.decompose()  # Completely removes the element
-
-                    # Extract the paragraph text
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"
 
