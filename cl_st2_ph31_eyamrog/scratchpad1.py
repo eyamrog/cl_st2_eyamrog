@@ -122,6 +122,24 @@ def extract_text(df, path):
                                 paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                                 section_text += f"{paragraph_text}\n"
 
+                            for section_h5 in section_h4.find_all('section', recursive=False):
+                                ## Extract subsection title (h5)
+                                #section_h5_title_tag = section_h5.find('h5')
+                                #if section_h5_title_tag:
+                                #    section_h5_title = ' '.join(section_h5_title_tag.get_text(' ', strip=True).split())
+                                #    section_text += f"\nSection: {section_h5_title}\n\n"
+
+                                # Extract h5 paragraphs
+                                paragraphs = section_h5.find_all('div', role='paragraph', recursive=False)
+                                for paragraph in paragraphs:
+                                    # Remove reference citations embedded in <span> tags
+                                    for sup_tag in paragraph.find_all('sup'):
+                                        sup_tag.decompose()  # Completely removes the element
+
+                                    # Extract the paragraph text
+                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                    section_text += f"{paragraph_text}\n"
+
                     text += section_text  # Append structured section text
 
         # Save text to a text file
