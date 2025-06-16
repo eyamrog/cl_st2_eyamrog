@@ -38,7 +38,7 @@ def extract_text(df, path):
                     text += f"\nSection: {section_h3_title}\n\n"
 
                 # Extract paragraphs within each section
-                paragraphs = section_h3.find_all('div', role='paragraph')
+                paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
                 for paragraph in paragraphs:
                     # Remove reference citations embedded in <span> tags
                     for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
@@ -82,7 +82,7 @@ def extract_text(df, path):
                         #    section_text += f"\nSection: {section_h3_title}\n\n"
 
                         # Extract h3 paragraphs
-                        paragraphs = section_h3.find_all('div', role='paragraph')
+                        paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
                         for paragraph in paragraphs:
                             # Remove reference citations embedded in <span> tags
                             for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
@@ -91,6 +91,42 @@ def extract_text(df, path):
                             # Extract the paragraph text
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                             section_text += f"{paragraph_text}\n"
+
+                        for section_h4 in section_h3.find_all('section'):
+                            ## Extract subsection title (h4)
+                            #section_h4_title_tag = section_h4.find('h4')
+                            #if section_h4_title_tag:
+                            #    section_h4_title = ' '.join(section_h4_title_tag.get_text(' ', strip=True).split())
+                            #    section_text += f"\nSection: {section_h4_title}\n\n"
+
+                            # Extract h4 paragraphs
+                            paragraphs = section_h4.find_all('div', role='paragraph', recursive=False)
+                            for paragraph in paragraphs:
+                                # Remove reference citations embedded in <span> tags
+                                for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
+                                    ref_tag.decompose()  # Completely removes the element
+
+                                # Extract the paragraph text
+                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                section_text += f"{paragraph_text}\n"
+
+                            for section_h5 in section_h4.find_all('section'):
+                                ## Extract subsection title (h5)
+                                #section_h5_title_tag = section_h5.find('h5')
+                                #if section_h5_title_tag:
+                                #    section_h5_title = ' '.join(section_h5_title_tag.get_text(' ', strip=True).split())
+                                #    section_text += f"\nSection: {section_h5_title}\n\n"
+
+                                # Extract h5 paragraphs
+                                paragraphs = section_h5.find_all('div', role='paragraph', recursive=False)
+                                for paragraph in paragraphs:
+                                    # Remove reference citations embedded in <span> tags
+                                    for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
+                                        ref_tag.decompose()  # Completely removes the element
+
+                                    # Extract the paragraph text
+                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                    section_text += f"{paragraph_text}\n"
 
                     text += section_text  # Append structured section text
 

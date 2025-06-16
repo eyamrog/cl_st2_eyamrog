@@ -66,6 +66,9 @@ def extract_text(df, path):
                     # Extract h2 paragraphs, if there are any
                     paragraphs = section_h2.find_all('div', role='paragraph', recursive=False)
                     for paragraph in paragraphs:
+                        # Remove nested paragraphs in the paragraph to drop the paragraphs in the 'Research in context' box
+                        for nested_paragraph in paragraph.find_all('div', role='paragraph'):
+                            nested_paragraph.decompose()
                         # Remove reference citations embedded in <span> tags
                         for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
                             ref_tag.decompose()  # Completely removes the element
