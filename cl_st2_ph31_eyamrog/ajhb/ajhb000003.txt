@@ -83,3 +83,7 @@ The authors declare no potential conflict of interest.
 Section: AUTHOR CONTRIBUTIONS
 
 J.R.W., C.E.A.C., and R.V.S. designed the study, and directed implementation and data collection. J.R.W., C.E.A.C., A.A.F., M.V.G.O., and J.R.M.L. participated in field data collection. A.A.F., F.G.T., J.R.M.L., J.R.W., and C.E.A.C. analyzed the data. J.R.W. and C.E.A.C. wrote the manuscript. R.V.S., A.A.F., F.G.T., and J.R.M.L. provided critical comments on the manuscript. All authors participated in data interpretation and approved the final manuscript.
+
+Section: ACKNOWLEDGMENTS
+
+We thank the Xavante people of Pimentel Barbosa and Etênhiritipá villages for their ongoing support and friendship, and for graciously receiving us in their villages and homes during fieldwork. For providing funding, we acknowledge the Fundação Oswaldo Cruz (Fiocruz; PAPES V, No. 0428), the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq; process numbers 475674/2008-1 and 307624/2017-0), and the Escola Nacional de Saúde Pública (ENSP; INOVA-ENSP Program).

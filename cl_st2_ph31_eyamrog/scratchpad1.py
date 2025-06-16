@@ -70,6 +70,34 @@ def extract_text(df, path):
                         for paragraph in h3_section.find_all('p', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                             text += f"{paragraph_text}\n"
+                        for h4_section in h3_section.find_all('section', recursive=False):
+                            h4_title = h4_section.find('h4')
+                            if h4_title:
+                                h4_title_text = ' '.join(h4_title.get_text(' ', strip=True).split())
+                                text += f"\nSection: {h4_title_text}\n\n"
+                            for paragraph in h4_section.find_all('p', recursive=False):
+                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                text += f"{paragraph_text}\n"
+                            for h5_section in h4_section.find_all('section', recursive=False):
+                                h5_title = h5_section.find('h5')
+                                if h5_title:
+                                    h5_title_text = ' '.join(h5_title.get_text(' ', strip=True).split())
+                                    text += f"\nSection: {h5_title_text}\n\n"
+                                for paragraph in h5_section.find_all('p', recursive=False):
+                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                    text += f"{paragraph_text}\n"
+
+        # Extract the 'Acknowledgements'
+        if body_section:
+            for h2_section in body_section.find_all('div', class_='article-section__content', recursive=False):
+                h2_title = h2_section.find('h2')
+                if h2_title:
+                    h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
+                    text += f"\nSection: {h2_title_text}\n\n"
+                for paragraph in h2_section.find_all('p', recursive=False):
+                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                    text += f"{paragraph_text}\n"
+
 
         # Web Scraping - End
 

@@ -50,6 +50,12 @@ Section: 2.3 Total water intake
 
 Two primary methods exist to estimate total water intake. Both are time intensive, but they differ markedly in cost and time.
 
+Section: 2.3.1 Doubly labeled water
+
+Doubly labeled water (DLW) is the gold standard for calculating total body water usage in a 24-hour period (liters/day). DLW can be calculated with deuterium from stable isotope analysis. This method is relatively field-friendly and has been conducted in small-scale populations in remote areas (Christopher et al., 2019 ; Pontzer et al., 2015 ).
+DLW requires isotopic analyses for the determination of both energy expenditure and water throughput. This is because both rely on the rate of isotope depletion in the body as the enriched water is flushed from the body (Raman et al., 2004 ; Schoeller et al., 1986 ). First, the subject provides a urine sample. Once they return with the urine sample, they drink a dose (120 mL, or 4 oz) of DLW enriched with safe, nonradioactive oxygen and hydrogen isotopes (deuterium and oxygen-18; IAEA, 2009 ). The dose amount should be tailored to the subject's body weight following IAEA ( 2009 ) recommendations of 1.08 g of DLW per kg of body mass. Then, four urine samples are collected over 14 days. While the isotopic composition in the urine samples are stable, they should not be subjected to extreme heat. It is recommended they be refrigerated or frozen after collection as they are transported to the mass spectrometer for analysis. Finally, the urine samples are then analyzed on a mass spectrometer.
+Tracking the enrichment of these uncommon isotopes in the urine samples allows the calculation of the subject's average rate of carbon dioxide production, and thus a measurement of water used by the subject's body (liters/day) during the measurement period. The cost per participant for the isotope dosing (which is dependent on weight of the participant) along with lab fees to run the mass spectrometer typically run ~$800 per participant. While DLW is the gold standard, the high cost and the time commitment of participants is often restrictive of large sample collection.
+
 Section: 2.4 24-hour dietary recall:
 
 While DLW allows for an assessment of water throughput, it does not distinguish what people are actually consuming to meet their water needs. As many studies in human biology show, diet is intimately connected to environmental resources, market resources, and globalization (Dufour, Bender, & Reina, 2015 ; Piperata et al., 2011 ; Sorensen et al., 2005 ). Dietary recall analyses reveal many important facets of inquiry to human biology research, including insight into population level snapshots and trends of water intake, dietary exposures and adaptations, and health outcomes (Leonard, 2012 ; Popkin et al., 2010 ).
@@ -156,3 +162,7 @@ Unmet human water needs can produce a variety of negative biological and health 
 Section: AUTHOR CONTRIBUTIONS
 
 A.W., A.R., and A.B. conceptualized this manuscript. A.W., A.R., J.S., W.J., and A.B. all contributed to the writing, editing, and revision of this draft.
+
+Section: ACKNOWLEDGEMENTS
+
+Our work was supported by NSF grant BCS-1759972 HWISE RCN: Building A Community of Practice for Household Water Insecurity Research (HWISE). Wutich and Brewis acknowledge support for the Global Ethnohydrology Study, funded as part of the ASU Center for Global Health. Wutich received support from NSF grants SES-1462086 and DEB-1637590. We thank our close colleagues Barbara Piperata and Amanda L. Thompson for generously providing feedback on earlier drafts and helping us to improve the clarity of our thinking and writing.

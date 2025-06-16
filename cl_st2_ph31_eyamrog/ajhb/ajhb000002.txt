@@ -70,3 +70,7 @@ In conclusion, our study is consistent with others in demonstrating links betwee
 Section: AUTHOR CONTRIBUTIONS
 
 MKS and JCKW codesigned the study. MKS collected and analyzed the data and wrote the first draft of the manuscript. OJA assisted with data collection, data processing, and analysis. TJC served as statistician for the study. JCKW and CAC contributed to data acquisition and served as principal investigators. All authors provided critical comments on the manuscript and approved the final version.
+
+Section: ACKNOWLEDGEMENTS
+
+Thanks to Dr. Jane Williams for her help with the calculation of birthweight SD scores.
