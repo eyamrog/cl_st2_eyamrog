@@ -1,0 +1,6 @@
+Title: Measuring Human Water Needs
+
+
+Abstract: Abstract
+
+Water connects the environment, culture, and biology, yet only recently has it emerged as a major focus for research in human biology. To facilitate such research, we describe methods to measure biological, environmental, and perceptual indicators of human water needs. This toolkit provides an overview of methods for assessing different dimensions of human water need, both well-established and newly-developed. These include: (a) markers of hydration (eg, urine specific gravity, doubly labeled water) important for measuring the impacts of water need on human biological functioning; (b) methods for measuring water quality (eg, digital colorimeter, membrane filtration) essential for understanding the health risks associated with exposure to microbiological, organic, metal, inorganic nonmental, and other contaminants; and (c) assessments of household water insecurity status that track aspects of unmet water needs (eg, inadequate water service, unaffordability, and experiences of water insecurity) that are directly relevant to human health and biology. Together, these methods can advance new research about the role of water in human biology and health, including the ways that insufficient, unsafe, or insecure water produces negative biological and health outcomes.

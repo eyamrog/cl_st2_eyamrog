@@ -33,7 +33,7 @@ def extract_text(df, path):
                 author_abstract_h2_title = author_abstract_section.find('h2', property='name')
                 if author_abstract_h2_title:
                     author_abstract_h2_title_text = ' '.join(author_abstract_h2_title.get_text(' ', strip=True).split())
-                    text += f"Abstract: {author_abstract_h2_title_text}\n\n"
+                    text += f"\nAbstract: {author_abstract_h2_title_text}\n\n"
                 for paragraph in author_abstract_section.find_all('div', role='paragraph', recursive=False):
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"

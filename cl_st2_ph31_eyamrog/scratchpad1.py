@@ -17,121 +17,108 @@ def extract_text(df, path):
         # Initialise text variable
         text = ''
 
+        # Web Scraping - Begin
+
         # Extract the 'Title'
-        title_tag = soup.find('h1', property='name')
-        if title_tag:
-            title = ' '.join(title_tag.get_text(' ', strip=True).split())
-            text += f"Title: {title}\n\n"
+        title = soup.find('h1', class_='citation__title')
+        if title:
+            title_text = ' '.join(title.get_text(' ', strip=True).split())
+            text += f"Title: {title_text}\n\n"
 
+        # Capture the 'article body'
+        article_body = soup.find('div', class_='article__body')
+        
         # Extract the 'Abstract'
-        abstract_section = soup.find('section', property='abstract')
-        if abstract_section:
-            abstract_tag = abstract_section.find('h2', property='name')
-            if abstract_tag:
-                abstract = ' '.join(abstract_tag.get_text(' ', strip=True).split())
-                text += f"\nAbstract: {abstract}\n\n"
-
-            for section_h3 in abstract_section.find_all('section', recursive=False):
-                section_h3_title_tag = section_h3.find('h3')
-                if section_h3_title_tag:
-                    section_h3_title = ' '.join(section_h3_title_tag.get_text(' ', strip=True).split())
-                    text += f"\nSection: {section_h3_title}\n\n"
-
-                # Extract paragraphs within each section
-                paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
-                for paragraph in paragraphs:
-                    # Remove reference citations embedded in <span> tags
-                    for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                        ref_tag.decompose()  # Completely removes the element
-
-                    # Extract the paragraph text
-                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                    text += f"{paragraph_text}\n"
-
-        # Extract the 'article body'
-        body_section = soup.find('section', property='articleBody')
-        if body_section:
-            body_section_core_container = body_section.find('div', class_='core-container')
-            if body_section_core_container:
-                # Extract sectioned content
-                for section_h2 in body_section_core_container.find_all('section', recursive=False):
-                    section_text = ''  # Reset for each section
-
-                    # Extract section title (h2)
-                    section_h2_title_tag = section_h2.find('h2')
-                    if section_h2_title_tag:
-                        section_h2_title = ' '.join(section_h2_title_tag.get_text(' ', strip=True).split())
-                        section_text += f"\nSection: {section_h2_title}\n\n"
-                    
-                    # Extract h2 paragraphs, if there are any
-                    paragraphs = section_h2.find_all('div', role='paragraph', recursive=False)
-                    for paragraph in paragraphs:
-                        # Remove nested paragraphs in the paragraph to drop the paragraphs in the 'Research in context' box
-                        for nested_paragraph in paragraph.find_all('div', role='paragraph'):
-                            nested_paragraph.decompose()
-                        # Remove reference citations embedded in <span> tags
-                        for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                            ref_tag.decompose()  # Completely removes the element
-
-                        # Extract the paragraph text
+        if article_body:
+            abstract_section = article_body.find('section', class_='article-section__abstract')
+            if abstract_section:
+                h2_title = abstract_section.find('h2')
+                if h2_title:
+                    h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
+                    text += f"\nAbstract: {h2_title_text}\n\n"
+                abstract_content = abstract_section.find('div', class_='article-section__content en main')
+                if abstract_content:
+                    for paragraph in abstract_content.find_all('p', recursive=False):
                         paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                        section_text += f"{paragraph_text}\n"
-
-                    for section_h3 in section_h2.find_all('section'):
-                        ## Extract subsection title (h3)
-                        #section_h3_title_tag = section_h3.find('h3')
-                        #if section_h3_title_tag:
-                        #    section_h3_title = ' '.join(section_h3_title_tag.get_text(' ', strip=True).split())
-                        #    section_text += f"\nSection: {section_h3_title}\n\n"
-
-                        # Extract h3 paragraphs
-                        paragraphs = section_h3.find_all('div', role='paragraph', recursive=False)
-                        for paragraph in paragraphs:
-                            # Remove reference citations embedded in <span> tags
-                            for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                                ref_tag.decompose()  # Completely removes the element
-
-                            # Extract the paragraph text
+                        text += f"{paragraph_text}\n"
+                    for section in abstract_content.find_all('section', recursive=False):
+                        h3_title = section.find('h3')
+                        if h3_title:
+                            h3_title_text = ' '.join(h3_title.get_text(' ', strip=True).split())
+                            text += f"\nSection: {h3_title_text}\n\n"
+                        for paragraph in section.find_all('p', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                            section_text += f"{paragraph_text}\n"
+                            text += f"{paragraph_text}\n"
 
-                        for section_h4 in section_h3.find_all('section'):
-                            ## Extract subsection title (h4)
-                            #section_h4_title_tag = section_h4.find('h4')
-                            #if section_h4_title_tag:
-                            #    section_h4_title = ' '.join(section_h4_title_tag.get_text(' ', strip=True).split())
-                            #    section_text += f"\nSection: {section_h4_title}\n\n"
 
-                            # Extract h4 paragraphs
-                            paragraphs = section_h4.find_all('div', role='paragraph', recursive=False)
-                            for paragraph in paragraphs:
-                                # Remove reference citations embedded in <span> tags
-                                for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                                    ref_tag.decompose()  # Completely removes the element
 
-                                # Extract the paragraph text
-                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                                section_text += f"{paragraph_text}\n"
+#        # Extract the 'Abstract'
+#        abstract_section = soup.find('div', id='abstracts')
+#        if abstract_section:
+#            author_abstract_section = abstract_section.find('section', id='author-abstract')
+#            if author_abstract_section:
+#                author_abstract_h2_title = author_abstract_section.find('h2', property='name')
+#                if author_abstract_h2_title:
+#                    author_abstract_h2_title_text = ' '.join(author_abstract_h2_title.get_text(' ', strip=True).split())
+#                    text += f"\nAbstract: {author_abstract_h2_title_text}\n\n"
+#                for paragraph in author_abstract_section.find_all('div', role='paragraph', recursive=False):
+#                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+#                    text += f"{paragraph_text}\n"
+#
+#        # Extract the 'body'
+#        body_section = soup.find('section', id='bodymatter')
+#        if body_section:
+#            body_core_container = body_section.find('div', class_='core-container')
+#            if body_core_container:
+#                # Extract sections
+#                for section_h2 in body_core_container.find_all('section', recursive=False):
+#                    # Extract section title
+#                    section_h2_title = section_h2.find('h2')
+#                    if section_h2_title:
+#                        section_h2_title_text = ' '.join(section_h2_title.get_text(' ', strip=True).split())
+#                        text += f"\nSection: {section_h2_title_text}\n\n"
+#                    # Extract section paragraphs
+#                    for paragraph in section_h2.find_all('div', role='paragraph', recursive=False):
+#                        paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+#                        text += f"{paragraph_text}\n"
+#
+#                    # Extract subsections
+#                    for section_h3 in section_h2.find_all('section', recursive=False):
+#                        ## Extract subsection title
+#                        #section_h3_title = section_h3.find('h3')
+#                        #if section_h3_title:
+#                        #    section_h3_title_text = ' '.join(section_h3_title.get_text(' ', strip=True).split())
+#                        #    text += f"\nSubsection: {section_h3_title_text}\n\n"
+#                        # Extract subsection paragraphs
+#                        for paragraph in section_h3.find_all('div', role='paragraph', recursive=False):
+#                            paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+#                            text += f"{paragraph_text}\n"
+#
+#                        # Extract subsubsections
+#                        for section_h4 in section_h3.find_all('section', recursive=False):
+#                            ## Extract subsubsection title
+#                            #section_h4_title = section_h4.find('h4')
+#                            #if section_h4_title:
+#                            #    section_h4_title_text = ' '.join(section_h4_title.get_text(' ', strip=True).split())
+#                            #    text += f"\nSubsubsection: {section_h4_title_text}\n\n"
+#                            # Extract subsubsection paragraphs
+#                            for paragraph in section_h4.find_all('div', role='paragraph', recursive=False):
+#                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+#                                text += f"{paragraph_text}\n"
+#
+#                            # Extract subsubsubsections
+#                            for section_h5 in section_h4.find_all('section', recursive=False):
+#                                ## Extract subsubsubsection title
+#                                #section_h5_title = section_h5.find('h5')
+#                                #if section_h5_title:
+#                                #    section_h5_title_text = ' '.join(section_h5_title.get_text(' ', strip=True).split())
+#                                #    text += f"\nSubsubsubsection: {section_h5_title_text}\n\n"
+#                                # Extract subsubsubsection paragraphs
+#                                for paragraph in section_h5.find_all('div', role='paragraph', recursive=False):
+#                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+#                                    text += f"{paragraph_text}\n"
 
-                            for section_h5 in section_h4.find_all('section'):
-                                ## Extract subsection title (h5)
-                                #section_h5_title_tag = section_h5.find('h5')
-                                #if section_h5_title_tag:
-                                #    section_h5_title = ' '.join(section_h5_title_tag.get_text(' ', strip=True).split())
-                                #    section_text += f"\nSection: {section_h5_title}\n\n"
-
-                                # Extract h5 paragraphs
-                                paragraphs = section_h5.find_all('div', role='paragraph', recursive=False)
-                                for paragraph in paragraphs:
-                                    # Remove reference citations embedded in <span> tags
-                                    for ref_tag in paragraph.find_all('span', class_='dropBlock reference-citations'):
-                                        ref_tag.decompose()  # Completely removes the element
-
-                                    # Extract the paragraph text
-                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                                    section_text += f"{paragraph_text}\n"
-
-                    text += section_text  # Append structured section text
+        # Web Scraping - End
 
         # Save text to a text file
         with open(txt_file, 'w', encoding='utf-8', newline='\n') as file:
