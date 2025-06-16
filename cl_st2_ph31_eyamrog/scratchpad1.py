@@ -98,7 +98,6 @@ def extract_text(df, path):
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"
 
-
         # Web Scraping - End
 
         # Save text to a text file
