@@ -17,40 +17,88 @@ def extract_text(df, path):
         # Initialise text variable
         text = ''
 
+        # Web Scraping - Begin
+
         # Extract the 'Title'
-        title_tag = soup.find('span', class_='article-title')
-        if title_tag:
-            title = ' '.join(title_tag.get_text(' ', strip=True).split())
-            text += f"Title: {title}\n\n"
+        title = soup.find('h1', class_='citation__title')
+        if title:
+            title_text = ' '.join(title.get_text(' ', strip=True).split())
+            text += f"Title: {title_text}\n\n"
 
-        # Extract 'article sections'
-        for section in soup.find_all('div', class_='articleSection'): # Finds all 'div.articleSection' elements (both top-level and nested).
-            if not section.find_parent('div', class_='articleSection'): # Keeps only the top-level sections because it filters out nested ones by checking if the 'div.articleSection' has a parent that is also 'div.articleSection'
-                
-                # Extract section title
-                section_title_tag = section.find('div', class_='tl-main-part title')
-                if section_title_tag:
-                    section_title = ' '.join(section_title_tag.get_text(' ', strip=True).split())
-                    text += f"\nSection: {section_title}\n\n"
+        # Capture the 'article body'
+        article_body = soup.find('div', class_='article__body')
+        
+        # Extract the 'Abstract'
+        if article_body:
+            abstract_section = article_body.find('section', class_='article-section__abstract')
+            if abstract_section:
+                h2_title = abstract_section.find('h2')
+                if h2_title:
+                    h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
+                    text += f"\nAbstract: {h2_title_text}\n\n"
+                abstract_content = abstract_section.find('div', class_='article-section__content en main')
+                if abstract_content:
+                    for paragraph in abstract_content.find_all('p', recursive=False):
+                        paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                        text += f"{paragraph_text}\n"
+                    for section in abstract_content.find_all('section', recursive=False):
+                        h3_title = section.find('h3')
+                        if h3_title:
+                            h3_title_text = ' '.join(h3_title.get_text(' ', strip=True).split())
+                            text += f"\nSection: {h3_title_text}\n\n"
+                        for paragraph in section.find_all('p', recursive=False):
+                            paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                            text += f"{paragraph_text}\n"
 
-                # Extract paragraphs (only from top-level sections)
-                for paragraph in section.find_all('p'):
+        # Extract the 'body'
+        if article_body:
+            body_section = article_body.find('section', class_='article-section article-section__full')
+            if body_section:
+                for h2_section in body_section.find_all('section', class_='article-section__content', recursive=False):
+                    h2_title = h2_section.find('h2')
+                    if h2_title:
+                        h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
+                        text += f"\nSection: {h2_title_text}\n\n"
+                    for paragraph in h2_section.find_all('p', recursive=False):
+                        paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                        text += f"{paragraph_text}\n"
+                    for h3_section in h2_section.find_all('section', recursive=False):
+                        h3_title = h3_section.find('h3')
+                        if h3_title:
+                            h3_title_text = ' '.join(h3_title.get_text(' ', strip=True).split())
+                            text += f"\nSection: {h3_title_text}\n\n"
+                        for paragraph in h3_section.find_all('p', recursive=False):
+                            paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                            text += f"{paragraph_text}\n"
+                        for h4_section in h3_section.find_all('section', recursive=False):
+                            h4_title = h4_section.find('h4')
+                            if h4_title:
+                                h4_title_text = ' '.join(h4_title.get_text(' ', strip=True).split())
+                                text += f"\nSection: {h4_title_text}\n\n"
+                            for paragraph in h4_section.find_all('p', recursive=False):
+                                paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                text += f"{paragraph_text}\n"
+                            for h5_section in h4_section.find_all('section', recursive=False):
+                                h5_title = h5_section.find('h5')
+                                if h5_title:
+                                    h5_title_text = ' '.join(h5_title.get_text(' ', strip=True).split())
+                                    text += f"\nSection: {h5_title_text}\n\n"
+                                for paragraph in h5_section.find_all('p', recursive=False):
+                                    paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
+                                    text += f"{paragraph_text}\n"
+
+        # Extract the 'Acknowledgements'
+        if body_section:
+            for h2_section in body_section.find_all('div', class_='article-section__content', recursive=False):
+                h2_title = h2_section.find('h2')
+                if h2_title:
+                    h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
+                    text += f"\nSection: {h2_title_text}\n\n"
+                for paragraph in h2_section.find_all('p', recursive=False):
                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                     text += f"{paragraph_text}\n"
 
-                # Extract subsections
-                for subsection in section.find_all('div', recursive=False):
-                    #label_tag = subsection.find('span', class_='label')
-                    #if label_tag:
-                    #    label_text = ' '.join(label_tag.get_text(' ', strip=True).split())
-                    #    text += f"\nSection: {label_text} "
-                    #subsection_tag = subsection.find('span', class_='tl-lowest-section')
-                    #if subsection_tag:
-                    #    subsection_title = ' '.join(subsection_tag.get_text(' ', strip=True).split())
-                    #    text += f"{subsection_title}\n\n"
-                    for paragraph in subsection.find_all('p'):
-                        paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
-                        text += f"{paragraph_text}\n"
+        # Web Scraping - End
 
         # Save text to a text file
         with open(txt_file, 'w', encoding='utf-8', newline='\n') as file:
