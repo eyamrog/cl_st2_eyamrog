@@ -63,26 +63,26 @@ def extract_text(df, path):
                         paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                         text += f"{paragraph_text}\n"
                     for h3_section in h2_section.find_all('section', recursive=False):
-                        h3_title = h3_section.find('h3')
-                        if h3_title:
-                            h3_title_text = ' '.join(h3_title.get_text(' ', strip=True).split())
-                            text += f"\nSection: {h3_title_text}\n\n"
+                        #h3_title = h3_section.find('h3')
+                        #if h3_title:
+                        #    h3_title_text = ' '.join(h3_title.get_text(' ', strip=True).split())
+                        #    text += f"\nSection: {h3_title_text}\n\n"
                         for paragraph in h3_section.find_all('p', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                             text += f"{paragraph_text}\n"
                         for h4_section in h3_section.find_all('section', recursive=False):
-                            h4_title = h4_section.find('h4')
-                            if h4_title:
-                                h4_title_text = ' '.join(h4_title.get_text(' ', strip=True).split())
-                                text += f"\nSection: {h4_title_text}\n\n"
+                            #h4_title = h4_section.find('h4')
+                            #if h4_title:
+                            #    h4_title_text = ' '.join(h4_title.get_text(' ', strip=True).split())
+                            #    text += f"\nSection: {h4_title_text}\n\n"
                             for paragraph in h4_section.find_all('p', recursive=False):
                                 paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                                 text += f"{paragraph_text}\n"
                             for h5_section in h4_section.find_all('section', recursive=False):
-                                h5_title = h5_section.find('h5')
-                                if h5_title:
-                                    h5_title_text = ' '.join(h5_title.get_text(' ', strip=True).split())
-                                    text += f"\nSection: {h5_title_text}\n\n"
+                                #h5_title = h5_section.find('h5')
+                                #if h5_title:
+                                #    h5_title_text = ' '.join(h5_title.get_text(' ', strip=True).split())
+                                #    text += f"\nSection: {h5_title_text}\n\n"
                                 for paragraph in h5_section.find_all('p', recursive=False):
                                     paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
                                     text += f"{paragraph_text}\n"
