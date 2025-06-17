@@ -20,7 +20,7 @@ Section: Conclusions
 
 Among patients with previously untreated advanced NSCLC with an EGFR mutation, those who received osimertinib had longer overall survival than those who received a comparator EGFR-TKI. The safety profile for osimertinib was similar to that of the comparator EGFR-TKIs, despite a longer duration of exposure in the osimertinib group. (Funded by AstraZeneca; FLAURA ClinicalTrials.gov number, NCT02296125 .)
 
-Introduction
+Section: Introduction
 
 In patients with advanced or metastatic non–small-cell lung cancer (NSCLC) with mutations in the gene encoding epidermal growth factor receptor ( EGFR ) that are sensitive to tyrosine kinase inhibitors (TKIs) (exon 19 deletions or L858R point mutations), guidelines recommend treatment with an EGFR-TKI. The clinical practice guidelines of the National Comprehensive Cancer Network recommend osimertinib as the preferred EGFR-TKI option for first-line treatment in such patients.
 Osimertinib is a third-generation, irreversible, oral EGFR-TKI that selectively inhibits both EGFR-TKI–sensitizing and EGFR p.Thr790Met (T790M) resistance mutations and has shown efficacy in patients with NSCLC who have central nervous system (CNS) metastases. The FLAURA trial was a double-blind, phase 3 trial involving patients with previously untreated advanced NSCLC with EGFR mutations that compared the efficacy and safety of osimertinib with that of two other EGFR-TKIs, gefitinib or erlotinib (with both drugs included in the comparator group).

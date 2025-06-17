@@ -20,7 +20,7 @@ Section: Conclusions
 
 Gene therapy with AAV5-hFVIII-SQ vector in participants with hemophilia A resulted in sustained, clinically relevant benefit, as measured by a substantial reduction in annualized rates of bleeding events and complete cessation of prophylactic factor VIII use in all participants who had received 4×10 vg per kilogram or 6×10 vg per kilogram of the gene therapy. (Funded by BioMarin Pharmaceutical; ClinicalTrials.gov number, NCT02576795 ; EudraCT number, 2014-003880-38 .)
 
-Introduction
+Section: Introduction
 
 Adeno-associated virus (AAV)–mediated gene therapy is increasingly recognized for its potential to treat many monogenic diseases, including hemophilia A and B, by means of delivery of complementary DNA encoding functional factor VIII or factor IX proteins, respectively. To date, a single administration of AAV-mediated investigational therapy has shown clinical improvements for 1 year with the use of an AAV serotype 5 vector (AAV5) for hemophilia A.
 Here, we describe 2-year and 3-year safety and efficacy data after the administration of AAV5-hFVIII-SQ (valoctocogene roxaparvovec) in men with severe hemophilia A. In addition to providing clinical safety and efficacy data, this research contributes to a mechanistic understanding of the variability observed in gene therapy studies, thus providing insights into mechanisms of DNA persistence and durable expression.

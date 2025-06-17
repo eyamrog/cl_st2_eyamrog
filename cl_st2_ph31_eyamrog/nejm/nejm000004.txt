@@ -20,7 +20,7 @@ Section: Conclusions
 
 Hospital acquisition by another hospital or hospital system was associated with modestly worse patient experiences and no significant changes in readmission or mortality rates. Effects on process measures of quality were inconclusive. (Funded by the Agency for Healthcare Research and Quality.)
 
-Introduction
+Section: Introduction
 
 During the past two decades, the hospital industry has consolidated substantially in the United States, including a surge in mergers and acquisitions beginning in 2010. Multiple studies have shown that consolidation of the hospital market has led to higher negotiated prices with private insurers, but less is known about the effects on quality of care.
 Conceptually, hospital mergers and acquisitions could lead to improvements or deterioration in quality of care. For instance, acquiring hospitals might transfer managerial, clinical, or operational expertise to the hospitals that they acquire. Or, greater scale that is achieved by a merger might improve clinical outcomes (e.g., through volume–outcome effects). Conversely, diseconomies of scale (e.g., bureaucracy) could divert resources away from investments to improve care, and consolidation could weaken competitive pressures for hospitals to provide high-quality care to attract patients or be included in insurer networks.

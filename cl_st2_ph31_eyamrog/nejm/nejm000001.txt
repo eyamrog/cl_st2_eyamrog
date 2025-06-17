@@ -20,7 +20,7 @@ Section: Conclusions
 
 Abstinence from alcohol reduced arrhythmia recurrences in regular drinkers with atrial fibrillation. (Funded by the Government of Victoria Operational Infrastructure Support Program and others; Australian New Zealand Clinical Trials Registry number, ACTRN12616000256471 .)
 
-Introduction
+Section: Introduction
 
 Atrial fibrillation affects more than 33 million people worldwide and is a leading cause of stroke. Alcohol consumption is ingrained in Western culture, with 57% of American adults drinking regularly. Observational studies show a dose-dependent relationship between alcohol intake and incident atrial fibrillation, left atrial dilatation, atrial fibrosis, and recurrence of arrhythmia after ablation. Adverse effects have been reported even with consumption of 7 to 14 drinks per week. Moreover, alcohol is causally linked with other risk factors for atrial fibrillation, including hypertension, obesity, obstructive sleep apnea, and left ventricular dysfunction.
 Lifestyle modification has been shown to reduce arrhythmia burden and reverse atrial remodeling in studies focusing on weight loss that included recommended consumption of fewer than 3 drinks per week. To date, despite the generally accepted association between alcohol and atrial fibrillation, there are limited prospective data on the role of reduction of alcohol intake in atrial fibrillation outcomes. We undertook a randomized, controlled trial to evaluate an intervention of abstinence from alcohol among regular drinkers with a history of atrial fibrillation.
