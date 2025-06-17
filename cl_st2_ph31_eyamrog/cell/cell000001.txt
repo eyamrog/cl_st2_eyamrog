@@ -1,5 +1,6 @@
 Title: Enteric Nervous System-Derived IL-18 Orchestrates Mucosal Barrier Immunity
 
+
 Abstract: Summary
 
 Mucosal barrier immunity is essential for the maintenance of the commensal microflora and combating invasive bacterial infection. Although immune and epithelial cells are thought to be the canonical orchestrators of this complex equilibrium, here, we show that the enteric nervous system (ENS) plays an essential and non-redundant role in governing the antimicrobial protein (AMP) response. Using confocal microscopy and single-molecule fluorescence in situ mRNA hybridization (smFISH) studies, we observed that intestinal neurons produce the pleiotropic cytokine IL-18. Strikingly, deletion of IL-18 from the enteric neurons alone, but not immune or epithelial cells, rendered mice susceptible to invasive Salmonella typhimurium ( S. t.) infection. Mechanistically, unbiased RNA sequencing and single-cell sequencing revealed that enteric neuronal IL-18 is specifically required for homeostatic goblet cell AMP production. Together, we show that neuron-derived IL-18 signaling controls tissue-wide intestinal immunity and has profound consequences on the mucosal barrier and invasive bacterial killing.

@@ -1,5 +1,6 @@
 Title: Serum Amyloid A Proteins Induce Pathogenic Th17 Cells and Promote Inflammatory Disease
 
+
 Abstract: Summary
 
 Lymphoid cells that produce interleukin (IL)-17 cytokines protect barrier tissues from pathogenic microbes but are also prominent effectors of inflammation and autoimmune disease. T helper 17 (Th17) cells, defined by RORγt-dependent production of IL-17A and IL-17F, exert homeostatic functions in the gut upon microbiota-directed differentiation from naive CD4 + T cells. In the non-pathogenic setting, their cytokine production is regulated by serum amyloid A proteins (SAA1 and SAA2) secreted by adjacent intestinal epithelial cells. However, Th17 cell behaviors vary markedly according to their environment. Here, we show that SAAs additionally direct a pathogenic pro-inflammatory Th17 cell differentiation program, acting directly on T cells in collaboration with STAT3-activating cytokines. Using loss- and gain-of-function mouse models, we show that SAA1, SAA2, and SAA3 have distinct systemic and local functions in promoting Th17-mediated inflammatory diseases. These studies suggest that T cell signaling pathways modulated by the SAAs may be attractive targets for anti-inflammatory therapies.
