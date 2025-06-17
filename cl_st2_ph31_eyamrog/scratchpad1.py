@@ -32,13 +32,15 @@ def extract_text(df, path):
         if article_body:
             abstract_section = article_body.find('div', id='abstracts')
             if abstract_section:
-                abstract_author = abstract_section.find('div', class_=['abstract', 'author'])
+                abstract_author = abstract_section.find('div', class_='abstract author')
+                #abstract_author = abstract_section.find('div', attrs={'class': 'abstract author'})
+                #abstract_author = abstract_section.find('div', class_=['abstract', 'author']) # Results in match for 'author' or 'author-highlights', failing to reinforce 'author'
                 if abstract_author:
-                    h2_title = abstract_section.find('h2')
+                    h2_title = abstract_author.find('h2')
                     if h2_title:
                         h2_title_text = ' '.join(h2_title.get_text(' ', strip=True).split())
                         text += f"\nAbstract: {h2_title_text}\n\n"
-                    abstract_content = abstract_section.find('div')
+                    abstract_content = abstract_author.find('div')
                     if abstract_content:
                         for paragraph in abstract_content.find_all('div', recursive=False):
                             paragraph_text = ' '.join(paragraph.get_text(' ', strip=True).split())
