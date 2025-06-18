@@ -1,0 +1,36 @@
+Title: Changing healthcare professionals' non-reflective processes to improve the quality of care
+
+
+Abstract: Abstract
+
+
+Abstract_Section: Rationale
+
+Translating research evidence into clinical practice to improve care involves healthcare professionals adopting new behaviours and changing or stopping their existing behaviours. However, changing healthcare professional behaviour can be difficult, particularly when it involves changing repetitive, ingrained ways of providing care. There is an increasing focus on understanding healthcare professional behaviour in terms of non-reflective processes, such as habits and routines, in addition to the more often studied deliberative processes. Theories of habit and routine provide two complementary lenses for understanding healthcare professional behaviour, although to date, each perspective has only been applied in isolation.
+
+Abstract_Section: Objectives
+
+To combine theories of habit and routine to generate a broader understanding of healthcare professional behaviour and how it might be changed.
+
+Abstract_Section: Methods
+
+Sixteen experts met for a two-day multidisciplinary workshop on how to advance implementation science by developing greater understanding of non-reflective processes.
+
+Abstract_Section: Results
+
+From a psychological perspective ‘habit’ is understood as a process that maintains ingrained behaviour through a learned link between contextual cues and behaviours that have become associated with those cues. Theories of habit are useful for understanding the individual's role in developing and maintaining specific ways of working. Theories of routine add to this perspective by describing how clinical practices are formed, adapted, reinforced and discontinued in and through interactions with colleagues, systems and organisational procedures. We suggest a selection of theory-based strategies to advance understanding of healthcare professionals' habits and routines and how to change them.
+
+Abstract_Section: Conclusion
+
+Combining theories of habit and routines has the potential to advance implementation science by providing a fuller understanding of the range of factors, operating at multiple levels of analysis, which can impact on the behaviours of healthcare professionals, and so quality of care provision.
+
+Section: List of abbreviations
+
+
+Section: Declaration of competing interest
+
+None.
+
+Section: Acknowledgements
+
+This research was supported by the Health Foundation Improvement Science Award (grant number: GIFTS ID 7223 awarded to Sebastian Potthoff). Tracy Finch, Tim Rapley, Sebastian Potthoff, Tom Saunders and Luke Vale are members of the NIHR Applied Research Collaboration North East and North Cumbria ( NIHR200173 ). Luke Vale is also a member of the NIHR Newcastle In Vitro Diagnostics Co-operative, NIHR School for Public Health Research, and Fuse, the Centre for Translational Research in Public Health . The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care . Jeremy M. Grimshaw holds a Canada Research Chair in Health Knowledge Transfer and Uptake. Dominika Kwasnicka’s work is carried out within the HOMING program of the Foundation for Polish Science co-financed by the European Union under the European Regional Development Fund ; grant number POIR.04.04.00-00-5CF3/18-00 ; HOMING 5/2018. We would also like to thank Lauren Basey for optimising the design of our included figure.

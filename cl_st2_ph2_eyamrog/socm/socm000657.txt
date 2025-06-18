@@ -1,0 +1,32 @@
+Title: Mental and social wellbeing and the UK coronavirus job retention scheme: Evidence from nine longitudinal studies
+
+
+Abstract: Abstract
+
+
+Abstract_Section: Background
+
+The COVID-19 pandemic has led to major economic disruptions. In March 2020, the UK implemented the Coronavirus Job Retention Scheme – known as furlough – to minimize the impact of job losses. We investigate associations between change in employment status and mental and social wellbeing during the early stages of the pandemic.
+
+Abstract_Section: Methods
+
+Data were from 25,670 respondents, aged 17–66, across nine UK longitudinal studies . Furlough and other employment changes were defined using employment status pre-pandemic and during the first lockdown (April–June 2020). Mental and social wellbeing outcomes included psychological distress , life satisfaction , self-rated health, social contact , and loneliness. Study-specific modified Poisson regression estimates, adjusting for socio-demographic characteristics and pre-pandemic mental and social wellbeing, were pooled using meta-analysis. Associations were also stratified by sex, age, education, and household composition.
+
+Abstract_Section: Results
+
+Compared to those who remained working, furloughed workers were at greater risk of psychological distress (adjusted risk ratio, ARR = 1.12; 95%CI: 0.97, 1.29), low life satisfaction (ARR = 1.14; 95%CI: 1.07, 1.22), loneliness (ARR = 1.12; 95%CI: 1.01, 1.23), and poor self-rated health (ARR = 1.26; 95%CI: 1.05, 1.50). Nevertheless, compared to furloughed workers, those who became unemployed had greater risk of psychological distress (ARR = 1.30; 95%CI: 1.12, 1.52), low life satisfaction (ARR = 1.16; 95%CI: 0.98, 1.38), and loneliness (ARR = 1.67; 95%CI: 1.08, 2.59). Effects were not uniform across all sub-groups.
+
+Abstract_Section: Conclusions
+
+During the early stages of the pandemic, those furloughed had increased risk of poor mental and social wellbeing, but furloughed workers fared better than those who became unemployed, suggesting that furlough may have partly mitigated poorer outcomes.
+
+Section: List of abbreviations
+
+
+Section: Declaration of competing interest
+
+No conflicts of interest were declared by the authors, except SVK who is a member of the Scientific Advisory Group on Emergencies.
+
+Section: Acknowledgements
+
+The contributing studies have been made possible because of the tireless dedication, commitment and enthusiasm of the many people who have taken part. We would like to thank the participants and the numerous team members involved in the studies including interviewers, technicians, researchers, administrators, managers, health professionals and volunteers. We are additionally grateful to our funders for their financial input and support in making this research happen.

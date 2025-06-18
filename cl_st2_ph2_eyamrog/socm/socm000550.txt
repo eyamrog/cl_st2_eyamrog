@@ -1,0 +1,16 @@
+Title: How performance targets can ingrain a culture of ‘performing out’: An ethnography of two Indian primary healthcare facilities
+
+
+Abstract: Abstract
+
+Low- and middle-income country health systems often apply decontextualised and unrealistic performance targets to facilities. This can lead to empty compliance and ‘performing out’, whereby managers and providers manipulate or inflate data to create the false impression of a functional system. While this is a well-recognised pitfall of audit-style performance accountability processes, the social processes by which these practices emerge has not been well described in the literature.
+In this paper, with a focus on maternal and newborn care , we seek to better understand how and why the practices of ‘performing out’ occur, and their implications for health system functioning, organisational culture, and quality of care. We do this through a focused facility ethnography undertaken in two primary healthcare facilities in an eastern Indian state, anonymised as Esma, where practices of ‘performing out’ are prevalent.
+We draw on the understanding that health systems are complex adaptive systems encompassing both hardware and software elements, where individual behavioural practices are an outcome of the system as a whole. To unpack how the dynamic interactions between system elements and agents influence individual behaviours, we draw upon the sociological theories of practice of Bourdieu, encompassing the concepts of field, habitus, and capital.
+This lens helps illustrate how resource scarcity, unyielding application of unrealistic targets with punitive sanctions for non-achievement, and complex power dynamics lead system actors to manipulate data and create documentation to show the achievement of targets that were not actually met. The practices of ‘performing out’ are shaped by, and in turn shape, the organisational culture of the facilities, with perverse behaviour becoming part of an entrenched habitus – the ‘dispositions’ of agents that guide behaviour and thinking. In the longer term, the habituation of ‘performing out’ contributes to a systemic orientation toward sub-par performance, undermining quality of care.
+
+Section: Acronyms
+
+
+Section: Acknowledgements
+
+The authors would like to acknowledge the members of the ethnographic team who conducted the fieldwork, data collection, and analysis for the ethnographies: Priyanjali Mitra, Sohini Banerjee, Prashant Mishra, Alok Kumar, Dipanwita Gharai, Shamayita Das, and Namrata Choudhury. We would also like to acknowledge the integral support of Katriel Friedman, Deepika Saluja, Rochana Kammowanee, and others from Oxford Policy Management who contributed to the conceptualisation and production of this paper. We would like to acknowledge James Disley and the My Blue Pencil team for their expert copy-editing support. We are also grateful to Dr Priya Nanda for intellectual support in the drafting of the paper. The study was funded by Bill and Melinda Gates Foundation and the Grant ID is OPP1194341 .
