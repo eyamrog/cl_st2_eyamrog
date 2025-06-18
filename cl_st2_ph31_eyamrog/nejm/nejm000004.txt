@@ -4,19 +4,19 @@ Title: Changes in Quality of Care after Hospital Mergers and Acquisitions
 Abstract: Abstract
 
 
-Section: Background
+Abstract_Section: Background
 
 The hospital industry has consolidated substantially during the past two decades and at an accelerated pace since 2010. Multiple studies have shown that hospital mergers have led to higher prices for commercially insured patients, but research about effects on quality of care is limited.
 
-Section: Methods
+Abstract_Section: Methods
 
 Using Medicare claims and Hospital Compare data from 2007 through 2016 on performance on four measures of quality of care (a composite of clinical-process measures, a composite of patient-experience measures, mortality, and the rate of readmission after discharge) and data on hospital mergers and acquisitions occurring from 2009 through 2013, we conducted difference-in-differences analyses comparing changes in the performance of acquired hospitals from the time before acquisition to the time after acquisition with concurrent changes for control hospitals that did not have a change in ownership.
 
-Section: Results
+Abstract_Section: Results
 
 The study sample included 246 acquired hospitals and 1986 control hospitals. Being acquired was associated with a modest differential decline in performance on the patient-experience measure (adjusted differential change, −0.17 SD; 95% confidence interval [CI], −0.26 to −0.07; P=0.002; the change was analogous to a fall from the 50th to the 41st percentile) and no significant differential change in 30-day readmission rates (−0.10 percentage points; 95% CI, −0.53 to 0.34; P=0.72) or in 30-day mortality (−0.03 percentage points; 95% CI, −0.20 to 0.14; P=0.72). Acquired hospitals had a significant differential improvement in performance on the clinical-process measure (0.22 SD; 95% CI, 0.05 to 0.38; P=0.03), but this could not be attributed conclusively to a change in ownership because differential improvement occurred before acquisition.
 
-Section: Conclusions
+Abstract_Section: Conclusions
 
 Hospital acquisition by another hospital or hospital system was associated with modestly worse patient experiences and no significant changes in readmission or mortality rates. Effects on process measures of quality were inconclusive. (Funded by the Agency for Healthcare Research and Quality.)
 

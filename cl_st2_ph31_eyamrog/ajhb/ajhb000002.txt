@@ -4,19 +4,19 @@ Title: Developmental origins of variability in pelvic dimensions: Evidence from 
 Abstract: Abstract
 
 
-Section: Objectives
+Abstract_Section: Objectives
 
 Pelvic growth may be sensitive to early-life nutrition, with implications for maternal risk of obstructed labor. However, the “developmental origins” of adult pelvic variability require further investigation. We tested whether adult pelvic dimensions are associated with two components of height, indexing different periods of linear growth: tibia length, a proxy for early postnatal growth, and height-residual (height regressed on tibia length), a proxy for later growth. We also tested whether adult pelvic dimensions are associated with birth weight, a marker of nutritional investment in utero.
 
-Section: Methods
+Abstract_Section: Methods
 
 In this cross-sectional study, data were obtained on 68 nulliparous young women of South Asian ancestry. Pelvic dimensions (bi-iliac and bi-acetabular breadth, anteroposterior pelvic inlet and outlet, interspinous and intertuberous diameter) were measured using magnetic resonance imaging. Height and tibia length were measured manually. Birth weight and gestational age were obtained by recall. Multivariable regression models were fitted with a given pelvic dimension regressed on height-residual, tibia, and birth weight, with the latter adjusted for gestational age.
 
-Section: Results
+Abstract_Section: Results
 
 Controlling for birth weight, height-residual was predictive of bi-acetabular breadth, bi-iliac breadth, and the pelvic inlet, while tibia length significantly predicted all dimensions except interspinous diameter. Controlling for the linear growth variables, birth weight was predictive of bi-iliac breadth only.
 
-Section: Conclusions
+Abstract_Section: Conclusions
 
 Markers of linear growth during both early and later development were associated with adult pelvic dimensions, whereas size at birth was poorly predictive. Efforts to reduce stunting in early life may facilitate the attainment of maximum potential growth for both height and the pelvis.
 

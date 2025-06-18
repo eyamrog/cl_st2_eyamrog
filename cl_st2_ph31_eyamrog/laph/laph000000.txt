@@ -4,23 +4,23 @@ Title: Traumatic brain injury in homeless and marginally housed individuals: a s
 Abstract: Summary
 
 
-Section: Background
+Abstract_Section: Background
 
 Homelessness is a global public health concern, and traumatic brain injury (TBI) could represent an underappreciated factor in the health trajectories of homeless and marginally housed individuals. We aimed to evaluate the lifetime prevalence of TBI in this population, and to summarise findings on TBI incidence and the association between TBI and health-related or functioning-related outcomes.
 
-Section: Methods
+Abstract_Section: Methods
 
 For this systematic review and meta-analysis, we searched without date restrictions for original research studies in English that reported data on the prevalence or incidence of TBI, or the association between TBI and one or more health-related or function-related outcome measures. Studies were included if they had a group or clearly identifiable subgroup of individuals who were homeless, marginally housed, or seeking services for homeless people. With use of random-effects models, we calculated pooled estimates of the lifetime prevalence of any severity of TBI and the lifetime prevalence of moderate or severe TBI. We used meta-regression and subgroup analysis to evaluate potential moderators of prevalence estimates and the leave-one-out method for sensitivity analyses. We then summarised findings from all studies that evaluated TBI incidence and the association between TBI and health-related or functioning-related outcomes. All statistical analyses were done using R version 3.5.1. The study is registered with PROSPERO, number CRD42019119678.
 
-Section: Findings
+Abstract_Section: Findings
 
 Of 463 potentially eligible studies identified by the search, 38 studies were included in the systematic review and 22 studies were included in the meta-analysis. The lifetime prevalence of any severity of TBI in homeless and marginally housed individuals (18 studies, n=9702 individuals) was 53·1% (95% CI 46·4–59·7; I 2 =97%) and the lifetime prevalence of moderate or severe TBI (nine studies, n=5787) was 22·5% (13·5–35·0; I 2 =99%). The method used to ascertain TBI history, the age of the sample, and the sample size significantly moderated estimated lifetime prevalence of any severity of TBI. TBI was consistently associated with poorer self-reported physical and mental health, higher suicidality and suicide risk, memory concerns, and increased health service use and criminal justice system involvement.
 
-Section: Interpretation
+Abstract_Section: Interpretation
 
 The lifetime prevalence of TBI is high among homeless and marginally housed individuals, and a history of TBI is associated with poorer health and general functioning. Health-care providers and public health officials should have an increased awareness of the burden of TBI in this population. Prospective and longitudinal studies are needed to better understand how the health of this population is affected by TBI.
 
-Section: Funding
+Abstract_Section: Funding
 
 Canadian Institutes of Health Research.
 

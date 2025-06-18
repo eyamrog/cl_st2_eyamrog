@@ -4,19 +4,19 @@ Title: The Xavante Longitudinal Health Study in Brazil: Objectives, design, and 
 Abstract: Abstract
 
 
-Section: Objective
+Abstract_Section: Objective
 
 The Xavante Longitudinal Health Study was developed to permit granular tracking of contemporary health challenges faced by indigenous communities in Brazil, taking into consideration ongoing historical processes that may be associated with increases in child undernutrition, adult obesity, and cardiovascular disease risks.
 
-Section: Methods
+Abstract_Section: Methods
 
 This was an open-cohort study with six semiannual data collection waves from 2009 to 2012. The study was undertaken in two Xavante villages, Pimentel Barbosa and Etênhiritipá, State of Mato Grosso, Central Brazil. No sampling technique was used. Data collection placed emphasis on growth and nutrition of children under five and nutrition status, blood pressure, and blood glucose levels of adolescents and adults.
 
-Section: Results
+Abstract_Section: Results
 
 Baseline data collection began in July/August 2009 with a population census (656 individuals). Between the first and final waves, the study population increased by 17%. At baseline, stunting and wasting was elevated for most age groups <10 years. Overweight, obesity, and increased risk of metabolic complications were expressive among individuals >17 years, disproportionately affecting females. Anemia was elevated in most age groups, especially among females. Mean systolic and diastolic blood pressure was moderate. The overall prevalence of high blood pressure was relatively low.
 
-Section: Conclusions
+Abstract_Section: Conclusions
 
 Our findings reveal marked health disparities relative to the Brazilian national population and a complex dietary health epidemiology involving the double burden of malnutrition, rapidly changing nutritional indicators, and elevated metabolic disease risk. The topically broad multidisciplinary focus permitted construction of the richest longitudinal data set of socio-epidemiological information for an indigenous population in Brazil.
 

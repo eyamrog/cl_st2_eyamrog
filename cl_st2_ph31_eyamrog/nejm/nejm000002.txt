@@ -4,19 +4,19 @@ Title: Multiyear Follow-up of AAV5-hFVIII-SQ Gene Therapy for Hemophilia A
 Abstract: Abstract
 
 
-Section: Background
+Abstract_Section: Background
 
 Adeno-associated virus (AAV)–mediated gene therapy is under investigation as a therapeutic option for persons with hemophilia A. Efficacy and safety data include 3 years of follow-up after a single administration of AAV5-hFVIII-SQ.
 
-Section: Methods
+Abstract_Section: Methods
 
 We report durable efficacy, long-term safety, and clinical and biologic results in 15 adults with severe hemophilia A (factor VIII level, ≤1 IU per deciliter) who had received a single infusion of AAV5-hFVIII-SQ at various dose levels. We evaluated the factor VIII level, annualized rate of bleeding events, use of factor VIII, safety, expression kinetics, and biologic markers of AAV transduction for up to 3 years.
 
-Section: Results
+Abstract_Section: Results
 
 Three years after infusion, two participants (one who had received 6×10 vector genomes [vg] per kilogram of body weight and one who had received 2×10 vg per kilogram) had factor VIII expression of less than 1 IU per deciliter, as assessed on chromogenic assay. Seven participants (who had received 6×10 vg per kilogram) had a median factor VIII expression of 20 IU per deciliter; the median number of annualized treated bleeding events was 0, and the median use of exogenous factor VIII was reduced from 138.5 infusions to 0 infusions per year. Bleeding in all target joints (major joints with ≥3 bleeding events within 6 months) in this cohort resolved (≤2 bleeding events within 12 months). Two years after infusion, six participants (who had received 4×10 vg per kilogram) had a median factor VIII expression of 13 IU per deciliter; the median annualized rate of bleeding events was 0, and the median use of factor VIII was reduced from 155.5 infusions to 0.5 infusions per year. Bleeding in target joints resolved in five of six participants. The factor VIII pharmacodynamic profiles reflected cellular turnover in the blood and molecular events leading to episomal DNA stabilization for persistent expression, findings that are consistent with previous observations in two model systems. Transgene-derived human factor VIII (hFVIII) protein activity mirrored native hFVIII in hemostatic ability. No inhibitor development, thromboses, deaths, or persistent changes in liver-function tests were observed.
 
-Section: Conclusions
+Abstract_Section: Conclusions
 
 Gene therapy with AAV5-hFVIII-SQ vector in participants with hemophilia A resulted in sustained, clinically relevant benefit, as measured by a substantial reduction in annualized rates of bleeding events and complete cessation of prophylactic factor VIII use in all participants who had received 4×10 vg per kilogram or 6×10 vg per kilogram of the gene therapy. (Funded by BioMarin Pharmaceutical; ClinicalTrials.gov number, NCT02576795 ; EudraCT number, 2014-003880-38 .)
 

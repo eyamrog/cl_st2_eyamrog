@@ -4,23 +4,23 @@ Title: National, regional, and global burdens of disease from 2000 to 2016 attri
 Abstract: Summary
 
 
-Section: Background
+Abstract_Section: Background
 
 Alcohol use has increased globally, with varying trends in different parts of the world. This study investigates gender, age, and geographical differences in the alcohol-attributable burden of disease from 2000 to 2016.
 
-Section: Methods
+Abstract_Section: Methods
 
 This comparative risk assessment study estimated the alcohol-attributable burden of disease. Population-attributable fractions (PAFs) were estimated by combining alcohol exposure data obtained from production and taxation statistics and from national surveys with corresponding relative risks obtained from meta-analyses and cohort studies. Mortality and morbidity data were obtained from the WHO Global Health Estimates, population data were obtained from the UN Population Division, and human development index (HDI) data were obtained from the UN Development Programme. Uncertainty intervals (UIs) were estimated using a Monte Carlo-like approach.
 
-Section: Findings
+Abstract_Section: Findings
 
 Globally, we estimated that there were 3·0 million (95% UI 2·6–3·6) alcohol-attributable deaths and 131·4 million (119·4–154·4) disability-adjusted life-years (DALYs) in 2016, corresponding to 5·3% (4·6–6·3) of all deaths and 5·0% (4·6–5·9) of all DALYs. Alcohol use was a major risk factor for communicable, maternal, perinatal, and nutritional diseases (PAF of 3·3% [1·9–5·6]), non-communicable diseases (4·3% [3·6–5·1]), and injury (17·7% [14·3–23·0]) deaths. The alcohol-attributable burden of disease was higher among men than among women, and the alcohol-attributable age-standardised burden of disease was highest in the eastern Europe and western, southern, and central sub-Saharan Africa regions, and in countries with low HDIs. 52·4% of all alcohol-attributable deaths occurred in people younger than 60 years.
 
-Section: Interpretation
+Abstract_Section: Interpretation
 
 As a leading risk factor for the burden of disease, alcohol use disproportionately affects people in low HDI countries and young people. Given the variations in the alcohol-attributable burden of disease, cost-effective local and national policy measures that can reduce alcohol use and the resulting burden of disease are needed, especially in low-income and middle-income countries.
 
-Section: Funding
+Abstract_Section: Funding
 
 None.
 
