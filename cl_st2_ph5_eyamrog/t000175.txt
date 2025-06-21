@@ -1,0 +1,64 @@
+Title: Water insecurity, self-reported physical health, and objective measures of biological health in the Peruvian Amazon
+
+
+Abstract: Abstract
+
+
+Abstract_Section: Objectives
+
+This study examines the associations between water insecurity, self-reported physical health, and objective measures of biological health among 225 Awajún adults (107 women; 118 men) living in the Peruvian Amazon, a “water-abundant” region.
+
+Abstract_Section: Methods
+
+A survey, which included multiple measures of self-reported physical health, and objective measures of biological health such as blood pressure and nutritional and immune biomarkers.
+
+Abstract_Section: Results
+
+Greater water insecurity was associated with multiple measures of self-reported physical health, including higher incidence of reported diarrhea, nausea, back pain, headaches, chest pain, fatigue, dizziness, overall poor perceived health, and “being sick.” These symptoms align with the physical strain associated with water acquisition and with drinking contaminated water. A significant association between higher water insecurity and lower systolic blood pressure emerged, which may be linked to dehydration. None of the other biomarkers, including those for nutrition, infection, and stress were significantly associated with water insecurity scores.
+
+Abstract_Section: Conclusions
+
+These analyses add to the growing body of research examining the associations between water insecurity and health. Biocultural anthropologists are well-positioned to continue probing these connections. Future research will investigate relationships between measures of water insecurity and biomarkers for gastrointestinal infection and inflammation in water-scarce and water-abundant contexts.
+
+Section: 1 INTRODUCTION
+
+Water insecurity – the inability to access and benefit from affordable, adequate, reliable, and safe water – is one of the greatest contemporary threats facing humans (Jepson et al., 2017 ). While there are strong conceptual reviews of the relationship between water insecurity, human biology, and reported physical health (Rosinger & Young, 2020 ), the empirical literature remains limited (Wutich et al., 2022 ).
+Existing studies, primarily conducted by biocultural anthropologists, indicate that water insecurity is associated with elevated blood pressure (Brewis et al., 2019 ), dehydration (Rosinger, 2018 ), diarrhea (Jepson et al., 2021 ; Rosinger, 2018 ), physical trauma/injuries (Geere et al., 2018 ; Rosinger et al., 2021 ), mental health (reviewed in Wutich et al., 2020 ), and gender-based violence (reviewed in Tallman et al., in press ).
+Emerging within the broader water insecurity literature is the focus on water insecurity in “water-abundant” areas, such as the Amazon rainforest (Rosinger, 2018 ; Tallman, 2019 ; Torres-Slimming et al., 2020 ). This study extends this line of inquiry by examining the relationship between water insecurity, self-reported physical health, and objective measures of biological health among the Awajún of the Peruvian Amazon.
+
+Section: 2 MATERIALS AND METHODS
+
+The Awajún are an indigenous population living in the northern Peruvian Amazon, primarily in an area spanning the selva alta (upper jungle), which is covered in dense vegetation with rainfall >100 inches annually. The importance of water in Awajún livelihoods and culture cannot be overstated. Historically, rivers have served as a source of food, water, transport, and spiritual practice. Yet recent political-economic and ecological changes have led to problems with water access, contamination, and use among the Awajún (Tallman, 2019 ).
+Study data are from a convenience sample of 118 Awajún men and 107 women, 18–65 years old in four communities in the province of Amazonas (see Appendix Figure S1 for a map of the field sites). Water insecurity was initially measured using seven questions drawn from Stevenson et al.’s ( 2012 ) work, which assessed water access, quality, and consumption. Pearson's Correlations (Coeff > 0.3) were used to evaluate the relationship between these questions and principal component analysis (Cronbach's alpha > 0.7) was used to assess internal consistency. Three items emerged that were statistically the best fit for measuring water insecurity in this context and captured domains of water access, availability, use, and quality. Binary responses to these questions (cf. footnote Table 1 ) were summed to create a composite water insecurity score (range 0–3).
+Self-reported physical health was measured by asking participants (1) whether they were currently sick (yes/no), (2) if they had experienced physical health problems such as pain, dizziness etc. in the last month (not bothered, a little bothered, and very bothered), and (3) how they ranked their perceived physical health (poor to excellent). Objective measures of biological health included blood pressure, body mass index, and blood spot biomarkers including high-density lipoprotein cholesterol, triglycerides, hemoglobin, glucose, Epstein–Barr virus antibodies, and C-reactive protein. All study activities were approved by the Northwestern University Institutional Review Board (STU00074297). Participants were verbally consented and biomarker analyses were conducted by PST in the Laboratory for Human Biology at Northwestern University.
+Our hypothesis is that higher water insecurity scores will be associated with worse self-reported physical health and objective measures of biological health. To test this, associations were evaluated using multivariable ordered logit regression (ordinal variables) and linear regression (continuous variables) in Stata17, controlling for age, sex, community, and socioeconomic status.
+
+Section: 3 RESULTS
+
+Descriptive characteristics can be found in Table 2 . Multivariable models indicated that higher water insecurity scores were associated with worse self-reported physical health, including poorer perceived health and greater odds of reporting diarrhea, nausea, back pain, headache, chest pain, fatigue, dizziness, and “being sick” (Table 1 ). Water insecurity was not associated with body pain, limb pain, menstrual pain, nor sexual problems (Supplemental Table S1 ). For objective measures of biological health, higher water insecurity scores were associated with lower systolic blood pressure ( β −2.3; p = 0.009), even when controlling for perceived stress scores (Table 1 ). Water insecurity was not significantly associated with any other objective measures of biological health (Supplemental Table S2 ).
+
+Section: 4 DISCUSSION
+
+Water insecurity was associated with self-reported physical health and one objective measure of biological health, systolic blood pressure, among Awajún adults. Self-reported symptoms, such as back pain, headaches, chest pain, fatigue, and dizziness align with the physical strain associated with water acquisition (Geere et al., 2018 ; Rosinger et al., 2021 ). Others, such as diarrhea, nausea, overall poor health, and the feeling of “being sick,” may be associated with drinking contaminated water (Jepson et al., 2021 ) or the psychoemotional distress associated with water insecurity (Wutich et al., 2020 ).
+These quantitative findings fit with qualitative findings reported previously (Tallman, 2019 ). Specifically, Awajún community members expressed concern that local rivers were contaminated with sewage, garbage, and contaminants from mining operations. Additionally, study participants reported that they went “without drinking,” particularly while working in chacras (agricultural fields), which could be up to from communities and primary water sources. Therefore, despite an abundance of water in this region, sub-optimal water access and quality precluded individuals from being water secure.
+In terms of human biology, the only significant finding that emerged was an unexpected relationship between higher water insecurity and lower systolic blood pressure. Blood pressure is a well-known correlate of psychological stress. Brewis et al. ( 2019 ) found a positive association between water insecurity and blood pressure among women in Nepal. A potential explanation for the inverse association found in this study is that water insecurity can cause dehydration, resulting in lower blood volume and thus lower blood pressure (Coyle, 1998 ).
+Nutritional biomarkers were not associated with water insecurity in this study. This fits with the “water-abundant” ecology of the region, as agricultural production is sustained by natural hydrological cycles. Additionally, Amazonian households do not typically face limitations of water adequacy for cooking. Relationships between water insecurity and nutritional biomarkers may be more relevant in water-scarce areas.
+Water insecurity was not significantly associated with C-reactive protein. C-reactive protein (CRP) spikes with active infections and can be chronically elevated in inflammatory conditions. Elevated CRP was low in this sample and water-related infections may be chronic, in contrast to the acute infections commonly associated with significant increases in CRP. Water insecurity was also not significantly associated with Epstein–Barr virus (EBV) antibodies. EBV antibodies are a well-known correlate of psychological stress. One potential explanation for the null findings is that Tallman ( 2018 ) previously found that worries over socioeconomic status (SES) were salient among Awajún community members and associated with Epstein–Barr virus antibodies. SES concerns may overshadow stress over water insecurity in this context.
+Future research should investigate whether measures of water insecurity are associated with Helicobacter pylori infection, a common bacteria spread through contaminated water, and with endotoxin-core antibodies, a proxy of intestinal permeability (Hoke et al., 2018 ). Analysis of these biomarkers could yield insight into the biological correlates of water insecurity, particularly in “water-abundant” areas with poor sanitation infrastructure, such as the Amazon rainforest.
+Limitations of this study include its cross-sectional design, limiting discussions of directionality of associations. Additionally, the measure of water insecurity used was a modified version of Stevenson et al.’s ( 2012 ) survey, which was developed in a water-scarce setting, reducing the power of comparisons across studies. Recent advances in the measurement of household water insecurity have facilitated important, international comparisons (Jepson et al., 2017 ). This study included a wide range of measures of self-reported physical health and human biological functioning. However, other important biomarkers such as H. pylori and endotoxin-core antibodies have not yet been analyzed. Finally, we did not assess water access or quality, which could yield insight into the most relevant stressors, infectious exposures, and environmental contaminants in this area. Future research will address these gaps.
+
+Section: 5 CONCLUSION
+
+In conclusion, this analysis adds to the small but growing body of research examining the associations between water insecurity, perceived health, and objective measures of biological health in “water-abundant” areas. Biocultural anthropologists are well-positioned to continue probing these connections, and importantly, to connect their research to interventions to address this escalating problem in water-scarce and water-abundant areas.
+
+Section: AUTHOR CONTRIBUTIONS
+
+Paula Skye Tallman: Conceptualization, Funding Acquisition, Project Administration, Methodology, Investigation, Resources, Writing, Supervision. Shalean Collins: Conceptualization, Formal Analysis, Writing, Visualization. M. Pia Chaparro: Writing, Visualization. Gabriela Salmon-Mulanovich: Conceptualization, Formal Analysis, Writing, Visualization.
+
+Section: CONFLICT OF INTEREST
+
+The authors have no conflicts of interest.
+
+Section: ACKNOWLEDGMENTS
+
+This research was funded by a Wenner–Gren Foundation Dissertation Fieldwork Grant (P0023308-60033657). Special thanks go to the participating communities; the Peruvian Ministry of the Environment; the Organización Regional de los Pueblos de las Comunidades Indıgenas de la Amazonía Peruana Norte (ORPIAN); Giuliana Sanchez, who aided in the collection of the data and Edilberto Kinin and Armando Valdés-Velásquez, who made the fieldwork possible.

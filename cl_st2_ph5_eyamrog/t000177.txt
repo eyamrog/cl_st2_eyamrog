@@ -1,0 +1,65 @@
+Title: Human milk lactoferrin variation in relation to maternal inflammation and iron deficiency in northern Kenya
+
+
+Abstract: Abstract
+
+
+Abstract_Section: Background
+
+Milk lactoferrin is a multi-functional, iron-binding glycoprotein with immunomodulatory effects, protecting infants against infectious diseases.
+
+Abstract_Section: Aims
+
+This study explored how maternal inflammation/infection and iron-deficiency anemia (IDA) might influence human milk lactoferrin. Lactoferrin might be elevated with maternal inflammation resulting from infectious disease processes. Conversely, lactoferrin might decrease with IDA, corresponding to scarce maternal iron for transfer in milk. In these two hypothesized scenarios, the degree of lactoferrin elevation or decrease might vary with infant vulnerability to infectious diseases or malnutrition. Alternatively, lactoferrin might be unassociated with inflammation/infection or IDA if mothers could buffer it against these conditions.
+
+Abstract_Section: Materials & Methods
+
+We used cross-sectional data from Ariaal mothers of northern Kenya ( n = 200) to evaluate associations between milk lactoferrin and maternal inflammation/infection, IDA, infant age/sex, and the mother-infant variable interactions in multivariate regression models.
+
+Abstract_Section: Results
+
+Maternal inflammation was associated with higher lactoferrin for younger infants (<~5 months of age) but with lower lactoferrin for older infants. Maternal IDA was unassociated with lactoferrin alone or in interaction with infant variables.
+
+Abstract_Section: Discussion & Conclusion
+
+Results suggest that mothers of vulnerable young infants deliver more lactoferrin when they have inflammation/infection but mothers with older infants do not, and that maternal delivery of lactoferrin is unaffected by their IDA. Longitudinal research should verify these findings.
+
+Section: 1 INTRODUCTION
+
+Milk lactoferrin concentrations vary widely in the existing literature, but the factors underlying this variation are incompletely understood (Villavicencio et al., 2017 ). This study explored maternal and infant factors associated with variation in milk lactoferrin, an iron-binding protein with antimicrobial effects that can protect infants against infectious diseases (Kell et al., 2020 ; Liu & Newburg, 2013 ).
+Some studies report associations between maternal infections or allergies and elevated milk lactoferrin, yet others report lack thereof, as reviewed in (Villavicencio et al., 2017 ). Furthermore, existing data are too limited to discern the influence of maternal iron nutrition. Being an iron-binding protein, lactoferrin is capable of nourishing infants with maternal iron (Miller, 2016 ). Although much of iron transfer occurs during gestation, lactation is an opportunity to bolster infant iron status particularly in mature milk (Hirai et al., 1990 ; Miller, 2016 ). Therefore, milk lactoferrin levels might be proportionate to maternal iron availability.
+Alternatively, lactoferrin might be buffered against the effect of maternal infection or malnutrition, similarly to other milk bioactives, should natural selection have favored their stability over fluctuation (Fujita et al., 2019 ; Hinde & Milligan, 2011 ; Miller et al., 2013 ; Quinn et al., 2012 ).
+Moreover, the role of infant characteristics such as sex and age, and how these may interact with maternal factors, are underexplored. The existing research reports the importance of lactation stage (correlated with infant age), but the information tends to be limited to the first 1–2 months (Villavicencio et al., 2017 ) rather than the first 1–2 years, more aligned with lactation duration in places where long-term breastfeeding is the norm. Research on the effect of infant sex on milk lactoferrin is extremely limited (Liu et al., 2019 ; Mwila-Kazimbaya et al., 2017 ) even though sexes differ in sensitivity to stressors, including infectious disease mortality (Stinson, 1985 ). The dearth of information on milk lactoferrin variation is particularly noteworthy for the African continent (Villavicencio et al., 2017 ).
+We investigated the variation in milk lactoferrin in relation to maternal iron nutrition and inflammation, and how infant characteristics may be involved through the study of associations.
+
+Section: 2 MATERIALS AND METHODS
+
+We used cross-sectional data from 200 Ariaal mother-infant dyads of northern Kenya (available at DOI: 10.5281/zenodo.6808381) to evaluate the associations between milk lactoferrin and maternal inflammation, iron-deficiency anemia (IDA), and infant age and sex, and the interactions in the mother-infant dyads. The data originate in the context of a severe drought of 2006 (Fujita, 2008 ) when mothers varied widely in their iron and immune status (Fujita, 2008 ; Fujita et al., 2018 ), suitable for the present study objectives. The institutional review boards of the University of Washington and Kenya Medical Research Institute approved the original data/specimen collection. The lactoferrin determination using de-identified milk specimens required no further approvals.
+Lactoferrin concentrations were estimated by ELISA (Biovendor RD194334200R) of cryogenically archived foremilk specimens (one per participant) collected the morning after an overnight fast, in 2019 in the Biomarker Laboratory for Anthropological Research at Michigan State University. The intra- and inter-assay CVs for kit controls were respectively ≤5% and ≤12% across six plates.
+Other variables were available from our previous research (Fujita, 2008 ; Fujita et al., 2018 ); elevated C-reactive protein (CRP >5 mg/L) per (Brindle et al., 2010 ) defined maternal inflammation, low hemoglobin (<12 g/L per HemoCue Hb201+) co-occurring with high DBS transferrin receptor (>5 mg/L per Ramco kit TFC-94) defined maternal IDA, and Micro-BCA protein assay (Thermo, Cat.23235) characterized milk total protein. Infant age and sex were from interviews.
+We constructed multivariate regression models for natural log-transformed lactoferrin. Predictors included maternal inflammation, maternal IDA, infant sex and age, and the interaction between mother-infant variables. Infant age tertiles rather than continuous age were used to model the trends across infant age, in light of the number of terms in models for the sample size. Models were adjusted for maternal age and parity and milk total protein.
+We used Stata v.15 for statistical computation and p < .05 as the cutoff for reporting associations.
+
+Section: 3 RESULTS
+
+IDA and inflammation were prevalent; nearly one in five mothers had either condition (Table S1 ). In regression models (Table 1 ), maternal IDA was unassociated with lactoferrin, alone or in interaction with infant characteristics. The effect of elevated CRP was negligible in the main-effect model (Model 1). Inclusion of the interaction between infant age and CRP (Model 2) revealed a positive association between CRP and milk lactoferrin in the youngest infant-age tertile and an inverse association in older tertiles. Infant sex had no association with lactoferrin either on its own or interactively with CRP (Model 3).
+Figure 1 illustrates the infant age-CRP interaction (per Model 2). Lactoferrin for youngest tertile infants was higher if mothers had elevated CRP, but this was not the case for older infants. Results were similar when infant age was modeled as a continuous variable.
+
+Section: 4 DISCUSSION
+
+Our study has limitations, most notably our cross-sectional data. We modeled the longitudinal change in lactoferrin using the cross-sectional variable infant age rather than monitoring mother–infant dyads across time, which could have revealed different patterns.
+Nevertheless, this study provides insights for milk lactoferrin variation among a sizable group of mothers facing heightened nutritional and infectious disease stress. That milk lactoferrin was unassociated with maternal IDA suggests a buffering effect against iron scarcity, similar to milk lactose and secretory immunoglobulin A among the Ariaal (Fujita et al., 2018 ; Fujita et al., 2019 ). This has rarely been investigated in other populations.
+In our study, the association between maternal inflammation and elevated lactoferrin became clear only when the model accounted for interaction between maternal inflammation and infant age. It appears then that maternal inflammation, as part of their immune response to some stressors, likely infectious disease stress, has a positive influence on lactoferrin delivery particularly when raising younger infants but not beyond that period. Earlier studies on maternal infection and milk lactoferrin have rarely accounted for the interaction between infant age and maternal infection, and this may have contributed to the conflicting associations or lack thereof in the existing literature (Villavicencio et al., 2017 ).
+That mothers of young infants delivered more lactoferrin when they have inflammation/infection supports our expectation that lactoferrin would be elevated with maternal infection and for vulnerable young infants. However, it falls short of our expectation of elevated lactoferrin for infants of mothers with infection more generally. It is unclear why lactoferrin would decrease for older infants of mothers with elevated inflammation, because they are likely to have heightened risk for infection and so they have elevated need for immune protection. It may be that sustained elevation of lactoferrin is unfeasible due to energetic cost to the mother, or to some hazards to the infant—excessive inflammatory activity (Liu & Newburg, 2013 ) in the infant gut might adversely affect microflora and nutrient absorption. However, the present study with cross-sectional data cannot rule out the possibility that the decrease in lactoferrin is an artifact of modeling change across time using cross-sectional data. It nonetheless points clearly to the need to consider how maternal buffering may play out in complex ways (Fujita et al., 2018 , 2019 ).
+
+Section: 5 CONCLUSION
+
+The interaction within mother-infant dyads merits investigation for better understanding sources of variation in milk lactoferrin. Longitudinal research is needed to verify the interactive effect of infant age and maternal inflammation on lactoferrin. As well, future research should clarify the implications of this interaction for infant infectious disease risk.
+
+Section: CONFLICT OF INTEREST
+
+The authors declare no conflict of interest.
+
+Section: ACKNOWLEDGMENTS
+
+Emma Bignall and Quexteen Saeteurn assisted with background literature reviews in the pilot stage. A preliminary version of this paper has been presented at an annual meeting of the Human Biology Association in March, 2022. Grant Support: National Science Foundation (BCS-0622358, BCS-1638167); Wenner-Gren Foundation (Gr. 7460, Gr. 9278); African Futures Research Leadership Program of the Alliances for African Partnership, Michigan State University; Provost Undergraduate Research Initiative Grant, Michigan State University.
