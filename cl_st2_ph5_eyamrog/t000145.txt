@@ -1,26 +1,11 @@
-Title: Dried blood spot collection, sample quality, and fieldwork conditions: Structural validations for conversion into standard values
+Section: Abstract
 
+Objectives: SHARE, a pan-European panel study in 27 European countries and Israel, has collected dried blood spot (DBS) samples from approximately 27 000 respondents in 13 countries. We aim to obtain factors to convert analyte values between DBS and venous blood samples (VBS) taking account of adverse fieldwork conditions such as small spot size, high temperature and humidity, short drying time and long shipment times.
+Methods: We obtained VBS and DBS from a set of 20 donors in a laboratory setting, and treated the DBS in a systematic and controlled fashion simulating SHARE fieldwork conditions. We used the 3420 outcomes to estimate from DBS analyte values the values that we would have obtained had it been feasible to collect and analyze the donors' venous blood samples.
+Results: The influence of field conditions and sample quality on DBS analyte values is significant and differs among assays. Varying spot size is the main challenge and affects all markers except HbA1c. Smaller spots lead to overly high measured levels. A missing desiccant is detrimental for all markers except CRP and tHb. The temperature to which the samples are exposed plays a significant role for HDL and CysC, while too brief a drying time affects CRP and CysC. Lab-based adjustment formulae only accounting for the differences between re-liquefied DBS and venous blood do not address these fieldwork conditions.
+Conclusions: By simulating adverse fieldwork conditions in the lab, we were able to validate DBS collected under such conditions and established conversion formulae with high prediction accuracy.
 
-Abstract: Abstract
-
-
-Abstract_Section: Objectives
-
-SHARE, a pan-European panel study in 27 European countries and Israel, has collected dried blood spot (DBS) samples from approximately 27 000 respondents in 13 countries. We aim to obtain factors to convert analyte values between DBS and venous blood samples (VBS) taking account of adverse fieldwork conditions such as small spot size, high temperature and humidity, short drying time and long shipment times.
-
-Abstract_Section: Methods
-
-We obtained VBS and DBS from a set of 20 donors in a laboratory setting, and treated the DBS in a systematic and controlled fashion simulating SHARE fieldwork conditions. We used the 3420 outcomes to estimate from DBS analyte values the values that we would have obtained had it been feasible to collect and analyze the donors' venous blood samples.
-
-Abstract_Section: Results
-
-The influence of field conditions and sample quality on DBS analyte values is significant and differs among assays. Varying spot size is the main challenge and affects all markers except HbA1c. Smaller spots lead to overly high measured levels. A missing desiccant is detrimental for all markers except CRP and tHb. The temperature to which the samples are exposed plays a significant role for HDL and CysC, while too brief a drying time affects CRP and CysC. Lab-based adjustment formulae only accounting for the differences between re-liquefied DBS and venous blood do not address these fieldwork conditions.
-
-Abstract_Section: Conclusions
-
-By simulating adverse fieldwork conditions in the lab, we were able to validate DBS collected under such conditions and established conversion formulae with high prediction accuracy.
-
-Section: 1 INTRODUCTION
+Section: Introduction, Literature Review
 
 The health of the general population, and especially of the older aged population, is very different between countries. Comparisons between the US Health and Retirement Study (HRS), the English Longitudinal Study of Ageing (ELSA) and the Survey of Health, Aging and Retirement in Europe (SHARE) have stimulated extensive research into the potential mechanisms responsible for the differences, and were instrumental in the establishment of two National Academy of Sciences panels (Crimmins, Kim, & Vasunilashorn, 2010; Woolf & Aron, 2013 ). These studies have shown that older people in Europe have health advantages when compared with their American counterparts, for example, the percentages of individuals aged 50 to 74 with at least one limitation in the activities of daily living (ADL) is 12% in the US, 10% in the UK and 7% in the EU (Avendano, Glymore, Banks, & Mackenbach, 2009).
 Understanding the reasons for cross-national health differences requires that studies use comparable measurements of health. The findings by Avendano et al. (2009) were based on comparable measures but these were self-reports and may have suffered from reporting biases that may differ between countries. Cross-national differences in the quality and definition of diagnoses, prescription drug use (Crimmins et al., 2010) and reporting styles (Kapteyn, Smith, & van Soest, 2007 ) also likely affect the comparability of results from population studies.
@@ -31,7 +16,7 @@ An additional disadvantage of DBS is that results from DBS assays cannot be dire
 Recent work has shown that lab-based formulae used to transform DBS values into VBS-equivalent values do not address the fieldwork conditions that may affect the quality of DBS samples collected for an international survey like SHARE (Weiss & Börsch-Supan, 2019 ). This finding has been replicated in two field studies, which collected both VBS and DBS (Crimmins et al., 2020; Weiss et al., 2019 ).
 While it is important to prevent issues from occurring in the field rather than imposing post hoc adjustments, these efforts are costly and may not be perfect. Hence, ex post conversion is necessary. In this article, we have applied a systematic validation of DBS results, using data obtained from a simulation of SHARE fieldwork conditions. We call it “structural validations” because our methodology is based on a structural model of the differences between VBS collected under laboratory conditions and DBS collected under fieldwork conditions. 1 We use the validations to establish field-based conversion formulae applicable to the SHARE DBS samples to estimate the value that we would have obtained had it been feasible to instead collect a donor's venous blood in a clinic and then analyze it using standard analytical methods (reference value).
 
-Section: 2 METHODS
+Section: Methodology
 
 SHARE collected DBS samples during its Wave 6 in 2015 in 12 European countries and Israel. We used harmonized collection protocols and DBS collection kits, thoroughly trained our interviewers and implemented interviewer monitoring throughout the fieldwork. All DBS samples arriving at the central biobank in Denmark for storage were visually inspected for number of blood spots, spot quality (smeared or overlapping, as these change the distribution of analytes in the filter paper) and spot size (small spots indicate that the interviewer did not wait until a sufficiently large blood drop had formed before collecting the blood on the filter paper). Further shortcomings noted included missing desiccant (influencing humidity protection) and spot discoloration (indicating that a wet DBS was packaged). Other uncontrollable impacts on the samples were malfunctioning national postal systems, with consequences on shipment time, and unusually high temperatures encountered during shipment. The implementation and monitoring of the DBS collection in SHARE Wave 6 has been described (Börsch-Supan et al., 2020 ).
 The aim of the validations is to simulate the environmental conditions and fieldwork effects experienced by DBS and to then measure the resulting change in biomarker values in a structured approach. The environmental data collected during fieldwork monitoring and by sample inspection enabled us to design the validation scheme.
@@ -57,7 +42,7 @@ The liquid-blood assays for the VBS were performed on a Beckman-Coulter Olympus 
 For the analyses of the DBS samples, UW has developed standard (in-house) assays based on the above-mentioned references. For those assays, validations have shown roughly a coefficient of variation of 5% to 10% in inter-assay, inter- and intra-spot reproducibility. To keep the inherent variation of our validation samples low, for each assay all samples from a single donor were assayed together.
 We also estimated a simplified model as well as a larger model which includes all treatments and all possible interactions (up to 6-fold). The six estimated models are summarized in Table 1 .
 
-Section: 3 RESULTS
+Section: Results
 
 We first show bivariate scatter plots of the three untreated blood-source types, beginning with values from venous EDTA-treated DBS ( Z in Figure 1 ) vs values from capillary DBS ( W in Figure 1 ). The differences between the red dots in Figure 2 and the equity line (dashed black) represent measurement errors in the laboratory assays plus the blood-source and the EDTA effect. The systematic part is represented by the difference between the red regression line and the equity line. This sample-type effect is statistically significant at the 1%-level for all markers. For CRP, the effect is relatively small. The coefficient of the capillary values is 0.9 and the intercept is little more than 0.3. However, the effect is statistically significant because the fit is very high ( R 2 = .99).
 The DBS samples in our validation study were not made from capillary blood, but instead were created from venous (EDTA-treated) blood. Values obtained from those DBS_V ( Z in Figure 1 ) show differences from the standard values ( Y in Figure 1 ) obtained from serum (Figure 3 ). Since both the standard and DBS values are based on the same blood source, namely venous blood, this identifies the dry-liquefy effect in combination with the difference between whole blood and serum and the EDTA-effect.
@@ -72,7 +57,7 @@ The yellow bars show the large variation of the raw laboratory values from DBS_T
 While donor characteristics affect both standard values Y and treated values X directly—this is the reason to collect DBS in the first place—they should not affect Y conditional on X unless there are indirect interaction effects between donor characteristics and fieldwork effects. This is not the case for most markers in this study. Exceptions are tHb and CysC where we find a significantly better fit of the prediction equation when we include donor characteristics, especially age. This finding holds up after cross-validation.
 A possible explanation is that age influences spot size in a nonlinear fashion which is not captured by the quadratic in our prediction equation, or that age influences several treatment effects simultaneously which is not captured in the interaction effects in that equation. Pinning down these interactions will require larger sample sizes and will be the subject of further research.
 
-Section: 4 SUMMARY AND DISCUSSION
+Section: Discussion, Conclusion
 
 Collecting DBS to obtain epidemiologically important biomarkers in blood is an attractive and cost-efficient technique feasible for large population-based surveys like SHARE, especially when they cover a large number of countries. However, the disadvantages of this strategy are the many adverse environmental conditions and fieldwork effects that are difficult and costly to control perfectly ex ante. Besides minimizing the effects ex ante, it is thus essential to also correct ex post for treatment effects in the course of fieldwork and shipping, such as small spot size, high temperature and humidity, short drying time and long shipment times, since they vary greatly among respondents and create large artifacts. It was the aim of this study to develop correction formulae for each analyte since treatment effects vary across assays.
 All marker values need to be corrected for varying spot sizes, with smaller spots leading to a need for an upwards correction. A missing desiccant is detrimental for all markers except CRP and tHb. The measured levels of both types of cholesterol need to be increased when a desiccant is missing during shipment, while the level has to be decreased for TG. The temperature to which the samples are exposed plays a significant role for HDL and CysC, while too short a drying time affects CRP and CysC.
@@ -82,14 +67,6 @@ There are several practical lessons from this analysis. First, ex ante preventio
 Second, since spot size turns out to be the most significant treatment effect, an accurate measurement and documentation of spot size is instrumental to apply a correction formula like the one proposed here. A separate study on ex post spot-size measurement for SHARE Wave 6 DBS is part of our current research.
 Finally, the application of newly developed collection devices, which collect a fixed volume of blood, may eliminate the consideration of spot size and punching.
 
-Section: AUTHOR CONTRIBUTIONS
-
-Luzia M. Weiss: Formal analysis; methodology; writing-original draft; writing-review and editing. Martina Börsch-Supan: Formal analysis; methodology; writing-original draft; writing-review and editing. Alan J. Potter: Formal analysis; validation; writing-original draft; writing-review and editing. Jake Cofferen: Formal analysis; validation; writing-review and editing. Elizabeth Kerschner: Formal analysis; validation; writing-review and editing.
-
-Section: CONFLICT OF INTEREST
-
-The authors declare no potential conflict of interest.
-
-Section: ACKNOWLEDGMENTS
+Section: Acknowledgements
 
 This research is supported by NIA R01 AG063944 (Understanding cross-national health differences and their causes). The SHARE data collection of this article has been supported by the European Commission through Horizon 2020 (SHARE-DEV3: GA N°676536. Additional funding from the German Ministry of Education and Research, the Max Planck Society for the Advancement of Science and from various national funding sources in the SHARE member countries is gratefully acknowledged (see www.share-project.org ). We are grateful to Mark H. Wener for methodological suggestions at the beginning of this study and Thu Minh Kha for technical support in assaying the DBS samples. Finally, we thank the editor and two anonymous referees for their helpful suggestions which substantially improved the article. Open access funding enabled and organized by Projekt DEAL.

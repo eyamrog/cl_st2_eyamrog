@@ -1,16 +1,13 @@
-Title: Size at birth and accelerometer-measured physical activity or sedentary behavior in healthy term-born adults
-
-
-Abstract: Abstract
+Section: Abstract
 
 The present study investigated the relationship between birth size and activity patterns. One hundred and twenty-four adults wore accelerometers for 7 days. Birth weight was adjusted for gestational age (AdjBW). The overall association between time spent in MVPA/day and AdjBW was not significant ( B = 5.64, p = .09). MVPA/day increased by 7.02 min ( p = .02) in participants 18–21 years ( N = 42) and decreased by 10.8 min ( p = .02) in participants 22–40 years ( N = 33) per unit increase in AdjBW. The effect of birth size on adult physical activity depends on age.
 
-Section: 1 INTRODUCTION
+Section: Introduction, Literature Review
 
 Exposure to stressors in utero can lead to diminished fetal growth and development. Low birth weight (LBW), commonly defined as less than 2500 g, is associated with higher fat mass, lower muscle mass, and increased risk of chronic disease throughout life, a phenomenon known as fetal programming (FP; Corvalan et al., 2007 ; Gluckman et al., 2008 ). Whether FP impacts behaviors such as patterns of physical activity (PA) or inactivity remains unclear. Humans born small may engage in less PA but results are mixed (Pinto Pereira et al., 2014 ; Salonen et al., 2011 ). Historically, PA or sedentary behavior (SED) was determined via questionnaires. Self-report instruments are subject to recall bias, overestimation of PA, and underestimation of SED (Prince et al., 2008 ). Past studies using accelerometers have concluded there is no association between birth size and PA, but most were conducted in children and adolescents (Ridgway, Brage, Sharp, et al., 2011 ). Past studies are split regarding whether they did (Andersen et al., 2009 ; Azevedo et al., 2008 ; Ridgway, Brage, Sharp, et al., 2011 ) or did not (Laaksonen et al., 2003 ; Pinto Pereira et al., 2014 ; Ridgway, Brage, Anderssen, et al., 2011 ; Salonen et al., 2011 ) account for GA.
 The purpose of the current study was to determine if size at birth was associated with moderate-to-vigorous PA (MVPA) or SED among healthy young adults. We hypothesized that birth size would be positively associated with MVPA/day and inversely associated with SED/day.
 
-Section: 2 MATERIALS AND METHODS
+Section: Methodology
 
 Participants were 124 adults (ages 18–40) selected from an online survey of birth size ( N = 1246). Inclusion criteria: singleton born at 37–42 weeks gestation; free of current or previous diagnosis of heart disease, diabetes, cancer; current weight maintained for a minimum of 3 months. Exclusion criteria: maternal hypertension or diabetes; underweight (BMI < 18.5) or morbidly obese (BMI >35); current pregnancy, or less than 1-year post-partum. The Syracuse University Institutional Review Board approved this study, and participants provided written informed consent.
 A reference dataset was used to predict BW for each participant based on sex and GA (Kramer et al., 2001 ). The difference between self-reported and predicted BW (adjusted BW, AdjBW) was calculated and standardized. The AdjBW thus represents each participant's relative BW above or below the overall sample mean BW, taking into account sex and GA.
@@ -20,27 +17,19 @@ Weight (kilograms, kg) and body fat were measured using the Tanita SC-240 digita
 IBM SPSS Statistics version 23 for Windows (SPSS Inc., Chicago, IL) was used for data analysis. All variables were evaluated for normal distribution using standard procedures.
 Linear regression analysis was used to determine the association between AdjBW and either min of MVPA or SED per day. Several covariates were considered for inclusion in the regression models, including: sex, age, lean body mass, body fat percentage, aerobic fitness level, (accelerometer) wake wear time (the amount of time the accelerometer was worn while the participant was awake), and maternal smoking. The model for MVPA included sex, age, body fat percentage, VO 2max , accelerometer wear time, and the interaction term for AdjBW with age. The model for SED included sex, age, body fat percentage, VO 2max , accelerometer wear time, and the interaction term for AdjBW with sex. Interactions between AdjBW and all covariates were tested. Due to interaction between AdjBW and age, a separate analysis was performed by splitting the participants into two groups, as equally as possible: participants 18–21 years old ( N = 42) and participants 22–40 years old ( N = 33). Significance was set at p ≤ .05 for main effects.
 
-Section: 3 RESULTS
+Section: Results
 
 Complete data were collected from 75 of the 124 participants initially enrolled. Twenty-two participants were excluded from data analysis because they either did not complete both study visits ( N = 5), did not have adequate accelerometer data ( N = 12) and/or were subsequently found to be ineligible based on the inclusion and exclusion criteria ( N = 5). An additional 27 participants were excluded from data analysis because they did not meet the criteria for a valid VO 2max test. Descriptive characteristics of the 75 participants included in the data analysis (60 females, 15 males) are provided in Table 1 . Ten out of 75 participants (6 females, 4 males) were identified as small for gestational age (defined as less than the 10th percentile for birth weight-by-gestational age, based on the reference dataset). Participants wore both accelerometers for an average of 6.2 ± 0.80 days (range 4–7 days). Within each day, participants wore the devices for an average of 929 ± 88 min (range 685–1180 min). Table 1 also displays statistics for the accelerometer measures. There were no significant differences between females and males.
 Results of the regression analysis are shown in Table 2 . The association between min of MVPA/day and AdjBW was not strong ( p = .09). VO 2max was the largest predictor of time spent in MVPA/day, followed by age. Among the “younger” age group (18–21 years old, N = 42), time spent in MVPA/day significantly increased by 7.0 min for each unit increase in AdjBW ( p = .02), which represented 15.3% of the variation in MVPA. Among the “older” group (22–40 years old, N = 33), time spent in MVPA/day significantly decreased by 10.8 min for each unit increase in AdjBW ( p = .02), explaining 18.7% of the variation in MVPA. Full results of this separate regression analysis are available in Tables S1 and S2 , respectively.
 No significant association was detected between min of SED/day and AdjBW. Accelerometer wake wear time and VO 2max were both significant predictors of min of SED/day. Performing the regression analysis by sex did not reveal any significant associations between AdjBW and min of SED/day (Table S3 ).
 
-Section: 4 DISCUSSION
+Section: Discussion, Conclusion
 
 In the current study, a significant positive relationship between AdjBW and min of MVPA/day was observed among 18–21-year-old participants while a significant inverse relationship was observed among 22–40 year old participants. No relationship was detected between AdjBW and min of SED/day. Previous accelerometer-based studies found no relationship between MVPA or SED when using BW (controlling for GA; Ridgway, Brage, Sharp, et al., 2011 ). Similar results were found with BW alone (Ridgway, Brage, Anderssen, et al., 2011 ). These past studies were all conducted in children; the current study is believed to be the first to objectively measure MVPA and SED (using two different devices) among young adults. More studies are needed to measure PA using accelerometers in adult birth cohorts.
 Participants in the current study achieved an average of 56 min of MVPA/day and 611 min of SED/day, compared with 6.7 min of MVPA/day and 506 min of SED/day among NHANES participants, respectively (Atienza et al., 2011 ; Healy et al., 2011 ).
 This study had a small sample size compared to previous birth cohorts (Ridgway, Brage, Anderssen, et al., 2011 ). The ability to detect a U-shaped relationship between birth size and PA improves with larger samples (Andersen et al., 2009 ). We visually inspected our data and found no evidence of a U-shaped relationship. Additionally, birth information was self-reported. A strength of the current study was the use of 2 accelerometer devices to objectively measure MVPA and SED.
 In conclusion, among healthy adults, the effect of AdjBW on daily MVPA varied by age, while there was no effect of AdjBW on daily SED time. This study adds to the growing literature base suggesting that although FP affects an individual's physiology, the effect it has on adult behaviors may be influenced by age and/or sex. Individuals should be encouraged to engage in adequate MVPA, and to limit SED time, regardless of birth size. Future studies should confirm the role of intrauterine and early life factors on adult physiological markers and objectively measured PA or SED.
 
-Section: CONFLICT OF INTEREST
-
-The authors have no conflicts of interest to disclose.
-
-Section: AUTHOR CONTRIBUTIONS
-
-Jessica Leigh Garay: Conceptualization (lead); data curation (lead); formal analysis (lead); funding acquisition (equal); investigation (lead); methodology (lead); project administration (lead); writing – original draft (lead); writing – review and editing (lead). Tiago V. Barreira: Data curation (equal); formal analysis (supporting); writing – review and editing (supporting). Qiu Wang: Formal analysis (supporting); writing – review and editing (supporting). Tom D. Brutsaert: Conceptualization (equal); funding acquisition (lead); methodology (supporting); writing – review and editing (supporting).
-
-Section: ACKNOWLEDGMENTS
+Section: Acknowledgements
 
 This study was supported by internal Syracuse University funding to JLG and TDB and NIH 1 R03 HD055314 funding to TDB.

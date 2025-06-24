@@ -1,26 +1,11 @@
-Title: Body structural and cellular aging of women with low socioeconomic status in Hungary: A pilot study
+Section: Abstract
 
+Objectives: The health status of an individual is determined not only by their genetic background but also by their physical environment, social environment and access and use of the health care system. The Roma are one of the largest ethnic minority groups in Hungary. The majority of the Roma population live in poor conditions in segregated settlements in Hungary, with most experiencing higher exposure to environmental health hazards. The main aim of this study was to examine the biological health and aging status of Roma women living in low socioeconomic conditions in Hungary.
+Methods: Low SES Roma (n: 20) and high SES non-Roma women (n: 30) aged between 35 and 65 years were enrolled to the present analysis. Body mass components were estimated by body impedance analysis, bone structure was estimated by quantitative ultrasound technique. Cellular aging was assessed by X chromosome loss estimation. Data on health status, lifestyle and socioeconomic factors were collected by questionnaires.
+Results: The results revealed that low SES women are prone to be more obese, have a higher amount of abdominal body fat, and have worse bone structure than the national reference values. A positive relationship was found between aging and the rate of X chromosome loss was detected only in women with low SES. Waist to hip ratio, existence of cardiovascular diseases and the number of gravidities were predictors of the rate of X chromosome loss in women.
+Conclusions: The results suggested that age-adjusted rate of X chromosome loss could be related to the socioeconomic status.
 
-Abstract: Abstract
-
-
-Abstract_Section: Objectives
-
-The health status of an individual is determined not only by their genetic background but also by their physical environment, social environment and access and use of the health care system. The Roma are one of the largest ethnic minority groups in Hungary. The majority of the Roma population live in poor conditions in segregated settlements in Hungary, with most experiencing higher exposure to environmental health hazards. The main aim of this study was to examine the biological health and aging status of Roma women living in low socioeconomic conditions in Hungary.
-
-Abstract_Section: Methods
-
-Low SES Roma (n: 20) and high SES non-Roma women (n: 30) aged between 35 and 65 years were enrolled to the present analysis. Body mass components were estimated by body impedance analysis, bone structure was estimated by quantitative ultrasound technique. Cellular aging was assessed by X chromosome loss estimation. Data on health status, lifestyle and socioeconomic factors were collected by questionnaires.
-
-Abstract_Section: Results
-
-The results revealed that low SES women are prone to be more obese, have a higher amount of abdominal body fat, and have worse bone structure than the national reference values. A positive relationship was found between aging and the rate of X chromosome loss was detected only in women with low SES. Waist to hip ratio, existence of cardiovascular diseases and the number of gravidities were predictors of the rate of X chromosome loss in women.
-
-Abstract_Section: Conclusions
-
-The results suggested that age-adjusted rate of X chromosome loss could be related to the socioeconomic status.
-
-Section: 1 INTRODUCTION
+Section: Introduction, Literature Review
 
 Aging is a multistep biological process, which leads to a decreased ability to respond to stress, an increased homeostatic imbalance and disease susceptibility eventually causing death. Prolongation of life expectancy is associated with prolongation of the aging period (Beregi, 1984 ).
 Aging has been studied exclusively not only in economically developed societies, but also in societies with low socioeconomic status (Wagg et al., 2021 ). Due to recent methodological advances, aging can be examined at the molecular level too as telomere shortening of the chromosomes is associated with the process of cellular aging. It has been shown that in populations with low socioeconomic status, the chromosome shortening begins earlier in life than among those with high socioeconomic status (Cherkas et al., 2006 ; Needham et al., 2013 ).
@@ -28,7 +13,7 @@ Shortening of the ends of chromosomes can lead to instability and the eventual l
 The Roma are one of the largest ethnic minority groups in Europe numbering about 11–15 million of which 800 000–1 000 000 live in Hungary (European Commission, 2011 ). In Europe and also in Hungary most of the Roma population lives in poor conditions in segregated settlements (Adany, 2014 ).
 In Hungary despite the efforts (welfare services: social security, unemployment contribution, better terms of employment, maternity leave, Liptak, 2010 ; Kertesi & Kezdi, 2011 ) that have been invested to help and support the integration of the Roma population, there suffer from high rates of unemployment and low wages, and they live in poor hygienic conditions and lack running water and electricity. Their health status is mostly poor, and the prevalence of both infectious and non-communicable diseases (hypertension, diabetes, obesity) is higher than in the rest of the Hungarian population (Kosa et al., 2015 ; Mascie-Taylor et al., 2004 ; Masseria et al., 2010 ; Pronai, 2000 ). The life expectancy of Roma populations is up to 10–15 years less than non-Roma populations in Europe (Parekh & Rose, 2011 ).
 
-Section: 2 SUBJECTS AND METHODS
+Section: Methodology
 
 Altogether 50 women (aged between 35 and 65 years) were examined of whom were 20 Roma women who lived in a segregated settlement in Hungary (Monor, Taban settlement), in low socioeconomic status (low SES) and a control group of 30 women with high socioeconomic status (high SES). The women in the control group were staff members at the Saint Janos Hospital and Unified Hospitals of North Buda. The study was conducted ethically in accordance with the World Medical Association Declaration of Helsinki. The project was approved by the Ethics Committee of Eotvos Lorand University, Budapest, Hungary. Informed consent was obtained from all individual participants. Body structural examinations were performed in the Roma settlement and the Department of Biological Anthropology, Eotvos Lorand University, Hungary.
 The degree of X chromosome loss was estimated from lymphocyte venous blood cells using a fluorescent in situ hybridization (FISH) probe. X chromosome loss was defined by the decrease of XX normal karyotype cells in our analysis. The individual rate of XX karyotype cells was expressed as the percentage of the number of cells studied using the FISH probe. A total of 200 cells per donor were analyzed. The analyses were performed in collaboration with the Istenhegyi Gene Diagnostic Centre in Budapest, Hungary.
@@ -40,7 +25,7 @@ Self-rated general health status was estimated by a 4-point Likert scale (very g
 Data on chronic illnesses (type, age at diagnosis, length and duration of the illnesses) were also collected.
 The comparison of body structure parameters of Roma women living in low socioeconomic status to the national references as well as to non-Roma women belonging to the control group was conducted with Mann–Whitney test, Chi 2 test and Fisher exact test to compare the homogeneity of discrete variables by socioeconomic status. To determine the body structural aging the body structural indicators were compared to the national references in two age-groups (aged between 35 and 50 years; and aged between 50 and 65 years) by one-sample Wilcoxon signed rank test. Due to the small sample size, exact p-values were used to determine the significance level. Exact p -values were determined using R software. The relationship between the rate of X chromosome loss and the hypothesized predictors was assessed by linear regression analyses. The statistical analyses were carried out by using SPSS v. 25. Hypotheses were tested at the 5% level of random error.
 
-Section: 3 RESULTS AND DISCUSSION
+Section: Results, Discussion
 
 Roma women's families tended to live in poorer socioeconomic conditions than the control group families with the exception of assess to a kitchen (Table 1 ).
 The prevalence of physical inactivity is very high in Roma women (95.0%) compared to the control group (50.0%). Smoking is a more frequent lifestyle habit in Roma women (85.0%) than in the control group (36.7%, Table 1 ). 80% of Roma women rated their health status as poor compared with 30.0% of the control group. The prevalence of chronic illnesses and gynecological illnesses was very similar in the two groups (Table 1 ) while 90% of Roma women had at least 3 pregnancies compared with only 23% of the control group (Table 1 ).
@@ -51,22 +36,10 @@ In the control group the BUA and the WHR were significantly lower in the younger
 The relationship between the rate of X chromosome loss and chronological age was studied separately in Roma and control women (Figure 2 ). The rate of X chromosome loss showed a just significant linear relationship with age in Roma women ( F = 4.689, p = .044), but in the control group there was no evidence of a linear ( F = 0.484, p = .492) or curvilinear ( F = 0.637, p = .537) relationship between the two variables (Figure 3 ).
 Multiple linear regression analyses were used to predict the rate of X chromosome loss based on components of body composition and lifestyle factors in women (in the joint group of Roma and control groups together. A significant regression equation was found (F[5.40] = 6.577, p < .001, with an R 2 of 0.451). The predicted percentages of normal cells (XX%) was equal to 106.431–13.448 × WHR - 3.595 × code of cardiovascular diseases +0.369 × number of gravidities (where cardiovascular disease was coded as 0 = no cardiovascular disease, 1 = at least one diagnosed cardiovascular disease). The percentage of normal cells decreased by 1.345% for 0.1 increase in WHR, decreased 3.595% with the presence of cardiovascular diseases and increased by 0.369% with the increasing number of pregnancies. WHR, presence of diagnosed cardiovascular diseases and gravidity were significant predictors of the percentage of normal cells with XX karyotype. The level of physical activity (hour/week) and smoking were not significant predictors of the percentage of normal, XX karyotype cells (Table 2 ).
 
-Section: 4 CONCLUSIONS
+Section: Conclusion
 
 A larger sample of women should be studied in order to confirm the present preliminary results. The Roma population is an ethnic group in the Hungarian population, so the body structural and cellular aging differences between Roma and non-Roma women groups can be caused not only by the significant differences in their socioeconomic status but also by genetic differences. Future work will extend the study to Roma women, who live in average socioeconomic conditions, that is, outside the segregated settlements.
 
-Section: CONFLICT OF INTEREST
-
-The authors have no conflicts of interest to declare.
-
-Section: AUTHOR CONTRIBUTIONS
-
-Dorina Annar: Conceptualization; formal analysis; funding acquisition; investigation; methodology; project administration; resources; visualization; writing - original draft; writing-review & editing. Piroska Feher: Conceptualization; formal analysis; funding acquisition; investigation; methodology; project administration; resources; visualization; writing - original draft. Anna Madarasi: Investigation; methodology. C.G. Mascie-Taylor: Formal analysis; methodology; visualization. Anna Kekesi: Methodology. Irina Kalabiska: Methodology. Agota Muzsnai: Methodology; writing-review & editing. Annamaria Zsakai: Conceptualization; formal analysis; investigation; methodology; project administration; resources; supervision; visualization; writing - original draft.
-
-Section: FUNDING SOURCES
-
-The study was supported by the National Talent Programme of the Hungarian Ministry of Human Capacities (NTP-NFTO-19-B).
-
-Section: ACKNOWLEDGMENT
+Section: Acknowledgements
 
 The Authors thank the participants for their contribution to the study.

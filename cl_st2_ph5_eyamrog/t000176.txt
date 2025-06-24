@@ -1,32 +1,17 @@
-Title: Is there a difference in student physical activity between a field school and a traditional classroom setting?
+Section: Abstract
 
+Objectives: We compared the physical activity of nine students participating in an anthropological field school to their activity expenditures in traditional classrooms. We predicted that the students would exhibit higher physical activity during the field school due to the substantial physical requirements associated with the program compared to traditional classroom environments which are frequently more sedentary.
+Methods: Participants ( n = 9) wore wrist accelerometers for ~23 h each day for 6 days during an anthropological field school and also in a traditional classroom environment. Accelerometers were programed with participant height, weight, age, and sex. Each accelerometer recorded total energy expenditure in kilocalories (kcal), step counts, and time in four physical activity levels (vigorous, moderate, easy, and very easy) between the field school and traditional classroom settings.
+Results: During the field school portion of the study, participants burned more calories ( p < .01), took more steps ( p < .0001), and engaged in more moderate and easy exercise ( p < .0001).
+Conclusions: This study provides insights into the physical benefits of study abroad programs and field schools. Our multi-day accelerometer data revealed significant differences in even relatively low intensities of physical activity. This is particularly pertinent in the United States where sedentary lifestyles are increasing among college students. Taken together, the results underscore the importance of study abroad programs, field schools, and other applied learning opportunities beyond the educational, professional, and social benefits.
 
-Abstract: Abstract
-
-
-Abstract_Section: Objectives
-
-We compared the physical activity of nine students participating in an anthropological field school to their activity expenditures in traditional classrooms. We predicted that the students would exhibit higher physical activity during the field school due to the substantial physical requirements associated with the program compared to traditional classroom environments which are frequently more sedentary.
-
-Abstract_Section: Methods
-
-Participants ( n = 9) wore wrist accelerometers for ~23 h each day for 6 days during an anthropological field school and also in a traditional classroom environment. Accelerometers were programed with participant height, weight, age, and sex. Each accelerometer recorded total energy expenditure in kilocalories (kcal), step counts, and time in four physical activity levels (vigorous, moderate, easy, and very easy) between the field school and traditional classroom settings.
-
-Abstract_Section: Results
-
-During the field school portion of the study, participants burned more calories ( p < .01), took more steps ( p < .0001), and engaged in more moderate and easy exercise ( p < .0001).
-
-Abstract_Section: Conclusions
-
-This study provides insights into the physical benefits of study abroad programs and field schools. Our multi-day accelerometer data revealed significant differences in even relatively low intensities of physical activity. This is particularly pertinent in the United States where sedentary lifestyles are increasing among college students. Taken together, the results underscore the importance of study abroad programs, field schools, and other applied learning opportunities beyond the educational, professional, and social benefits.
-
-Section: 1 INTRODUCTION
+Section: Introduction, Literature Review
 
 To date, approximately 42% of US adults and 35% of US college students are considered overweight or obese (American College Health Association, 2015 ; Hales et al., 2020 ). Obesity has been linked to a variety of physical health problems including dyslipidemia, type 2 diabetes, and hypertension (Hruby & Hu, 2015 ). Historically, many US colleges and universities have required courses in health education and/or physical fitness, although these requirements are on the decline (Bailey et al., 2020 ). However, study abroad opportunities have the potential to provide significant health benefits and possibly modify lifelong physical activity habits.
 Most US universities offer study abroad programs and field schools that provide students an opportunity to engage in experiential learning beyond the traditional classroom. Field schools are typically method-based and frequently require more physical activity. Field training has documented educational and professional benefits (MacKinnon, 2010 ; Hawkins, 2014 ; Lightfoot, 2009 ). However, the physical benefits (e.g., increased physical activity, increased energy expenditure) are often remarked upon but are less weer documented.
 We compared the physical activity of nine students participating in the Balinese Macaque Ethnoprimatology Field School to their activity in traditional US college classroom environments. Each student's physical activity level and energy expenditure was measured by wrist-worn accelerometers over six continuous days. Accelerometers measure daily activity levels, and document increases or decreases in the frequency and intensity of activity during periods of energy expenditure (Gabriel et al., 2018 ), allowing for comparisons of both activity patterns and levels of energy expenditure between the two learning environments. We predicted that the students would exhibit higher physical activity levels during the field school due to the substantial physical requirements associated with the program (e.g., walking as primary mode of transportation, lengthy follows of nonhuman primates), compared to traditional classrooms (e.g., long periods of inactivity during lectures and studying, sometimes punctuated by bouts of intense purposeful exercise outside of the classroom that raises heart rate).
 
-Section: 2 METHODS
+Section: Methodology
 
 This study took place in two locations. Initial data collection took place in Bali, Indonesia during the Balinese Macaque Ethnoprimatology Field School (June 2018). The second round of data collection occurred at the students' home institutions in the US (September 2018).
 During the field school, the students walked a minimum 3.8 km. This included a roundtrip between their homestay (located in the village of Ubud) and the Ubud Sacred Monkey Forest Sanctuary (located in the neighboring village of Padangtegal). During the field school, students spent the majority of their workday learning how to conduct ethnographic interviews and collect behavioral data on free-ranging long-tailed macaques ( Macaca fascicularis ) inhabiting the ~13 ha sacred forest temple complex (Fuentes et al., 2011 ; Howells et al., 2022 ). During the field school, there were few opportunities for vigorous physical activity as there were no gyms in the village and intentional cardiovascular activities, such as running and bicycling, are challenging due to local feral dogs.
@@ -37,28 +22,17 @@ The accelerometers generated step counts, energy expenditure (kilocalories) over
 In our analyses, we excluded the first day (24 h) of data to account for training effects; thus, our analyses were conducted on approximately 144 h of continuous data. All methods employed during this study were approved by the Institutional Review Board at the University of North Carolina-Wilmington (UNCW).
 We compared total energy expenditure in kilocalories (kcal), step counts, and time in four physical activity levels between the field school and traditional classroom settings with matched-pairs t-tests. Analyses were conducted in JMP Pro 16 with significance set at p < .05.
 
-Section: 3 RESULTS
+Section: Results
 
 Demographic data and 6-day totals of energy expenditure, step count, and physical activity level for each participant during the Balinese Macaque Ethnoprimatology Field School and their traditional classroom setting are presented in Table 1 . Matched-pairs t-test comparisons of total energy expenditure, step count, and time in four physical activity levels between the field school and traditional classroom environments are shown in Table 2 . Energy expenditure and step count were significantly greater in the field school than in the traditional classroom environment ( p < .01). Total minutes in easy and moderate physical activity levels were also greater in the field school environment ( p < .01). However, total minutes in very easy and vigorous activity levels did not differ significantly between settings.
 
-Section: 4 DISCUSSION
+Section: Discussion, Conclusion
 
 The popularity of study abroad provides an excellent framework to reconsider traditional, more sedentary classroom environments. Our study found that participants engaged in more moderate and easy physical activity in the field than they did in their traditional classrooms. In addition, the students took more steps and expended more energy during the field school. In contrast, there was no difference in very easy or vigorous activity, the two extremes of the activity categories. This indicates that it does not take intense physical activity to lead to an appreciable difference in energy expenditure. These results were surprising, because students in traditional settings have multiple of opportunities for vigorous activity (e.g., gyms, sports, and recreation) not available in this field setti. This highlights the benefits of designing and modifying traditional learning environments to include features that increase unconscious physical activity (Frank & Kavage, 2009 ).
 These results provide an interesting insight into the benefits of study abroad programs and field schools in relation to physical activity. This is particularly pertinent in the United States where sedentary lifestyles are increasing in frequency among college students (Felez-Nobrega et al., 2017 ; Peterson et al., 2018 ). Taken together, the results underscore the importance of study abroad, field schools, and other applied learning opportunities beyond the psychological and social benefits. This project illustrates that those study abroad programs which require a modest level of exercise can be physically beneficial for college students. Future expanded studies could address the long-term benefits of field schools for building new habits and modifying daily student activity.
-
-Section: 5 LIMITATIONS
-
 In this study we did not account for other components of energy balance (e.g., calorie intake) and focused exclusively on energy expenditure and physical activity level. Small data sets are expected in this setting due to limitations in typical enrollments of internationally based anthropology field schools. However, future studies would benefit with more participants, longer period of data collection, estimates of calories consumed by participants, and using a scale for weight. Although we originally intended to continue this study for multiple weeks at the student home institutions, Hurricane Florence's effects on the southeastern US coast (September 2018) disrupted these plans.
 Study abroad and other field-based training programs can be extraordinary opportunities for students. However, there can be financial and physical barriers to attending these programs. We recognize that study abroad is not financially feasible for all students, and we encourage institutions to modify the cost of these programs to increase opportunities to a greater diversity of participants. Equitable financial support for students would enable more students to engage and benefit from these programs (Heath-Stout & Hannigan, 2020 ). In addition, we recognize that not all students are physically able to walk the significant distances associated with our program. However, these students are critical members of our scientific community, and accessible programing that relies less on walking but includes other accessible physical activity are valuable additions to field school offerings.
 
-Section: AUTHOR CONTRIBUTIONS
-
-Michaela Emily Howells: Conceptualization (lead), Funding (lead), Methodology (equal), Investigation (equal), Original Draft (equal), Review and Editing (lead). Katherine L'Amour Woolard Mayfour: Conceptualization (supporting), Investigation (equal), Review and Editing (equal). Taryn B. April: Conceptualization (supporting), Investigation (equal), Review and Editing (equal). Richard L. Bender: Methodology (equal), Formal Analysis and Validation (equal), Review and Editing (equal). James E. Loudon: Formal Analysis and Validation (equal), Original Draft (equal), Review and Editing (lead).
-
-Section: CONFLICT OF INTEREST
-
-The authors declare no conflict of interest.
-
-Section: ACKNOWLEDGMENTS
+Section: Acknowledgements
 
 The authors are indebted to Pak Nyoman Buana, the Ubud Sacred Monkey Forest Sanctuary staff, and the village of Padangtegal for their continued support. We thank Agustín Fuentes who initially developed the field school and our long-standing colleagues at the University of Udayana, Drs. I. Nengah Wandia and I.G.A Arta Putra. We also thank the members of the 2018 Balinese Macaque Ethnoprimatology Field School as well as Fany Brotcorne, Jeff Peterson, Jean-Baptiste Leca, Whitney Morris, Shadawn Simmons, and PFLH. We are grateful East Carolina University's (ECU) Office of Global Affairs, the University of North Carolina-Wilmington's (UNCW) Education Abroad Office and the Departments of Anthropology at ECU and UNCW. Funding for this project was provided by UNCW's Experiencing Transformative Education through Applied Learning (ETEAL) through the UNCW Office of Community Engagement and Applied Learning, the Center for Support for Undergraduate Research and Fellowship Initiatives (CSURF), and PFLH.

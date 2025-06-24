@@ -1,20 +1,14 @@
-Title: Modeling the Social Determinants of Official COVID-19 Reports in the Early Stages of the Pandemic
-
-
-Abstract: Abstract
+Section: Abstract
 
 The goal of this paper is to examine the role of social factors in the formation of country reports related to COVID-19 in the early stages of the pandemic. To this end, a linked database of countries’ COVID-19 reports and five composite variables (which compress the information content of 162 preliminary selected socioeconomic indicators) is analyzed by using regression models with regional dummy interactions. The main findings not only reflect the importance of foreign travel restrictions and airport controls but also show that in Europe and Africa, more corrupt countries have reported significantly fewer cases and deaths than countries in other regions.
 
-Section: Initial Paragraphs
-
-
-Section: Introduction
+Section: Introduction, Literature Review
 
 The emergence and rapid spread of novel coronavirus disease (COVID-19) has hit a mostly unprepared world ( Lippi et al. 2020 ). As the emergency has worsened, media attention on confirmed cases and deaths has increased dramatically, despite the fact that these data represent the current public health situation with only limited credibility (see, for example, Lachmann 2020 ). While most studies in the COVID-19 literature use these (biased) data to provide more insight into the nature of the virus, only a few papers investigate the formulation of country reports 1 as a social phenomenon.
 Among the latter, Mogi and Spijker (2021) found strong associations between different indicators of social and economic ties and the reported number of COVID-19 cases in 23 European countries during the early stage of the pandemic. Shivendu et al. (2020) examine the protective effect of the Bacille Calmette-Guérin (BCG) vaccine against COVID-19 infections and its impact on the death toll while using different socioeconomic indicators as additional control variables and the Corruption Perception Index (CPI) as a proxy for the reliability of reported COVID-19 data. Results of Vadlamannati, Cooray, and de Soysa (2020) suggest that more equitable access to healthcare does indeed increase testing rates and lower the death rate. According to Cepaluni, Dorsch, and Branyiczki (2020) , countries with more democratic political institutions have experienced deaths on a larger per-capita scale and sooner than less democratic countries. Lim et al. (2020) found that measures of globalization, related to the migrant stock and air travel, were positively associated with both total cases and deaths. Ehlert (2021) studied the association of socioeconomic, demographic, and health-related variables at the regional level with reported COVID-19 cases and deaths in Germany during the first wave (through mid-June 2020). Based on their findings, the case and death numbers are significantly positively associated with early cases from the beginning of the epidemic, the average age, the population density, and the share of people employed in elderly care. Stojkoski et al. (2020) show that population size and government health expenditure are strongly related to COVID-19 cases, and Kurbucz et al. (2021) identify and characterize the topics most related to official COVID-19 reports by using a data-driven approach.
 To provide a deeper understanding of the role of social aspects in the formulation of COVID-19 reports in the early stages of the pandemic, this paper extends the correlation-based calculations of Kurbucz et al. (2021) by using the authors’ data set and regression models with regional dummy interactions. The main findings not only reflect the importance of foreign travel restrictions and airport controls but also show that in Europe and Africa, more corrupt countries reported significantly fewer cases and deaths than countries in other regions.
 
-Section: Data and Methodology
+Section: Methodology
 
 This paper follows the steps of Kurbucz (2020a) and Kurbucz et al. (2021) in creating a linked database of a country’s COVID-19 reports and five standardized composite variables that compress the information content of 162 selected socioeconomic indicators. 2
 As a first step, 4,040 socioeconomic indicators were obtained from the GovData360 and TCdata360 platforms using the data360r (version 1.0.8) R package (Ramin and Onglao-Drilon 2020). From these platforms, only annual indicators from 2015 and later were collected, and missing values were replaced with previous annual values in descending order by year until 2015. During preprocessing, indicators with a ratio of missing values exceeding 50 percent were filtered out. Then, the same filtering process was applied for countries, with the cutoff for missing values set at 25 percent. Finally, highly correlated variables and variables with near-zero variances were removed, and the standardized form of the retained 1,159 indicators was connected with 8 COVID-19 variables, generated based on the official reports of 138 countries ( European Centre for Disease Prevention and Control 2020 ). 3
@@ -23,7 +17,7 @@ At the end of the calculation process, five topics—tourism and travel, infrast
 To understand the role of the identified socioeconomic topics in the formation of official COVID-19 reports, we employed the following regression models:
 which differ only in their dependent variables ( l o g ( y i ) , i ∈ { 1 , 2 , … , 8 } ) and where K = 5 is the number of composite variables and u i is the error term of the model i . Note that Asia is used as the base or benchmark group, that is, all estimates on the regional dummy variables are interpreted relative to this region. Also note that in each model, observations for which outlier values were detected in the dependent variable were filtered out of the sample. 5 The details and the source code of the calculation process can be found in the supplementary material .
 
-Section: Results and Discussion
+Section: Results, Discussion
 
 The results of the eight regression models are presented in Table 2 .
 Based on the results, the tourism and travel variable has the highest impact on the appearance of the virus (see Models 1 and 5). Since this variable compresses indicators measuring air transport, tourist traffic, and some aspects of international trade, 6 its significantly positive coefficients emphasize the importance of foreign travel restrictions and airport controls (e.g., using thermal scanners for measuring body temperature, to monitor health conditions of passengers). It may seem surprising that in the case of the Americas, this effect is significantly weaker in Model 5, but note that this result does not reflect the case of the United States. 7 Moreover, in this model, the positive significant coefficient of regulation and transparency in Europe suggests that European countries with less transparent regulation typically reported later first deaths.
@@ -35,18 +29,6 @@ In this paper, the role of social aspects in the formation of country reports re
 Based on the major results, the tourism and travel variable is the key factor in the spread of the virus, regardless of region; however, the number of days since the first reported death is only weakly explained by this variable in the Americas. Moreover, the impact of regulation and transparency on the reported number of cases and deaths is significant and highly positive for both Europe and Africa. These findings not only reflect the importance of foreign travel restrictions and airport controls but also show that in Europe and Africa, more corrupt countries reported significantly fewer cases and deaths than countries in other regions.
 We believe that the understanding of the role of social factors in the formation of country reports can influence the development of appropriate policy recommendations. To this, further research performed by using a county-level, dynamic data set is recommended that could further validate the results of this paper.
 
-Section: Acknowledgments
+Section: Acknowledgements
 
 Supported by the ÚNKP-20-3 New National Excellence Program of the Ministry for Innovation and Technology.
-
-Section: Declaration of Conflicting Interests
-
-The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
-
-Section: Funding
-
-The author(s) received no financial support for the research, authorship, and/or publication of this article.
-
-Section: ORCID iD
-
-Marcell T. Kurbucz https://orcid.org/0000-0002-0121-6781

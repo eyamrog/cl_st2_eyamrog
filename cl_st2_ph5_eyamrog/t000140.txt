@@ -1,40 +1,19 @@
-Title: The timing of adrenarche in Maya girls, Merida, Mexico
+Section: Abstract
 
+Background: Adrenarche involves maturation of the hypothalamic-pituitary-adrenal axis and increased production of dehydroepiandrosterone and its sulfate ester, dehydroepiandrosterone-sulfate (DHEA-S). It occurs at ages 6 to 8 in industrialized populations, marking the transition from childhood to juvenility and cognitive development at middle childhood. Studies in subsistence level populations indicate a later age (8-9) for adrenarche, but only two such studies currently exist for comparison.
+Aims: To investigate adrenarcheal age among Maya girls and its association with body composition and dietary variables. We hypothesized adrenarche would occur earlier given the current dual burden of nutrition in Mexico.
+Materials and Methods: 25 Maya girls aged 7 to 9 from Merida, Mexico using ELISAs to measure salivary DHEA-S, standard anthropometry for height, weight, and skinfolds, bioelectrical impedance for body composition variables, as well as a food frequency questionnaire for dietary information.
+Results: Our hypothesis was rejected—adrenarche occurred close to 9 years. While no measures of body composition were significantly associated with adrenarcheal status, girls eating meat and dairy products more frequently had significantly higher DHEA-S levels.
+Discussion: Like other populations living in ecologically challenging environments, adrenarche occurred relatively late among Maya girls. Adrenarche has been linked to measures of body composition, particularly, the adiposity or body mass index rebound, but no relevant anthropometric measures were associated, possibly because of the small sample.
+Conclusion: Further studies are required to illuminate how adrenarcheal variation relates to developmental plasticity, body composition, pubertal progression, and animal product consumption in other transitional populations.
 
-Abstract: Abstract
-
-
-Abstract_Section: Background
-
-Adrenarche involves maturation of the hypothalamic-pituitary-adrenal axis and increased production of dehydroepiandrosterone and its sulfate ester, dehydroepiandrosterone-sulfate (DHEA-S). It occurs at ages 6 to 8 in industrialized populations, marking the transition from childhood to juvenility and cognitive development at middle childhood. Studies in subsistence level populations indicate a later age (8-9) for adrenarche, but only two such studies currently exist for comparison.
-
-Abstract_Section: Aims
-
-To investigate adrenarcheal age among Maya girls and its association with body composition and dietary variables. We hypothesized adrenarche would occur earlier given the current dual burden of nutrition in Mexico.
-
-Abstract_Section: Materials and Methods
-
-25 Maya girls aged 7 to 9 from Merida, Mexico using ELISAs to measure salivary DHEA-S, standard anthropometry for height, weight, and skinfolds, bioelectrical impedance for body composition variables, as well as a food frequency questionnaire for dietary information.
-
-Abstract_Section: Results
-
-Our hypothesis was rejected—adrenarche occurred close to 9 years. While no measures of body composition were significantly associated with adrenarcheal status, girls eating meat and dairy products more frequently had significantly higher DHEA-S levels.
-
-Abstract_Section: Discussion
-
-Like other populations living in ecologically challenging environments, adrenarche occurred relatively late among Maya girls. Adrenarche has been linked to measures of body composition, particularly, the adiposity or body mass index rebound, but no relevant anthropometric measures were associated, possibly because of the small sample.
-
-Abstract_Section: Conclusion
-
-Further studies are required to illuminate how adrenarcheal variation relates to developmental plasticity, body composition, pubertal progression, and animal product consumption in other transitional populations.
-
-Section: 1 INTRODUCTION
+Section: Introduction, Literature Review
 
 Despite adrenarche's significance in explaining early life plasticity, few anthropological studies have examined this enigmatic developmental phase (Helfrecht, Dira, & Meehan, 2017 ; Houghton et al., 2014 ). Helfrecht et al. ( 2017 ) recently estimated adrenarcheal ages for Aka foragers (9 years), Ngandu horticulturalists (9 years), and Sidama agropastoralists (8 years) in sub-Saharan Africa by comparing dehydroepiandrosterone-sulfate (DHEA-S) levels in hair samples from 480 children aged 3 to 18. Adrenarcheal ages were later than those in industrialized populations (6-8 years) (Maninger, Wolkowitz, Reus, Epel, & Mellon, 2009 ).
 Houghton et al. ( 2014 ) compared adrenarcheal ages using salivary DHEA-S from 419 girls of white British and Bangladeshi ethnicity growing up in Bangladesh or London (Houghton et al., 2014 ). Median adrenarcheal ages were around 7 years, except for first-generation migrants to London (5.3 years). The authors suggested rapid catch-up growth and an earlier body mass index (BMI) (adiposity) rebound might explain this earlier age.
 Here, we present data from a pilot study of salivary DHEA-S levels among Maya girls from Merida, Mexico. The Maya have experienced long-standing marginalization and adversity, and rank among the lowest socioeconomic ethnic groups in Mexico (Azcorra et al., 2013 ). Despite improvements in living conditions, many children are stunted (Wilson, 2011 ) with recent experience of the dual burden of malnutrition (Azcorra et al., 2013 ; Wilson, 2011 ). Since adrenarcheal age is linked to timing of the BMI rebound (Remer & Manz, 1999 ), we hypothesized an earlier adrenarche compared to industrialized populations.
 
-Section: 2 MATERIALS AND METHODS
+Section: Methodology
 
 Twenty-five Maya girls aged 7 to 9, living with their biological mothers and attending state schools, participated (February-August 2010) as part of a larger study on the dual burden (n = 58) (Wilson, 2011 ).
 Anthropometrics were obtained using standardized techniques (Lohman et al., 1999 ). Z-scores for height and weight were derived using Frisancho's Comprehensive Reference from NHANES III (Frisancho, 2008 ; Wilson, 2011 ). Body fat percentage and fat mass were assessed using bioelectrical impedance (Maltron BioScan 916). Body fat percentage, fat mass, and fat free mass (kg) indices were calculated using formulas validated by Lohman et al. ( 1999 ) and Ramírez et al. ( 2012 ), respectively. Birth weight was based on mothers' recall and may be biased upward (Wilson, 2011 ); we used the WHO cutoff of <2.5 kg for low birth weight. Mothers completed a modified version of the Pubertal Development Scale (PDS) for their daughters (Petersen, Crockett, Richards, & Boxer, 1988 ).
@@ -44,19 +23,15 @@ Girls with DHEA-S levels <400 pg/mL (clinical cutoff) (Havelock, Auchus, & Raine
 A Fisher's exact test was used to assess whether being above the sample median for absolute fat percentage, fat mass index, and fat free mass index was associated with being post-adrenarcheal. Overfat was defined as >85th percentile of sex- and age-specific reference curves for body fat derived from British children; no equivalent exists for Maya (McCarthy, Cole, Fry, Jebb, & Prentice, 2006 ). Finally, we assessed birth weight and association with adrenarcheal status using the sample median as well as WHO definition of low birth weight (≤2.5 kg). Statistical analyses used Excel version 16.29.1, and SPSS version 24. Significance was P < .05. Means are shown with standard deviations (SD).
 Girls were recruited through six primary schools and parents gave written or verbal informed consent, and children verbal assent. Ethical approval came from Durham University's Department of Anthropology Ethics Committee, Loughborough University (R09-P145), and the Bioethics Committee of CINVESTAV.
 
-Section: 3 RESULTS
+Section: Results
 
 Supporting Information Table 1S shows descriptive statistics for the sample. Six girls were post adrenarcheal (mean age = 9.0 ± 0.86), while 19 were pre-adrenarcheal (mean age = 8.3 ± 0.56). Fifteen (60%) of 25 saliva samples were <188.9 pg/mL, the functional sensitivity of the DHEA-S assay. Results from the PDS confirmed few girls were post-adrenarcheal (Table 2S ).
 Weight was significantly associated with adrenarcheal status (U = 23.00, P = .030), but not z-score median-for-weight, presumably because this adjusted for age. Of ten stunted girls in the sample, only one (aged 9.12 years) was post-adrenarcheal. Neither height, measured as a continuous variable, nor being stunted was significantly associated with adrenarcheal status. More overweight (>85th percentile of BMI z-scores) and obese girls (>95th percentile of weight-for-height z-scores) were post-adrenarcheal, but no measure relating to body weight status was significantly associated with adrenarche (Figure 1 ).
 There were no significant associations between adrenarche and body fat percentage and fat mass, although twice as many post-adrenarcheal girls scored higher for these indices. No clear pattern between fat free mass index and adrenarcheal status emerged. No statistic related to birth weight was significantly related to adrenarche. Using median birth weight, more pre-adrenarcheal girls (n = 11) had lower birth weight than post-adrenarcheal ones (n = 1).
 Girls with greater weekly meat consumption frequencies had significantly higher DHEA-S (U = 29.00, P = .007). The median DHEA-S level in the lower consumption group was 59.49 pg/mL (IQR: 29.99-104.25 pg/mL) compared to 302.90 pg/mL (IQR: 123.33-430.50 pg/mL) for girls eating meat more frequently (Figure 2 ). Consuming more dairy was also significantly associated with DHEA-S levels (U = 33.00, P = .014). BMI was neither correlated with meat ( r = 0.018, P = .934) nor dairy consumption ( r = −0.359, P = .078).
 
-Section: 4 DISCUSSION
+Section: Discussion, Conclusion
 
 Little is known about normal variation in adrenarcheal age among human populations living in diverse settings. Given increasing overweight/obesity among Maya and the temporal association of adrenarche with the BMI rebound, we hypothesized that the girls studied here would experience adrenarche earlier than those in industrialized societies. However, this hypothesis was rejected since our preliminary data suggested Maya girls reached adrenarche between 8 and 9 years, closer to ages reported for sub-Saharan populations occupying marginal environments (Helfrecht et al., 2017 ). Adrenarcheal status was not significantly associated with most age-adjusted anthropometric, standardized measurements, perhaps reflecting the small sample size. In other studies, adrenarcheal timing appears closely related to changes in body composition and energetic status (Remer & Manz, 1999 ), although a causal relationship between body composition and adrenarche is disputed (Bogin, in press).
 Campbell ( 2020 ) suggests that, given neurological functions of DHEA-S, rising adrenarcheal levels are crucial for cortical maturation and synaptic modification which translate phenotypically into increased competencies in middle childhood. He proposes that adrenarche might be a developmental pathway through which increased meat consumption contributed to brain expansion during Homo evolution. In our study here, higher meat (and dairy) consumption among Maya girls were associated with higher DHEA-S levels.
 The results here push the boundaries of adrenarcheal age later in populations exposed to more challenging ecological conditions relative to girls in well-nourished, affluent settings. How this later transition might affect the timing of adolescence and young adulthood requires further analyses of larger cross-sectional and longitudinal datasets. The consumption of animal products in relation to adrenarche also deserves further investigation.
-
-Section: AUTHOR CONTRIBUTIONS
-
-GB, GC, LH designed the adrenarche study protocol. FD, HW, MV, and PG designed the initial study protocol that formed the core dual burden project. FD trained HW and the fieldwork team in anthropometrics, while MV trained them in bioelectrical impedance techniques. AV and LH collected the salivary samples, and AN conducted the hormonal assays in consultation with GC. SK performed the data analyses in consultation with GB and MV. AN, GB, and SK were the main authors while all others contributed ideas and suggestions to various drafts of the manuscript. We thank the girls who participated in the study and their families, as well as the field assistants who helped in various stages of this project. Special thanks goes to Jenice Tut and Hugo Azcorra who assisted in data collection. Finally we would like to acknowledge the late Dr. Omar Zapata, who kindly stored our saliva samples before analysis.
