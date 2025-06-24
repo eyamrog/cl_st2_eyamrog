@@ -64,7 +64,6 @@ Subgroup and sensitivity analyses were conducted to clarify whether the results 
 The validity of the approach used here to meta-analyze the data has been extensively evaluated by Zheng et al. . For this analysis, dose–response risk estimates were validated by plotting the mean risk function along with its 95% uncertainty interval against both the extracted dose-specific RR data from the studies included and dose–response risk estimates from the GBD 2019 study . Mean risk functions, along with 95% UIs, were validated based on the fit of the data, the shape of the relationship and the plausibility of dose–response risk curves. As a final step, risk curves were validated and approved by all authors.
 Data were extracted and prepared in Microsoft Excel and analyzed using comprehensive meta-analysis software. Analyses were carried out using R v.3.6.2 and Python v.3.8.
 The study was a secondary analysis of existing data involving systematic reviews and meta-analyses. No statistical method was used to predetermine sample size. Because the study did not involve primary data collection, randomization, blinding and data exclusions are not relevant, and because such no data were excluded and we performed no randomization or blinding. We have made our data and code available, to foster reproducibility.
-Further information on research design is available in the Nature Research Reporting Summary linked to this article.
 
 Section: Acknowledgements
 

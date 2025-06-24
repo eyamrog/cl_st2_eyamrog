@@ -60,7 +60,6 @@ Each vaccine parameter is calculated as
 using the amount of vaccination available, w ( t ), at time step t for each country (as determined by the strategy being followed), together with decaying efficacy parameter, υ, with profiles shown in Fig. 4a .
 The variant transmission parameter is updated to a value relative to estimated global variant prevalence at the time point when total infections up to that time step in simulation match total past infection estimates—that is, following the trend of the red line in Fig. 4c .
 In scenarios where some countries have reduced vaccine supply due to increased sharing, it is likely that, without a change to behavior or controls, infections would increase compared to the current scenario. We, therefore, perform two projections, one where the behavior follows inferred levels irrespective of infections and one where behavior adapts. We implement this behavioral response by increasing/decreasing the control parameter, ϕ , for each country that is sharing vaccines, dependent on whether the number of active infections is increasing or decreasing (subject to a 5-day time lag to reflect delays in detection and reaction). An example showing behavior adaptation is given in Fig. 4f .
-Further information on research design is available in the Nature Research Reporting Summary linked to this article.
 
 Section: Acknowledgements
 

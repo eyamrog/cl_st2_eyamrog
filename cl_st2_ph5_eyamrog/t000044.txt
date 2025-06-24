@@ -26,7 +26,6 @@ We did two separate analyses to evaluate the lifetime prevalence of TBI. The fir
 Heterogeneity between studies was quantified with the I 2 statistic. For studies that did not report age of the sample, and for which these data could not be obtained from the corresponding author (n=2), we imputed the weighted mean age of participants from all other studies that were included in the analysis. We conducted sensitivity analyses using the leave-one-out method. We evaluated small-study effects visually with a funnel plot and statistically with Egger's test.
 Finally, we used subgroup analysis and meta-regression to evaluate moderators of individual study estimates of the lifetime prevalence of TBI. We used univariable meta-regression to evaluate unadjusted effects in the analyses of lifetime prevalence and the lifetime prevalence of moderate or severe TBI, and we included all potential moderators, for which appropriate data were available, in a multivariable meta-regression to evaluate adjusted effects in the analysis of lifetime prevalence. We used mixed effects models for all meta-regression analyses.
 All statistical analyses were performed in R (version 3.5.1) with the packages meta (version 4.9-4) and metafor (version 2.0-0).
-The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication.
 
 Section: Results
 
