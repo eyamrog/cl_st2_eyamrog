@@ -1,4 +1,4 @@
-SectionÇ Abstract
+Section: Abstract
 
 Objectives: The goal of the present research is to establish for the first time a hierarchy of sociodemographic factors according to their importance influencing birth seasonality.
 Methods: We used Vital Statistics data on all births registered in Spain in the period 2016–2019. Differences in the degree of seasonality between sociodemographic groups (defined by maternal age, maternal marital status, maternal education, birth order, maternal job qualification, maternal employment status, maternal location population size, and maternal country of birth) were first examined with descriptive techniques. Secondly, analysis through alternative Data Mining techniques determined the association between sociodemographic factors and birth seasonality and the factors importance rank.

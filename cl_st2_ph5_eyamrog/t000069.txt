@@ -1,4 +1,4 @@
-Section Abstract
+Section: Abstract
 
 Background: Progressive respiratory failure is the primary cause of death in the coronavirus disease 2019 (Covid-19) pandemic. Despite widespread interest in the pathophysiology of the disease, relatively little is known about the associated morphologic and molecular changes in the peripheral lung of patients who die from Covid-19.
 Methods: We examined 7 lungs obtained during autopsy from patients who died from Covid-19 and compared them with 7 lungs obtained during autopsy from patients who died from acute respiratory distress syndrome (ARDS) secondary to influenza A(H1N1) infection and 10 age-matched, uninfected control lungs. The lungs were studied with the use of seven-color immunohistochemical analysis, micro–computed tomographic imaging, scanning electron microscopy, corrosion casting, and direct multiplexed measurement of gene expression.

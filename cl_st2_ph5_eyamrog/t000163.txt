@@ -1,4 +1,4 @@
-Secion: Abstract
+Section: Abstract
 
 Objectives: Ethnic groups differ in prevalence of calcium-related diseases. Differences in the physiology and the endogenous circadian rhythm (CR) of calcium and bone homeostasis may play a role. Thus, we aimed to investigate details of CR pattern in calcium and bone homeostasis in East African Maasai.
 Methods: Ten clinically healthy adult Maasai men and women from Tanzania were examined. Blood samples were collected every 2nd hour for 24 h. Serum levels of total calcium, albumin, parathyroid hormone (PTH), 25(OH)D, creatinine, C-terminal telopeptide (CTX), bone-specific alkaline phosphatase (BSAP), procollagen type 1 N-terminal propeptide (P1NP), and osteocalcin were measured. Circadian patterns were derived from graphic curves of medians, and rhythmicity was assessed with Fourier analysis.
