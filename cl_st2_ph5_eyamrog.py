@@ -1,5 +1,5 @@
 # Revising the paragraphs with ChatGPT
-# Usage: (my_env) eyamrog@Rog-ASUS:~/work/cl_st2_eyamrog$ nohup python cl_st1_ph5_eyamrog.py cl_st1_ph5_eyamrog cl_st1_ph5_eyamrog &
+# Usage: (my_env) eyamrog@Rog-ASUS:~/work/cl_st2_eyamrog$ nohup python cl_st2_ph5_eyamrog.py cl_st2_ph5_eyamrog cl_st2_ph5_eyamrog &
 
 import argparse
 from dotenv import load_dotenv
@@ -36,8 +36,7 @@ def main(input_directory, output_directory):
         if df_qjpp.empty:
             raise ValueError("The input file contains no data. Please check the file content.")
         
-        df_qjpp['Submitted'] = pd.to_datetime(df_qjpp['Submitted'], unit='ms')
-        df_qjpp['Posted'] = pd.to_datetime(df_qjpp['Posted'], unit='ms')
+        df_qjpp['Published'] = pd.to_datetime(df_qjpp['Published'], unit='ms')
 
         # Load environment variables from '.env'
         logging.info("Loading environment variables...")
