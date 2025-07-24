@@ -10,6 +10,7 @@ import logging
 from tqdm import tqdm
 import time
 
+
 def main(input_directory, output_directory):
     '''Process and improve text using ChatGPT.'''
     try:
@@ -35,7 +36,7 @@ def main(input_directory, output_directory):
         df_qjpp = pd.read_json(f'{input_directory}/df_qjpp.jsonl', lines=True)
         if df_qjpp.empty:
             raise ValueError("The input file contains no data. Please check the file content.")
-        
+
         df_qjpp['Published'] = pd.to_datetime(df_qjpp['Published'], unit='ms')
 
         # Load environment variables from '.env'
@@ -100,7 +101,7 @@ def main(input_directory, output_directory):
         df_qjpp['Text Paragraph ChatGPT'] = improved_texts
 
         ## Export each paragraph processed by ChatGPT to individual files for inspection
-        #for index, row in df_qjpp.iterrows():
+        # for index, row in df_qjpp.iterrows():
         #    file_name = f"{output_directory}/{row['Text ID']}_{row['Section']}_{row['Paragraph']}_chatgpt.txt"
         #    with open(file_name, 'w', encoding='utf-8') as file:
         #        file.write(row['Text Paragraph ChatGPT'])
@@ -120,6 +121,7 @@ def main(input_directory, output_directory):
         logging.error(f"Data Validation Error: {e}")
     except Exception as e:
         logging.error(f"Unexpected error occurred: {e}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process and improve text using ChatGPT.')
